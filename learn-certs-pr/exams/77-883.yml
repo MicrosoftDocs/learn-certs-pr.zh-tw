@@ -1,0 +1,62 @@
+### YamlMime:Examination
+title: 'MOS: PowerPoint 2010'
+metadata:
+  title: 'Exam 77-883: MOS: PowerPoint 2010'
+  description: 'Exam 77-883: MOS: PowerPoint 2010'
+uid: exam.77-883
+displayName: 77-883
+summary: |-
+  <div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+
+  此測驗的一般應試者為需要在特性與功能級別導覽 PowerPoint 2010 的學生、辦公室工作人員或講師。
+
+  核心 PowerPoint 2010 用戶精通生產力工具，經常與項目中的其他人協作，並個性化他或她的工作環境以提高效率。應試者應該瞭解並能演示如何建立或製作有效、實用的投影片。
+subTitle: 此測驗的一般應試者為需要在特性與功能級別導覽 PowerPoint 2010 的學生、辦公室工作人員或講師。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tkyU
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=77-883&examname=MOS:%20PowerPoint%202010&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-883
+locales:
+- en
+- zh-cn
+- zh-tw
+- de
+- es
+- fr
+- it
+- ja
+- ko
+- nl
+- pt-br
+- ru
+levels:
+- beginner
+skills:
+- 管理 PowerPoint 環境
+- 建立投影片簡報
+- 使用圖形與多媒體元素
+- 建立圖表與表格
+- 套用轉場與動畫
+- 簡報中的合作
+- 準備用於交付的簡報
+- 交付簡報
+roles:
+- business-user
+products:
+- office-powerpoint
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Exam Replay
+  description: 查看兩份可幫助您提高成功幾率的好提議。
+  href: ../deals.md
+- title: 認證儀錶板
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 請求無障礙設施
+  description: 詳細了解有關為測驗申請調整的資訊。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 測驗政策和常見問題
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: ../certification-exam-policies.md
+

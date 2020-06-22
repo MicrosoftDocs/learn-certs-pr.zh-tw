@@ -6,11 +6,8 @@ metadata:
 uid: exam.dp-200
 displayName: DP-200
 summary: |-
-  <div>
   <div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>該測驗的內容更新于 2020 年 3 月 31 日.請下載下面的技能評估文件，以了解發生了什麼變化。<br/><br/></div>
-  </div>
-
+    
   此考試的應試者是Microsoft Azure資料工程師，他們與企業利害關係人合作，識別和滿足資料要求，以實作使用Azure資料服務的資料解決方案。
 
   Azure資料工程師負責與資料相關的實作任務，包括提供資料儲存服務，擷取串流和批次資料，轉換資料，實作安全性要求，實作資料保留原則，辨識效能瓶頸以及存取外部資料來源。
@@ -29,9 +26,8 @@ locales:
 levels:
 - intermediate
 skills:
-- 該測驗的內容更新于 2020 年 3 月 31 日.請下載下面的技能評估文件，以了解發生了什麼變化。
-- '附註：出現在以下文件中所評量的每種技能下方的項目符號旨在說明我們如何評估該技能。此清單不明確或詳盡。'
-- 實作資料儲存解決方案 (40-45%)
+- 附註：出現在以下文件中所評量的每種技能下方的項目符號旨在說明我們如何評估該技能。此清單不明確或詳盡。
+- 實施資料儲存解決方案 (40-45%)
 - 管理和開發資料處理(25-30%)
 - 監控和最佳化資料解決方案 (30-35%)
 roles:
@@ -77,9 +73,9 @@ resources:
   description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
   href: ../help.md
 - title: 認證儀錶板
-  description: 檢閱並管理您的預定測驗、證書和成績單。
+  description: 查看和管理您的預定約會、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 要求住宿
+- title: 請求無障礙設施
   description: 詳細了解有關為測驗申請調整的資訊。
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 測驗政策和常見問題

@@ -2,48 +2,43 @@
 title: 'Microsoft 365 Certified: Messaging Administrator Associate'
 metadata:
   title: 'Microsoft 365 Certified: Messaging Administrator Associate'
-  description: Microsoft 365 Messaging Administrators在內部部署，混合和雲端企業環境中部署，設定，管理和監視訊息傳遞基礎架構，權限，客戶端存取，郵件保護和郵件流程。
+  description: 'Microsoft 365 傳訊管理員在混合和雲端企業環境中部署、設定、管理、疑難排解和監控收件人、權限、郵件保護、郵件流和公用資料夾。'
 uid: certification.m365-messaging-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: Microsoft 365 Messaging Administrators在內部部署，混合和雲端企業環境中部署，設定，管理和監視訊息傳遞基礎架構，權限，客戶端存取，郵件保護和郵件流程。
-subTitle: Microsoft 365 Messaging Administrators在內部部署，混合和雲端企業環境中部署，設定，管理和監視訊息傳遞基礎架構，權限，客戶端存取，郵件保護和郵件流程。
+summary: |-
+  <div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
+
+  Microsoft 365 傳訊管理員在混合和雲端企業環境中部署、設定、管理、疑難排解和監控收件人、權限、郵件保護、郵件流和公用資料夾。
+subTitle: Microsoft 365 傳訊管理員在混合和雲端企業環境中部署、設定、管理、疑難排解和監控收件人、權限、郵件保護、郵件流和公用資料夾。
 levels:
 - intermediate
 skills:
-- 管理現代訊息傳遞基礎架構
-- 管理郵件流程拓撲
-- 管理收件人和裝置
-- 規劃並實作混合設定和移轉
-- 保護訊息傳遞環境
-- 管理組織設置
+- 管理組織設置和資源
+- 規劃和管理郵件體系結構
+- 計劃和實作混合配置和移轉
+- 保護消息傳遞環境
 roles:
 - administrator
 type: role-based
 products:
 - m365
-courses:
-- uid: course.ms-200t01
-- uid: course.ms-200t02
-- uid: course.ms-200t03
-- uid: course.ms-201t01
-- uid: course.ms-201t02
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHd
 exams:
-- uid: exam.ms-200
-- uid: exam.ms-201
+- uid: exam.ms-203
 resources:
 - title: 訓練和認證指南
-  description: 在簡明的訓練和認證指南中探索所有認證。
+  description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 認證海報
   description: 查看基本知識、基於角色的認證和專業認證的概述。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oWP3
-- title: 重測
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
   description: 查看兩份可幫助您提高成功幾率的好提議。
   href: deals.md
 - title: 支持認證
-  description: 通過Microsoft認證支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
+  description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
   href: help.md
 - title: 認證儀錶板
   description: 查看和管理您的預定約會、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
+

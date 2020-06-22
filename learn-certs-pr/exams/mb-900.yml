@@ -6,11 +6,14 @@ metadata:
 uid: exam.mb-900
 displayName: MB-900
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>該測驗已於 2019年12月31日到期。注意: 測驗將在中部標準時間晚間11點59分到期</div>
+  <div>
+  <div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>此測驗已於 2019 年 12 月 31 日停用。可以進行替代考試 MB-901。有關更多資訊，請訪問 <a href="/learn/certifications/exams/mb-901">MB-901 e測驗詳細資訊頁面。</a>.</div>
   <br/>
+  </div>
   本測驗適用於希望展示 Microsoft Dynamics 365，Power Platform 應用程式和雲端計算模型的基礎知識的應試者本測驗將涵蓋採用 Dynamics 365，Power Platform 和雲服務的一般考慮因素和優勢。此測驗可視為Dynamics 365認證和訓練的前身。
 
-  本測驗的應試者應具備資訊科技(IT)環境方面的一般知識或相關工作經驗。應試者還應對商務場景和解決 IT 專案的業務，法律和安全要求的經驗有基本的瞭解
+  本測驗的應試者應具備資訊科技(IT)環境方面的一般知識或相關工作經驗。應試者還應對商務場景和解決 IT 專案的業務，法律和安全要求的經驗有基本的了解。
 subTitle: 此測驗測量您了解Microsoft Dynamics 365; Power 平台; 雲端概念; 授權選項; 以及部署和發行選項的能力。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwVu
@@ -22,12 +25,12 @@ levels:
 - beginner
 skills:
 - 瞭解 Dynamics 365(40-45%)
-- 瞭解雲端服務概念 (25-30%)
+- 了解雲端概念 (25-30%)
 - 瞭解部署和發佈(20-25%)
 retirementDate: 12/31/2019
 roles:
 - developer
-products: 
+products:
 - dynamics
 courses:
 - uid: course.mb-900t01
@@ -37,24 +40,25 @@ relatedCertifications:
 - related:
     uid: certification.d365-fundamentals
 resources:
-- title: 認證學習路徑
+- title: 認證學習途徑
   description: '發現訓練資源，以成為經 Microsoft Certified: Dynamics 365 Fundamentals.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35v9m
 - title: 訓練和認證指南
-  description: 在簡明的訓練和認證指南中探索所有認證。
+  description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 認證海報
-  description: 查看關於基礎知識、角色型和專業認證的概述。
+  description: 查看基本知識、基於角色的認證和專業認證的概述。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: 支持認證考試
   description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
   href: ../help.md
 - title: 認證儀錶板
-  description: 檢閱並管理您的預定測驗、證書和成績單。
+  description: 查看和管理您的預定約會、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 請求無障礙設施
-  description: 瞭解更多有關為您的測驗申請無障礙設施的資訊。
+  description: 詳細了解有關為測驗申請調整的資訊。
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 測驗政策和常見問題
   description: 查看測驗政策和常見問題。
   href: ../certification-exam-policies.md
+

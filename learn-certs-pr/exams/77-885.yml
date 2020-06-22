@@ -1,0 +1,54 @@
+### YamlMime:Examination
+title: Access 2010
+metadata:
+  title: 'Exam 77-885: Access 2010'
+  description: 'Exam 77-885: Access 2010'
+uid: exam.77-885
+displayName: 77-885
+summary: |-
+  <div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+
+  此測驗的典型應試者是需要建立或維護基本 Access 資料庫的用戶支持專業人員、培訓師、教師、教授、資料庫用戶或資料庫建立者。用戶可以建立，修改與擴展基本資料庫對象的功能，包括表格、查詢、表單與報告。用戶還可以構建與修改資料庫實體之間的基本關係，並可以指導他人基本的 Access 功能與用法。Access 2010 用戶通常能夠有效地建立，修改與個性化對象。應試者應能夠獨立地開展資料庫項目工作作，並且可以經常回答其他人關於資料庫的問題。應試者應該瞭解並能演示如何建立或修改簡單的 Access 資料庫以及使用範本來建立基本對象。
+subTitle: 此測驗的典型應試者是需要建立或維護基本 Access 資料庫的用戶支持專業人員、培訓師、教師、教授、資料庫用戶或資料庫建立者。用戶可以建立，修改與擴展基本資料庫對象的功能，包括表格、查詢、表單與報告。用戶還可以構建與修改資料庫實體之間的基本關係，並可以指導他人基本的 Access 功能與用法。Access 2010 用戶通常能夠有效地建立，修改與個性化對象。應試者應能夠獨立地開展資料庫項目工作作，並且可以經常回答其他人關於資料庫的問題。應試者應該瞭解並能演示如何建立或修改簡單的 Access 資料庫以及使用範本來建立基本對象。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiDl
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=77-885&examname=Access%202010&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-885
+locales:
+- en
+- zh-cn
+- zh-tw
+- de
+- es
+- ja
+- ko
+- nl
+- pt-br
+levels:
+- beginner
+skills:
+- 管理“存取”環境
+- 建立表格
+- 組建表單
+- 建立與管理查詢
+- 設計報告
+roles:
+- business-user
+products:
+- office-access
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Exam Replay
+  description: 查看兩份可幫助您提高成功幾率的好提議。
+  href: ../deals.md
+- title: 認證儀錶板
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 請求無障礙設施
+  description: 詳細了解有關為測驗申請調整的資訊。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 測驗政策和常見問題
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: ../certification-exam-policies.md
+

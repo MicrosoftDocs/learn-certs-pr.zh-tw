@@ -6,27 +6,36 @@ metadata:
 uid: exam.az-220
 displayName: AZ-220
 summary: |-
+  <div>
   <div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'> 該測驗的內容更新于 2020 年 5 月 28 日。請下載下面的技能評估文件，以了解發生了什麼變化。<br/><br/></div>
+  </div>
 
-  Azure IoT 開發人員負責實作和建立以及維護 IoT 解決方案的雲端和邊緣部分所需的編碼 。除了透過使用雲服務設定和維護裝置之外，IoT 開發人員還設定實體裝置。IoT 開發人員負責在整個生命週期內維護裝置。
+  參加該測驗的應試者應具有主題知識，可以開發 Azure IoT 解決方案的雲端和邊緣元件。
 
-  IoT 開發人員實作 IoT 解決方案的設計，包括裝置拓撲，連接性，偵錯和安全性。IoT 開發人員部署計算/容器並設定裝置網路。IoT  開發人員實作解決方案的設計，以管理資料管道，包括與 IoT 相關的監視和資料轉換。IoT 開發人員與資料工程師和其他利害關係人合作，以確保成功進行商務整合。
+  Azure IoT 開發人員的職責包括使用雲端服務和其他工具管理設備生命週期(設置、設定和維護)。您可以實作 Azure IoT 解決方案的設計，包括設備拓撲、連線能力、調試和安全性，以及用於管理、監控和轉換與 IoT 相關的資料管線的解決方案。您還可以部署 Azure IoT Edge 元件並在邊緣上設定設備網路。
 
-  IoT 開發人員應充分了解如何實作構成 IoT 解決方案的 Azure 服務，包括資料儲存選項，資料分析，資料處理和平台即服務選項。IoT 開發人員必須能夠識別 IoT 解決方案的代碼部分中的 Azure IoT 服務配置設定，並至少使用一種 Azure 支援的語言，包括 C＃，Node，C 或 Python 執行特定的 IoT 編碼工作。
+  Azure IoT 開發人員與資料工程師和其他利害關係人合作，以確保成功進行商務整合。
+
+  參加該測驗的應試者應具有實作構成 IoT 解決方案的 Azure 服務的經驗，包括資料存儲選項、資料分析、資料處理和平台即服務選項。該角色還應該能夠識別 IoT 解決方案的代碼部分內的 Azure IoT 服務設定設置，並以至少一種 Azure 支援的語言(包括 C＃、Node、C 或 Python)執行特定的 IoT 編碼任務。
 subTitle: '此測驗會評量您實作 IoT 解決方案基礎架構的能力； 佈建和管理裝置； 在 Azure IoT Edge 裝置上實作解決方案; 處理和管理資料； 監視，疑難排解和最佳化 IoT 解決方案; 並實作安全性。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4nBeC
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=AZ-220&examname=Exam%20AZ-220:%20Microsoft%20Azure%20IoT%20Developer&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-220
 locales:
 - en
+- ja
+- zh-cn
+- ko
 levels:
 - intermediate
 skills:
-- 實作 IoT 解決方案基礎架構(15-20%)
-- 佈建和管理裝置(20-25%)
-- 實作 Edge (15-20%)
-- 處理和管理資料(15-20%)
-- 監視，疑難排解和最佳化  IoT 解決方案(15-20%)
+- 該測驗的內容更新于 2020 年 5 月 28 日.請下載下面概述的測驗技能，以了解已發生什麼變化。
+- 實作 IoT 解決方案基礎架構(15 -20%)
+- 佈建和管理裝置(20 -25%)
+- 實作 Edge (15 -20%)
+- 處理和管理資料(15 -20%)
+- 監視，疑難排解和最佳化  IoT 解決方案(15 -20%)
 - 實作安全性 (15-20%)
 roles:
 - developer
@@ -45,6 +54,9 @@ relatedCertifications:
 - related:
     uid: certification.azure-iot-developer-specialty
 resources:
+- title: 認證之旅
+  description: 探索獲得 Azure IoT Developer 專業認證的步驟以及可用來幫助您進行準備的資源。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqz
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
@@ -58,9 +70,9 @@ resources:
   description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
   href: ../help.md
 - title: 認證儀錶板
-  description: 檢閱並管理您的預定測驗、證書和成績單。
+  description: 查看和管理您的預定約會、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 要求住宿
+- title: 請求無障礙設施
   description: 詳細了解有關為測驗申請調整的資訊。
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 測驗政策和常見問題

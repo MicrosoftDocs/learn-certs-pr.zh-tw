@@ -2,18 +2,27 @@
 title: 'Microsoft Office Specialist: Associate (Office 365 and Office 2019)'
 metadata:
   title: 'Microsoft Office Specialist: Associate (Office 365 and Office 2019)'
-  description: 透過取得 Microsoft Office Specialist 認證，展現您具備充分運用 Office 所需的技能。多個 Office program 程式中的 Associate 證書。
+  description: '透過在多個 Office 程式中獲得 Microsoft Office Specialist：Associate 認證，證明您具有充分利用 Office 所需的技能。'
 uid: certification.microsoft-office-specialist-associate-2019
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: 透過取得 Microsoft Office Specialist 認證，展現您具備充分運用 Office 所需的技能。多個 Office program 程式中的 Associate 證書。
-subTitle: 透過取得 Microsoft Office Specialist 認證，展現您具備充分運用 Office 所需的技能。多個 Office program 程式中的 Associate 證書。
+summary: |-
+  <div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
+
+  透過在多個 Office 程式中獲得 Microsoft Office Specialist：Associate 認證，證明您具有充分利用 Office 所需的技能。
+
+  要獲得 Microsoft Office 專家，請執行以下操作&#58; Associate 認證，通過以下三個測驗&#58;
+  - [MO-100&#58; Microsoft Word (Word and Word 2019)](/learn/certifications/exams/mo-100)
+  - [MO-200&#58; Microsoft Excel (Excel and Excel 2019)](/learn/certifications/exams/mo-200)
+  - [MO-300&#58; Microsoft PowerPoint (PowerPoint and PowerPoint 2019)](/learn/certifications/exams/mo-300)
+  - [MO-400&#58; Microsoft Outlook (Outlook and Outlook 2019)](/learn/certifications/exams/mo-400)
+subTitle: '透過在多個 Office 程式中獲得 Microsoft Office Specialist：Associate 認證，證明您具有充分利用 Office 所需的技能。'
 levels:
 - intermediate
 skills:
 - Microsoft Word (Word 和 Word 2019)
 - Microsoft Excel (Excel 和 Excel 2019)
-- Microsoft PowerPoint (PowerPoint 和 owerPoint 2019)
-- Microsoft Outlook (Outlook 和 Outlook 2019) (即將推
+- Microsoft PowerPoint (PowerPoint 和 PowerPoint 2019)
+- Microsoft Outlook (Outlook 和 Outlook 2019)
 roles:
 - business-user
 type: mos
@@ -25,14 +34,15 @@ exams:
 - uid: exam.mo-300
 resources:
 - title: 訓練和認證指南
-  description: 在簡明的訓練和認證指南中探索所有認證。
+  description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 重測
+- title: Exam Replay
   description: 查看兩份可幫助您提高成功幾率的好提議。
   href: deals.md
 - title: 支持認證
-  description: 通過Microsoft認證支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
+  description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
   href: help.md
 - title: 認證儀錶板
   description: 查看和管理您的預定約會、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
+

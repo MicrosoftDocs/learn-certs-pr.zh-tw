@@ -8,10 +8,16 @@ displayName: AZ-300
 summary: |-
   <div>
   <div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>此測驗的新版本, <a href="/learn/certifications/exams/az-303">AZ-303</a>, 將於 2020 年 6 月 29 日當日或前後提供。您將可以參加此測驗，直到2020年9月30日當日或前後淘汰。<br/><br/>您將可以參加此測驗，直到2020年6月2日當日或前後停止提供。請下載下面的技能評估文件，以了解將發生什麼變化。<br/><br/></div>
+  <div style='font-weight&#58; bold;'>此測驗的新版本, <a href="/learn/certifications/exams/az-303">AZ-303</a>, 將於 2020 年 6 月 29 日當日或前後提供。您將可以參加此測驗，直到2020年9月30日當日或前後淘汰。<br/><br/>請下載下面的技能評估文件，以了解將發生什麼變化。<br/><br/></div>
   </div>
 
-  參加此測驗的應試者是 Azure 解決方案架構師，他們為利益相關者提供建議，並將業務需求轉換為安全、可擴展和可靠的解決方案。應試者應該在 IT 運營的各個方面都擁有先進的經驗和知識，包括網絡、虛擬化、身份、安全性、業務連續性、災難恢復、資料管理、預算和治理。該角色要求管理每個領域的決策對整體解決方法的影響方式。應試者必須精通 Azure 管理、Azure 開發 與 DevOps，而且至少要在這些領域中的一個領域中擁有專家水平的技能。
+  參加該測驗的應試者應具有設計和實作可在 Microsoft Azure 上運行的解決方案的主題專業知識，包括計算、網路、存儲和安全性等方面。
+
+  Azure 解決方案架構師的職責包括為利益相關者提供建議，並將業務需求轉換為安全、可擴充且可靠的雲端解決方案。
+
+  Azure解決方案架構師與雲端管理員，雲端DBA和客戶端合作以實作解決方案。
+
+  參加該測驗的考生應具有IT運營各個方面的高階經驗和知識，包括網路、視覺效果、身份、安全性、業務連續性、災難恢復、資料管理、預算和治理——該角色應管理各個領域的決策如何影響整體解決方案。此外，該角色應精通以下 Azure 知識領域中的至少一個：管理、開發或 DevOps。
 subTitle: '這項測驗衡量您完成以下技術任務的能力：部署和配置基礎設施；實作工作量和安全性；創建和部署應用程式；實作身份驗證和安全資料；並針對雲端和 Azure 存儲進行開發。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VzwB
@@ -25,12 +31,12 @@ locales:
 levels:
 - advanced
 skills:
-- 此測驗的新版本 AZ -303，將於 2020 年 6 月 29 日當日或前後提供。您將可以參加此測驗，直到2020年9月30日當日或前後淘汰。您將可以參加此測驗，直到2020年6月2日當日或前後停止提供。請下載下面的技能評估文件，以了解將發生什麼變化。
-- 部署和配置基礎設施 (40-45%)
+- 此測驗的新版本 AZ -303，將於 2020 年 6 月 29 日當日或前後提供。您將可以參加此測驗，直到2020年9月30日當日或前後淘汰。請下載下面概述的測驗技能，以了解將會發生什麼變化。
+- 部署與設定基礎架構 (40-45%)
 - 實作工作量和安全 (25-30%)
-- 創建和部署應用程式 (5-10%)
-- 實作身份驗證和安全資料 (5-10%)
-- 為雲端和 Azure 存儲開發 (15-20%)
+- 建立與部署應用程式 (5-10%)
+- 實作身份驗證與保護資料 (5-10%)
+- 為雲與 Azure 儲存進行開發 (15-20%)
 retirementDate: 09/30/2020
 roles:
 - solution-architect
@@ -78,9 +84,6 @@ relatedCertifications:
 - related:
     uid: certification.azure-solutions-architect
 resources:
-- title: 認證學習途徑
-  description: '發現訓練資源，以成為經 Microsoft Certified: Azure Solutions Architect Expert.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtVsd
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
@@ -94,9 +97,9 @@ resources:
   description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
   href: ../help.md
 - title: 認證儀錶板
-  description: 檢閱並管理您的預定測驗、證書和成績單。
+  description: 查看和管理您的預定約會、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 要求住宿
+- title: 請求無障礙設施
   description: 詳細了解有關為測驗申請調整的資訊。
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 測驗政策和常見問題

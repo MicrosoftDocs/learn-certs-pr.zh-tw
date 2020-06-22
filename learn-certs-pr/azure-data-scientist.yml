@@ -2,19 +2,20 @@
 title: 'Microsoft Certified: Azure Data Scientist Associate'
 metadata:
   title: 'Microsoft Certified: Azure Data Scientist Associate'
-  description: Azure資料科學家套用他們在資料科學和機器學習方面的知識在Azure上實作和執行機器學習工作負載；特別是使用Machine Learning Service。
+  description: 'Azure資料科學家套用他們在資料科學和機器學習方面的知識在Azure上實作和執行機器學習工作負載；特別是使用Machine Learning Service。'
 uid: certification.azure-data-scientist
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
+  <div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
+
   Azure資料科學家套用他們在資料科學和機器學習方面的知識在Azure上實作和執行機器學習工作負載；特別是使用Machine Learning Service。
 subTitle: Azure資料科學家套用他們在資料科學和機器學習方面的知識在Azure上實作和執行機器學習工作負載；特別是使用Machine Learning Service。
 levels:
 - intermediate
 skills:
-- '附註：出現在以下文件中所評量的每種技能下方的項目符號旨在說明我們如何評估該技能。此清單不明確或詳盡。'
-- 設定 Azure 機器學習工作區 
-- 執行實驗和訓練模型 
-- 最佳化和管理模型 
+- 設定 Azure 機器學習工作區
+- 執行實驗和訓練模型
+- 最佳化和管理模型
 - 部署和使用模型
 roles:
 - data-scientist
@@ -30,6 +31,9 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEH
 exams:
 - uid: exam.dp-100
 resources:
+- title: Azure 認證海報
+  description: 查看概述，包括 Azure 的基礎知識、基於角色的和專業認證。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
@@ -43,5 +47,6 @@ resources:
   description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
   href: help.md
 - title: 認證儀錶板
-  description: 檢閱並管理您的預定測驗、證書和成績單。
+  description: 查看和管理您的預定約會、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
+

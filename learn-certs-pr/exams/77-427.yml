@@ -1,0 +1,58 @@
+### YamlMime:Examination
+title: Excel 2013 Expert Part One
+metadata:
+  title: 'Exam 77-427: Excel 2013 Expert Part One'
+  description: 'Exam 77-427: Excel 2013 Expert Part One'
+uid: exam.77-427
+displayName: 77-427
+summary: |-
+  <div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+
+  Excel 2013 測驗的 Expert 等級應試者應具備對 Excel 環境的進階專業知識，並具備指導其他人正確使用 Office Professional Plus Excel 2013 的能力。應試者應瞭解及能夠示範使用應用程式內的進階與專門功能。
+
+  應試者應能針對各種專業用途與狀況建立、管理與發佈專業試算表，並應瞭解如何自訂其 Excel 環境以配合需要與強化生產力。活頁簿範例包括自訂業務範本、多軸財務圖表、攤銷表與庫存盤點排程。應試者角色可能包括會計師、財務分析師、資料分析師、商業銀行家等。
+subTitle: Excel 2013 測驗的 Expert 等級應試者應具備對 Excel 環境的進階專業知識，並具備指導其他人正確使用 Office Professional Plus Excel 2013 的能力。應試者應瞭解及能夠示範使用應用程式內的進階與專門功能。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t557
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=77-427&examname=Excel%202013%20Expert%20Part%20One&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-427
+locales:
+- en
+- zh-cn
+- zh-tw
+- de
+- es
+- fr
+- it
+- ja
+- ko
+- nl
+- pt-br
+- ru
+levels:
+- beginner
+skills:
+- 管理與共享活頁簿
+- 套用自訂格式與設定
+- 建立進階公式
+- 建立進階圖表與表格
+roles:
+- business-user
+products:
+- office-excel
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Exam Replay
+  description: 查看兩份可幫助您提高成功幾率的好提議。
+  href: ../deals.md
+- title: 認證儀錶板
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 請求無障礙設施
+  description: 詳細了解有關為測驗申請調整的資訊。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 測驗政策和常見問題
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: ../certification-exam-policies.md
+

@@ -5,21 +5,33 @@ metadata:
   description: 'MO-200: Microsoft Excel (Excel and Excel 2019)'
 uid: exam.mo-200
 displayName: MO-200
-summary: 獲得此認證的個人擁有大約150個小時的教學經驗和產品實踐經驗，已在產業助理層面證明其能力，並準備進入工作市場。他們可以展示Excel 的主要功能的正確應用，並可以獨立完成任務。
-subTitle: 此測驗測量建立及管理工作表和活頁簿、建立儲存格和範圍、建立資料表、套用公式和函數，並建立圖表和物件的基礎知識。測驗涵蓋建立及編輯含多個工作表的活頁簿的能力，且可使用圖形元素以視覺化方式呈現資料。活頁簿示例包括具有專業外觀的預算、財務報表、團隊績效圖表、銷售發票與資料輸入日誌。
+summary: |-
+  <div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+
+  測驗涵蓋建立及編輯含多個工作表的活頁簿的能力，且可使用圖形元素以視覺化方式呈現資料。工作簿示例包括具有專業外觀的預算、財務報表、團隊績效圖表、銷售發票和資料輸入日誌。應試者應展示出 Excel 主要功能的正確應用，並獨立完成任務。
+subTitle: 此測驗測量建立及管理工作表和活頁簿、建立儲存格和範圍、建立資料表、套用公式和函數，並建立圖表和物件的基礎知識。測驗涵蓋建立及編輯含多個工作表的活頁簿的能力，且可使用圖形元素以視覺化方式呈現資料。工作簿示例包括具有專業外觀的預算、財務報表、團隊績效圖表、銷售發票和資料輸入日誌。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3WXlg
+providers:
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
-providers:
-  - providerType: certiport
-    examUrl: https://www.certiport.com/locator
+- en-my
+- nl
+- fr
+- de
+- id-id
+- ko
+- pt-br
+- es
+- it
 levels:
 - intermediate
 skills:
 - 管理工作表與活頁簿 (10-15%)
 - 管理資料儲存格與範圍 (20-25%)
-- 管理表格和表格資料 (15-20%)
+- 管理表格和表資料 (15-20%)
 - 使用公式與函數執行操作 (20-25%)
 - 管理圖表 (20-25%)
 roles:
@@ -32,14 +44,15 @@ relatedCertifications:
     uid: certification.mos-excel-2019
 resources:
 - title: 訓練和認證指南
-  description: 在簡明的訓練和認證指南中探索所有認證。
+  description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 認證儀錶板
   description: 查看和管理您的預定約會、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 申請調整
+- title: 請求無障礙設施
   description: 詳細了解有關為測驗申請調整的資訊。
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 測驗政策和常見問題
   description: 查看測驗政策和常見問題。
   href: ../certification-exam-policies.md
+

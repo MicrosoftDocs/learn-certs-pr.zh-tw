@@ -1,0 +1,296 @@
+### YamlMime:Course
+title: 'Upgrading Your Skills to MCSA: Windows Server 2016'
+metadata:
+  title: 'Course 20743-C: Upgrading Your Skills to MCSA: Windows Server 2016'
+  description: 'Course 20743-C: Upgrading Your Skills to MCSA: Windows Server 2016'
+uid: course.20743
+courseNumber: '20743-C'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 安裝和設定 Windows Server 2016。
+- skill: 描述 Windows Server 2016 中的存儲。
+- skill: 實作目錄服務。
+- skill: 實作 Active Directory Federation Services (AD FS)。
+- skill: 描述網路。
+- skill: 實作 Hyper-V。
+- skill: 設定高級網路功能。
+- skill: 實作軟體定義的網路。
+- skill: 實作遠端存取。
+- skill: 部署和管理 Windows 和 Hyper-V 容器。
+- skill: 實作容錯移轉叢集。
+- skill: 使用虛擬機器實作容錯移轉叢集。
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- administrator
+products:
+- windows-server
+exams:
+- uid: exam.70-743
+summary: |-
+  此為期五天的講師指導課程介紹如何實作和設定 Windows Server 2016 的新功能。本課程面向希望將其技術技能從 Windows Server 2008 或 Windows Server 2012 升級到 Windows Server 2016 的資訊技術 (IT) 專業人員。本課程假定您具有與 Microsoft Certified Solutions Associate (MCSA) 等效的以前的 Windows Server 技術和技能的高水平知識：Windows Server 2008 或 Windows Server 2012 認證。
+
+  本課程不是產品升級課程，它詳細介紹了將學生特定環境遷移和升級到 Windows Server 2016 的注意事項。相反，本課程提供與 Windows Server 2016 有關的學生現有 Windows Server 知識和技能的更新。
+
+  #### 對象設定檔
+  本課程適用於經驗豐富的 Windows Server 2012 或 Windows Server 2008 系統管理員，在 Windows Server 2008 R2 或 Windows Server 2008 企業環境中具有實際經驗的 IT 專業人員。此外，學生應該已經獲得 Windows Server 2008 或 Windows Server 2012 的 MCSA 證書，或者他們應該具有同等的知識。 
+
+  此外，計劃參加 Microsoft 認證解決方案專家 (MCSE) 測驗的 IT 專業人員可能會對本課程感興趣，作為 MCSA 測驗的準備，這是 MCSE 專業的先決條件。
+prerequisitesSection: |-
+  在參加本課程之前，學生必須具備&#58;
+  - 兩年或以上的部署和管理 Windows Server 2012 或 Windows Server 2008 環境的經驗； NS 具有管理和維護日常 Windows Server 2012 或 Windows Server 2008 系統管理任務的經驗。
+  - 具有 Windows 網路技術和實作方面的經驗。
+  - 具有 Active Directory 技術和實作方面的經驗。
+  - 具有 Windows Server 視覺效果技術和實作方面的經驗。
+  - 與 Windows Server 2008 或 Windows Server 2012 的 MCSA 認證等效的知識。
+outlineSection: |-
+  ### 模塊 1&#58; 安装和設定 Windows Server 2016
+  本模塊說明如何安裝和執行 Windows Server 2016 伺服器的安裝後設定。
+  #### 課程
+  - Windows Server 2016 導論
+  - 安裝 Windows Server 2016
+  - 設定 Windows Server 2016
+  - 準備升級和遷移
+  - 遷移伺服器角色和工作負載
+  - Windows Server 激活模型
+
+
+  #### 實驗室 &#58; 安裝和設定 Server Core
+  - 安裝 Server Core
+  - 在 Windows Server 2016 Core 上完成安裝後任務
+  - 執行遠端管理
+
+  完成本課程後，學生將能夠&#58;
+  - 說明 Windows Server 2016。
+  - 安裝 Windows Server 2016 。
+  - 設定 Windows Server 2016。
+  - 準備升級和遷移。
+  - 移轉伺服器與工作負載
+  - 描述 Windows Server 啟動模型。
+
+
+  ### 模塊 2&#58; Windows Server 2016 中的存儲概述
+  本模塊說明如何在 Windows Server 2016 中設定存儲。
+  #### 課程
+  - Windows Server 2016 中的存儲概述
+  - 實作 Data Deduplication
+  - 設定 iSCSI 存儲
+  - 在 Windows Server 2016 中設定存儲空間功能
+
+
+  #### 實驗室 &#58; 實作和管理存儲
+  - 實作檔案伺服器資源管理員 (FSRM)
+  - 實作 Data Deduplication
+  - 設定 iSCSI 存儲
+
+  完成本單元後，學生將能夠&#58;
+  - 說明 Windows Server 2016 中的存儲。
+  - 實現重複數據刪除。
+  - 設定 iSCSI 儲存。
+  - 在 Windows Server 2016 中設定存儲空間功能。
+
+
+  ### 模塊 3&#58; 實作目錄服務
+  本模塊說明如何實作目錄服務功能。
+  #### 課程
+  - 部署 Active Directory 網域控制站
+  - 實作服務帳戶
+  - Azure AD
+
+
+  #### 實驗室 &#58; 實作和管理 AD DS
+  - 克隆網域控制站
+  - 實作服務帳戶
+
+  完成本單元後，學生將能夠&#58;
+  - 部署 AD DS 網域控制站。
+  - 實作服務帳戶。
+  - 說明 Azure AD。
+
+
+  ### 模塊 4&#58; 實作 AD FS
+  本模塊說明如何實作 AD FS 部署。
+  #### 課程
+  - AD FS 概述
+  - 部署 AD FS
+  - 為單個組織實作 AD FS
+  - 實作 Web Application Proxy
+  - 透過 Microsoft 在線服務實作 SSO
+
+
+  #### 實驗室 &#58; 實作 AD FS
+  - 安裝和設定 AD FS
+  - 為AD FS配置內部應用程序
+
+
+  #### 實驗室 &#58; 實作 Web 應用程式 Proxy
+  - 實作 Web Application Proxy
+
+  完成本單元後，學生將能夠&#58;
+  - 描述 AD FS。
+  - 部署 AD FS。
+  - 為單個組織實作 AD FS。
+  - 實作 Web Application Proxy。
+  - 透過 Microsoft 線上服務實作 SSO。
+
+
+  ### 模塊 5&#58; 實作網路服務
+  本模塊說明如何為動態主機設定通訊協定 (DHCP) 設定高階功能以及如何設定 IP 地址管理 (IPAM)。
+  #### 課程
+  - 網路增強概述
+  - 實作 PAM
+  - 使用 IPAM 管理 IP 地址空間
+
+
+  #### 實驗室 &#58; 實作網路服務
+  - 設定 DNS 策略
+  - 設定 DHCP 容錯移轉
+  - 設定 IPAM
+
+  完成本單元後，學生將能夠&#58;
+  - 描述網路增強功能。
+  - 實作 IP 地址管理。
+  - 使用 IPAM 管理 IP 地址空間。
+
+
+  ### 模塊 6&#58; 實作網路服務
+  本模塊說明如何安裝和設定 Hyper-V 虛擬機器。
+  #### 課程
+  - 在 Windows Server 2016 中設定 Hyper-V 角色
+  - 設定 Hyper-V 存儲
+  - 設定 Hyper-V 網路
+  - 設定 Hyper-V 虛擬機
+
+
+  #### 實驗室 &#58; 使用 Hyper-V 實作伺服器虛擬化
+  - 安裝 Hyper-V 伺服器角色
+  - 設定虛擬網路
+  - 建立和設定虛擬機器
+
+  完成本單元後，學生將能夠&#58;
+  - 在 Windows Server 2016 中設定 Hyper-V 角色。
+  - 設定 Hyper-V 存放裝置。
+  - 設定 Hyper-V 網路功能。
+  - 設定 Hyper-V 虛擬機。
+
+
+  ### 模塊 7&#58; 設定高級聯網功能
+  本模組說明如何實作高級網路基礎結構。
+  #### 課程
+  - 概述高性能網路功能
+  - 設定高階 Hyper-V 網路功能
+
+
+  #### 實驗室 &#58; 設定高級 Hyper-V 網路功能
+  - 建立和使用 Hyper-V 虛擬交換機
+  - 設定和使用虛擬交換機的高級功能
+
+  完成本單元後，學生將能夠&#58;
+  - 描述高效能網路功能。
+  - 設定高階 Hyper-V 網路功能。
+
+
+  ### 模塊 8&#58; 實作軟體定義的網路
+  本模塊說明如何實作軟體定義的網路。
+  #### 課程
+  - SDN 概述
+  - 實作網路虛擬化
+  - 實作 Network Controller
+
+
+  #### 實驗室 &#58; 部署 Network Controller
+  - 準備部署 Network Controller
+  - 部署 Network Controller
+
+  完成本單元後，學生將能夠&#58;
+  - 描述軟體定義的網路。
+  - 實作網路虛擬化。
+  - 實作 Network Controller。
+
+
+  ### 模塊 9&#58; 實作遠端存取
+  本模塊說明如何使用 DirectAccess 功能為遠端用戶設定連線能力。
+  #### 課程
+  - 遠端存取概述
+  - 實作 DirectAccess
+  - 實作VPN
+
+
+  #### 實驗室 &#58; 實作 DirectAccess
+  - 使用開始使用精靈設定 DirectAccess
+  - 測試 DirectAccess
+
+  完成本單元後，學生將能夠&#58;
+  - 描述常見的遠端存取解決方案和技術。
+  - 實作 DirectAccess。
+  - 實作 VPN。
+
+
+  ### 模塊 10&#58; 部署和管理 Windows 和 Hyper-V 容器
+  本模塊概述 Windows Server 2016 容器。此外，它還說明如何在 Windows Server 2016 中部署、安裝、設定和管理容器。
+  #### 課程
+  - 概述 Windows Server 2016 中的容器
+  - 準備容器
+  - 使用 Docker 安裝、設定和管理容器
+
+
+  #### 實驗室 &#58; 安裝和設定容器
+  - 安裝適用於 Windows Server 2016 的 Docker 企業版
+  - 安裝和設定 IIS 容器
+
+  完成本單元後，學生將能夠&#58;
+  - 描述 Windows Server 2016 中的容器。
+  - 說明如何部署容器。
+  - 說明如何使用Docker安裝，配置和管理容器。
+
+
+  ### 模塊 11&#58; 實作故障移轉群集
+  本模塊說明如何實作容錯移轉叢集以為網路服務和應用程式提供高可用性。
+  #### 課程
+  - 容錯移轉叢集概觀
+  - 實作容錯移轉叢集
+  - 在容錯移轉叢集上設定高可用性應用程式和服務
+  - 維護故障移轉群集
+  - 實作延展式叢集
+
+
+  #### 實驗室 &#58; 實施容錯移轉叢集
+  - 設定 iSCSI 存儲
+  - 設定容錯移轉叢集
+  - 部署和設定高可用性文檔伺服器
+  - 驗證高可用性文檔伺服器的部署
+  - 在容錯移轉叢集上設定 CAU
+
+  完成本單元後，學生將能夠&#58;
+  - 描述容錯移轉叢集的概念。
+  - 實作容錯移轉叢集。
+  - 在容錯移轉叢集上設定高可用性應用程式和服務。
+  - 維護故障移轉群集。
+  - 實作延展容錯移轉叢集。
+
+
+  ### 模塊 12&#58; 使用 Windows Server 2016 Hyper-V 實作故障移轉群集
+  本模塊說明如何在容錯移轉叢集中部署和管理 Hyper-V 虛擬機器。
+  #### 課程
+  - 概述 Hyper-V Server 2016 與故障移轉群集的集成
+  - 在容錯移轉叢集上實作 Hyper-V 虛擬機器
+  - 實作 Windows Server 2016 Hyper-V 虛擬機器遷移
+  - 實作 Hyper-V 複本
+
+
+  #### 實驗室 &#58; 使用Windows Server 2016 Hyper-V 實作容錯移轉叢集
+  - Hyper-V 容錯移轉叢集測試環境
+  - 設定 Hyper-V 複本
+  - 為 Hyper-V 設定故障移轉群集
+  - 設定高可用性虛擬機器
+
+  完成本單元後，學生將能夠&#58;
+  - 描述 Windows Server 2016 Hyper-V 如何與容錯移轉叢集整合。
+  - 在容錯移轉叢集上實作 Hyper-V 虛擬機器。
+  - 實作 Hyper-V 虛擬機器遷移。
+  - 實作 Hyper-V 複本。
+

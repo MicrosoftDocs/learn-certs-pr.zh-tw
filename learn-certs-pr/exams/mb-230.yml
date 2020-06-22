@@ -6,17 +6,20 @@ metadata:
 uid: exam.mb-230
 displayName: MB-230
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>該測驗的內容已於 2019 年 4 日更新。請下載下面評量文件的技能以了解更多資訊。<br/><br/></div>
-  
+  <div>
+  <div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'> 該測驗的內容更新于 2020 年 5 月 1 日.請下載下面的技能評估文件，以了解發生了什麼變化。<br/><br/></div>
+  </div>
+
   本測驗的應試者是具有客戶服務專業知識的 Dynamics 365 功能顧問。應試者負責實施全渠道解決方案，重點關註服務、質量、可靠性、效率和客戶滿意度。
   <br/>
 
   應試者設計和實現由解決方案架構師提供並與之協作的服務管理可視化和報告。應試者與 Dynamics 365 管理員合作，實現和升級 Power 平台組件，包括知識庫和 Forms Pro。
-  
+
   應試者必須通過 Dynamics 365 客戶服務擁有強大的應用知識，滿足用戶需求，包括對案例、知識庫、佇列、權利、服務水平協議(SLA)、可視化和統一服務臺的深入理解。
-  
+
   應聘者應該了解行業術語、優先級、標準、方法、客戶服務操作和最佳實踐。應試者應該包括對客戶服務應用程式在 Dynamics 365 應用程式套件中的角色的全面理解，以及對解決方案體系結構和品質保證的基本理解
-subTitle: '此測驗測量您在完成以下技術任務時的能力：執行設定；管理案例與知識庫; 管理隊列，權利和 SLA; 以及設定客戶之聲。'
+subTitle: '本測試衡量您完成以下技術任務的能力：執行配置；管理案例和知識庫；管理隊列、權利和 SLA；並設定 Forms Pro。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJVu
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=MB-230&examname=Exam%20MB-230:%20Microsoft%20Dynamics%20365%20for%20Customer%20Service&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-230
@@ -25,15 +28,14 @@ locales:
 levels:
 - intermediate
 skills:
-- 該測驗的內容已於 2019 年 4 日更新。請下載下面評量文件的技能以了解更多資訊。
-- '附註：出現在以下文件中所評量的每種技能下方的項目符號旨在說明我們如何評估該技能。此清單不明確或詳盡。'
+- 該測驗的內容更新于 2020 年 5 月 1 日.請下載下面概述的測驗技能，以了解已發生什麼變化。
 - 執行配置(25-30%)
 - 管理服務案與知識庫 (30-35%)
 - 管理隊列、權利和 SLA (25-30%)
-- 配置客戶之聲(15-20%)
+- 設定Forms Pro(15-20%)
 roles:
 - functional-consultant
-products: 
+products:
 - dynamics
 - dynamics-customer-service
 exams:
@@ -49,14 +51,14 @@ relatedCertifications:
 - related:
     uid: certification.d365-functional-consultant-customer-service
 resources:
-- title: 認證學習路徑
+- title: 認證學習途徑
   description: '發現訓練資源，以成為經 Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35KL2
 - title: 訓練和認證指南
-  description: 在簡明的訓練和認證指南中探索所有認證。
+  description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 認證海報
-  description: 查看關於基礎知識、角色型和專業認證的概述。
+  description: 查看基本知識、基於角色的認證和專業認證的概述。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
   description: 查看兩份可幫助您提高成功幾率的好提議。
@@ -65,11 +67,12 @@ resources:
   description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
   href: ../help.md
 - title: 認證儀錶板
-  description: 檢閱並管理您的預定測驗、證書和成績單。
+  description: 查看和管理您的預定約會、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 請求無障礙設施
-  description: 瞭解更多有關為您的測驗申請無障礙設施的資訊。
+  description: 詳細了解有關為測驗申請調整的資訊。
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 測驗政策和常見問題
   description: 查看測驗政策和常見問題。
   href: ../certification-exam-policies.md
+

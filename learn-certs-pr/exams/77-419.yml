@@ -1,0 +1,47 @@
+### YamlMime:Examination
+title: Microsoft SharePoint 2013
+metadata:
+  title: 'Exam 77-419: Microsoft SharePoint 2013'
+  description: 'Exam 77-419: Microsoft SharePoint 2013'
+uid: exam.77-419
+displayName: 77-419
+summary: |-
+  <div><div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+  <div><strong>此測驗於 2020 年 6 月 30 日淘汰。可能會有替換測驗。若要進一步瞭解，請造訪我們的部落格<a href='https://www.microsoft.com/en-us/learning/community.aspx'>https://www.microsoft.com/en-us/learning/community.aspx</a>  並檢閱我們的測驗停止公告。附註：測驗將在中部標準時間晚間11點59分到期。<br/><br/></strong></div>
+  </div>
+
+  Microsoft SharePoint 2013 測驗的應試者應徹底瞭解 SharePoint 環境，能夠執行所有網站層級的工作。應試者應瞭解並能展現如何正確應用 SharePoint 2013 的主要網站、文件庫和清單功能。應試者應有能力最佳化及自訂 SharePoint 網站，以提供結構、解決問題、促進共同作業及提升生產力。應用的範例包括管理清單權限、新增內容至快速啟動、建立小組網站及修改文件庫檢視。應試者角色可能包括技術支援員工、專案經理、小組主管、部門主管等。
+subTitle: Microsoft SharePoint 2013 測驗的應試者應徹底瞭解 SharePoint 環境，能夠執行所有網站層級的工作。應試者應瞭解並能展現如何正確應用 SharePoint 2013 的主要網站、文件庫和清單功能。應試者應有能力最佳化及自訂 SharePoint 網站，以提供結構、解決問題、促進共同作業及提升生產力。應用的範例包括管理清單權限、新增內容至快速啟動、建立小組網站及修改文件庫檢視。應試者角色可能包括技術支援員工、專案經理、小組主管、部門主管等。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4toX6
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=77-419&examname=Microsoft%20SharePoint%202013&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-419
+locales:
+- en
+levels:
+- beginner
+skills:
+- 創建和格式化內容(25-30%)
+- 管理SharePoint網站 (30-35%)
+- 參與使用者社區(15-20%)
+- 設定和使用網站搜尋結果(15-20%)
+roles:
+- business-user
+products:
+- office-sp
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Exam Replay
+  description: 查看兩份可幫助您提高成功幾率的好提議。
+  href: ../deals.md
+- title: 認證儀錶板
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 請求無障礙設施
+  description: 詳細了解有關為測驗申請調整的資訊。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 測驗政策和常見問題
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: ../certification-exam-policies.md
+

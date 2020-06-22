@@ -6,18 +6,22 @@ metadata:
 uid: exam.ai-100
 displayName: AI-100
 summary: |-
+  <div>
+  <div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>該測驗的內容更新于 2020 年 5 月 20 日.請下載下面的技能評估文件，以了解發生了什麼變化。<br/><br/></div>
+  </div>
+
   本測驗的應試者將分析AI 解決方案的需求，推薦合適的工具和技術，並實作滿足可伸縮性和效能要求的解決方案。
-  <br/>
 
   應試者從解決方案架構師那裡轉化願景，並與資料科學家，資料工程師，IoT專家和AI開發人員合作，構建完整的端到端解決方案。應試者設計並實作使用Microsoft Azure認知服務和Azure 機器人服務的AI應用程式和代理。應試者可以推薦使用開放原始碼技術的解決方案。
 
   應試者知道組成 Azure 人工智慧 (AI)組合的各種組件，以及可用的資料儲存選項。
 
   應試者實作AI解決方案，在Azure中使用Cognitive Services，Azure機器人，Azure搜尋和資料儲存。應試者應了解何時應開發自定義API以滿足特定要求。
-subTitle: '這項測驗衡量您完成以下技術任務的能力:分析解決方案要求；設計解決方案；將 AI 模型整合到解決方案中；並部署和管理解決方案。'
+subTitle: '這項測驗衡量您完成以下技術任務的能力：分析解決方案要求；設計解決方案；將 AI 模型整合到解決方案中；並部署和管理解決方案。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC6C
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AI-100&examname=Exam%20AI-100:%20Designing%20and%20Implementing%20an%20Azure%20AI%20Solution&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fai-100
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=AI-100&examname=Exam%20AI-100:%20Designing%20and%20Implementing%20an%20Azure%20AI%20Solution&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fai-100
 locales:
 - en
 - ja
@@ -26,9 +30,9 @@ locales:
 levels:
 - intermediate
 skills:
-- '附註:出現在以下文件中所評量的每種技能下方的項目符號旨在說明我們如何評估該技能。此清單不明確或詳盡。'
-- 分析工作量要求 (25-30%)
-- 設計 AI 策略 (40-45%)
+- 該測驗的內容更新于 2020 年 5 月 20 日.請下載下面概述的測驗技能，以了解已發生什麼變化。
+- 分析解決方案要求 (25-30%)
+- 設計AI解決方案 (40-45%)
 - 實作和監控 AI 解決方案 (25-30%)
 roles:
 - ai-engineer
@@ -50,6 +54,9 @@ relatedCertifications:
 - related:
     uid: certification.azure-ai-engineer
 resources:
+- title: 認證之旅
+  description: 探索獲得 Azure AI Engineer Associate認證的步驟以及可用來幫助您進行準備的資源。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ww2u
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
@@ -63,11 +70,12 @@ resources:
   description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
   href: ../help.md
 - title: 認證儀錶板
-  description: 檢閱並管理您的預定測驗、證書和成績單。
+  description: 查看和管理您的預定約會、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 申請調整
+- title: 請求無障礙設施
   description: 詳細了解有關為測驗申請調整的資訊。
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 測驗政策和常見問題
   description: 查看測驗政策和常見問題。
   href: ../certification-exam-policies.md
+

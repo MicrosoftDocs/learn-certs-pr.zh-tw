@@ -6,22 +6,24 @@ metadata:
 uid: exam.md-100
 displayName: MD-100
 summary: |-
+  <div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+
   如果您在2019年3月31日到期之前通過了[Exam  70-698](https://www.microsoft.com/learning/exam-70-698.aspx)，您只需要參加測驗 MD-101 即可獲得現代桌面認證。參加此測驗的應試者在企業環境中部署、配置、保護、管理和監視設備和客戶端應用程式的管理員。應試者管理身份、存取、策略、更新與應用程式。
 
   作為管理員，應試者通常與 Microsoft 365 企業管理員合作來設計與實作滿足現代組織業務需求的裝置策略。
 
   應試必須熟悉 Microsoft 365 工作負載，並且必須在部署，設定與維護 Windows 10 與非 Windows 裝置與技術方面具有豐富的經驗與經驗。
-subTitle: '此測驗測量您在完成以下技術任務時的能力:部署 Windows；管理設備與資料；設定連接性；以及維護 Windows。如果您在2019年3月31日到期之前通過了Exam 70-698，您只需要參加測驗 MD-101 即可獲得現代桌面認證。'
+subTitle: '此測驗測量您在完成以下技術任務時的能力：部署 Windows；管理設備與資料；設定連接性；以及維護 Windows。如果您在2019年3月31日到期之前通過了Exam 70-698，您只需要參加測驗 MD-101 即可獲得現代桌面認證。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJVC
 practiceTestUrl: https://www.mindhub.com/md-100-windows-10-microsoft-official-practice-test/p/MU-MD-100?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=MD-100&examname=Exam%20MD-100:%20Windows%2010&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmd-100
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=MD-100&examname=Exam%20MD-100:%20Windows%2010&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmd-100
 locales:
 - en
 levels:
 - intermediate
 skills:
-- '附註:出現在以下文件中所評量的每種技能下方的項目符號旨在說明我們如何評估該技能。此清單不明確或詳盡。'
+- 附註：出現在以下文件中所評量的每種技能下方的項目符號旨在說明我們如何評估該技能。此清單不明確或詳盡。
 - 部署 Windows (15-20%)
 - 管理裝置和資料 (35-40%)
 - 設定連線性 (15-20%)
@@ -34,10 +36,9 @@ products:
 exams:
 - uid: exam.md-101
 courses:
-- uid: course.md-100t01
-- uid: course.md-100t02
-- uid: course.md-100t03
-- uid: course.md-100t04
+- uid: course.md-100t00
+paths:
+- uid: learn-m365.microsoft-365-get-modern
 relatedCertifications:
 - related:
     uid: certification.modern-desktop
@@ -58,11 +59,12 @@ resources:
   description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
   href: ../help.md
 - title: 認證儀錶板
-  description: 檢閱並管理您的預定測驗、證書和成績單。
+  description: 查看和管理您的預定約會、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 申請調整
+- title: 請求無障礙設施
   description: 詳細了解有關為測驗申請調整的資訊。
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 測驗政策和常見問題
   description: 查看測驗政策和常見問題。
   href: ../certification-exam-policies.md
+

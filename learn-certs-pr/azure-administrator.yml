@@ -2,14 +2,20 @@
 title: 'Microsoft Certified: Azure Administrator Associate'
 metadata:
   title: 'Microsoft Certified: Azure Administrator Associate'
-  description: 'Azure管理員實作、監控和維護 Microsoft Azure 解決方案，包括與計算、儲存、網路和安全性相關的主要服務。'
+  description: 'Azure 管理員實作、管理和監控組織的 Microsoft Azure 環境。'
 uid: certification.azure-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div style='color&#58; red;'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong><br/><br/></font></div>
 
-  Azure管理員實作、監控和維護 Microsoft Azure 解決方案，包括與計算、儲存、網路和安全性相關的主要服務。
-subTitle: Azure管理員實作、監控和維護 Microsoft Azure 解決方案，包括與計算、儲存、網路和安全性相關的主要服務。
+  Azure Administrator Associate 認證的應試者應具有在實作、管理和監控組織的 Microsoft Azure 環境方面的主題專業知識。
+
+  擔任此角色的職責包括在雲端環境中實作、管理和監控身份、治理、存儲、計算和虛擬網路，以及在需要時提供、調整大小、監控和調整資源。
+
+  Azure 管理員通常是專門用於實作組織的雲端基礎結構的較大團隊的一部分。
+
+  參加此認證的應試者應至少具有六個月的 Azure 管理實踐經驗，並對核心 Azure 服務、Azure 工作負載、安全性和治理有深入的了解。此外，該角色應具有使用 PowerShell、Azure CLI、Azure 門戶和 Azure 資源管理員模板的經驗。
+subTitle: Azure 管理員實作、管理和監控組織的 Microsoft Azure 環境。
 levels:
 - intermediate
 skills:
@@ -29,23 +35,22 @@ products:
 - azure-virtual-network
 - azure-resource-manager
 courses:
+- uid: course.az-010t00
 - uid: course.az-104t00
 paths:
-- uid: learn.administer-infrastructure-resources-in-azure
-- uid: learn.architect-storage-infrastructure
-- uid: learn.architect-network-infrastructure
-- uid: learn.architect-infrastructure-operations
-- uid: learn.architect-compute-infrastructure
-- uid: learn.architect-migration-bcdr
-- uid: learn.manage-resources-in-azure
-- uid: learn.security.manage-identity-and-access
-- uid: learn.security.manage-security-operations
-- uid: learn.security.implement-resource-mgmt-security
-- uid: learn.administer-containers-in-azure
+- uid: learn.az104-admin-prerequisites
+- uid: learn.az-104-manage-identities-governance
+- uid: learn.az-104-manage-storage
+- uid: learn.az-104-manage-compute-resources
+- uid: learn.az-104-manage-virtual-networks
+- uid: learn.az-104-monitor-backup-resources
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUF
 exams:
 - uid: exam.az-104
 resources:
+- title: Azure 認證海報
+  description: 查看概述，包括 Azure 的基礎知識、基於角色的和專業認證。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
@@ -59,6 +64,6 @@ resources:
   description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
   href: help.md
 - title: 認證儀錶板
-  description: 檢閱並管理您的預定測驗、證書和成績單。
+  description: 查看和管理您的預定約會、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
 

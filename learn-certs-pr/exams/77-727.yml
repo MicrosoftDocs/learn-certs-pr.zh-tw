@@ -1,27 +1,28 @@
 ### YamlMime:Examination
 title: 'Excel 2016: Core Data Analysis, Manipulation, and Presentation'
 metadata:
-  title: '測驗 77-727: Excel 2016: Core Data Analysis, Manipulation, and Presentation'
-  description: '測驗 77-727: Excel 2016: Core Data Analysis, Manipulation, and Presentation'
+  title: 'Exam 77-727: Excel 2016: Core Data Analysis, Manipulation, and Presentation'
+  description: 'Exam 77-727: Excel 2016: Core Data Analysis, Manipulation, and Presentation'
 uid: exam.77-727
 displayName: 77-727
-summary: >
-  成功申請 Microsoft Office Excel 2016 認證測驗的人員對 Excel 環境與獨立完成任務的能力有基本的瞭解。應試者瞭解且可示範 Excel 2016 主要功能的正確應用。應試者可建立及編輯含多個工作表的活頁簿，且可使用圖形元素以視覺化方式呈現資料。活頁簿示例包括具有專業外觀的預算、財務報表、團隊績效圖表、銷售發票與資料輸入日誌。
+summary: |+
+  <div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
 
+  成功申請 Microsoft Office Specialist Excel 2016 認證測驗的人員對 Excel 環境和獨立完成任務的能力有基本的了解。應試者瞭解且可示範 Excel 2016 主要功能的正確應用。應試者可建立及編輯含多個工作表的活頁簿，且可使用圖形元素以視覺化方式呈現資料。工作簿示例包括具有專業外觀的預算、財務報表、團隊績效圖表、銷售發票和資料輸入日誌。
 
   Microsoft Office Specialist (MOS) 2016 認證測驗為使用 MOS 2016 計劃改進對應試者的知識、技能及能力的測試而引進新的基於性能的格式&#58;
-
   - MOS 2016 測驗任務說明一般不包括命令名稱，如舊版所示。例如，會避免出現函數名稱並將其取代為描述元。這表示，應試者必須瞭解計畫功能的用途及一般使用方式，才能成功完成每個專案中的任務。
-
   - MOS 2016 測驗格式併入多個專案。
-subTitle: 成功申請 Microsoft Office Excel 2016 認證測驗的人員對 Excel 環境與獨立完成任務的能力有基本的瞭解。應試者瞭解且可示範 Excel 2016 主要功能的正確應用。應試者可建立及編輯含多個工作表的活頁簿，且可使用圖形元素以視覺化方式呈現資料。活頁簿示例包括具有專業外觀的預算、財務報表、團隊績效圖表、銷售發票與資料輸入日誌。
+subTitle: 成功申請 Microsoft Office Specialist Excel 2016 認證測驗的人員對 Excel 環境和獨立完成任務的能力有基本的了解。應試者瞭解且可示範 Excel 2016 主要功能的正確應用。應試者可建立及編輯含多個工作表的活頁簿，且可使用圖形元素以視覺化方式呈現資料。工作簿示例包括具有專業外觀的預算、財務報表、團隊績效圖表、銷售發票和資料輸入日誌。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3XVfJ
 providers:
-  - providerType: certiport
-    examUrl: https://www.certiport.com/locator
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
+- ar-sa
+- bg-bg
 - zh-cn
 - zh-tw
 - de
@@ -41,7 +42,8 @@ locales:
 levels:
 - intermediate
 skills:
-- 建立與管理工作表與活頁簿 (30-35%)
+- 附註：出現在以下文件中所評量的每種技能下方的項目符號旨在說明我們如何評估該技能。此清單不明確或詳盡。
+- 建立與管理工作表與活頁簿(30-35%)
 - 管理資料儲存格與範圍 (15-20%)
 - 建立表格 (15-20%)
 - 用公式與函數執行操作 (10-15%)
@@ -55,14 +57,15 @@ relatedCertifications:
     uid: certification.mos-excel-2016
 resources:
 - title: 訓練和認證指南
-  description: 在簡明的訓練和認證指南中探索所有認證。
+  description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 認證儀錶板
   description: 查看和管理您的預定約會、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 申請調整
+- title: 請求無障礙設施
   description: 詳細了解有關為測驗申請調整的資訊。
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 測驗政策和常見問題
   description: 查看測驗政策和常見問題。
   href: ../certification-exam-policies.md
+

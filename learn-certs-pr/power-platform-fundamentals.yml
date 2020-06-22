@@ -1,21 +1,24 @@
 ### YamlMime:Certification
-title: Microsoft Certified Power Platform Fundamentals
+title: 'Microsoft Certified: Power Platform Fundamentals'
 metadata:
-  title: Microsoft Certified Power Platform Fundamentals
-  description: 證明您瞭解 Power Platform 的核心功能——從業務價值和核心產品功能到組建基本的 Power Apps 畫布應用程式，連接資料資源，使用 Microsoft Flow 進行自動化，以及創建 Power BI 儀錶板。
+  title: 'Microsoft Certified: Power Platform Fundamentals'
+  description: 證明您了解 Power Platform 的核心功能-從商業價值和核心產品功能到構建簡單的 Power Apps 畫布應用程式，連接資料源，使用 Power Automate 自動化基本業務流程，創建 Power BI 儀表板以及使用以下功能創建強大的聊天機器人電源虛擬代理。
 uid: certification.power-platform-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
 summary: |-
-  證明您瞭解 Power Platform 的核心功能——從業務價值和核心產品功能到組建基本的 Power Apps 畫布應用程式，連接資料資源，使用 Microsoft Flow 進行自動化，以及創建 Power BI 儀錶板。
-subTitle: 證明您瞭解 Power Platform 的核心功能——從業務價值和核心產品功能到組建基本的 Power Apps 畫布應用程式，連接資料資源，使用 Microsoft Flow 進行自動化，以及創建 Power BI 儀錶板。
+  <div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
+
+  證明您了解 Power Platform 的核心功能-從商業價值和核心產品功能到構建簡單的 Power Apps 畫布應用程式，連接資料源，使用 Power Automate 自動化基本業務流程，創建 Power BI 儀表板以及使用以下功能創建強大的聊天機器人電源虛擬代理。
+subTitle: 證明您了解 Power Platform 的核心功能-從商業價值和核心產品功能到構建簡單的 Power Apps 畫布應用程式，連接資料源，使用 Power Automate 自動化基本業務流程，創建 Power BI 儀表板以及使用以下功能創建強大的聊天機器人電源虛擬代理。
 levels:
 - beginner
 skills:
-- 瞭解 Power Platform 的業務價值
-- 瞭解 Power Platform 的核心組件
-- 展示 Power BI 的業務價值
-- 展示 Power Apps 的業務價值
-- 演示Power Automate的商業價值
+- 描述 Power Platform 的商業價值
+- 確定 Power Platform 的核心元件
+- 描述 Power BI 的商業價值
+- 描述 Power Apps 的商業價值
+- 描述 Power Automate 的商業價值
+- 展示 Power Virtual Agents 的商業價值
 roles:
 - business-user
 - functional-consultant
@@ -46,5 +49,6 @@ resources:
   description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
   href: help.md
 - title: 認證儀錶板
-  description: 檢閱並管理您的預定測驗、證書和成績單。
+  description: 查看和管理您的預定約會、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
+

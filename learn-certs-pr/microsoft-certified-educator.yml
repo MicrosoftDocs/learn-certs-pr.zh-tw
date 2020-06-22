@@ -5,16 +5,15 @@ metadata:
   description: Microsoft Certified Educator
 uid: certification.microsoft-certified-educator
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: >-
+summary: |-
+  <div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
+
   Microsoft Certified Educator (MCE) 認證可驗證教育人員是否具備所需的全球教育人員技術知識能力，可為學生提供內容豐富且量身打造的教學體驗。
-
   MCE 認證適合實習中的教育人員、師範教育學院的教職員，以及任教中的教育人員。
-
 
   Microsoft 提供完備的線上學習課程，21CLD，以協助教育人員準備這項嚴峻的測驗。
 
-
-  **注意** Microsoft Certified Educator 測驗所評量的是教育人員是否瞭解如何在這六項不同的內容領域中運用技術工具，而非他們是否熟練特定技術工具的使用。如需取得特定 Microsoft 產品與技術之教學認證的相關資訊，請造訪 [Microsoft Certified Trainer](https://www.microsoft.com/learning/mct-certification.aspx) 網頁。
+  **注意** Microsoft Certified Educator 測驗所評量的是教育人員是否瞭解如何在這六項不同的內容領域中運用技術工具，而非他們是否熟練特定技術工具的使用。如果您正在尋找有關認證以教授特定的 Microsoft 產品和技術的信息，請訪問 [Microsoft Certified Trainer](https://www.microsoft.com/learning/mct-certification.aspx)  頁。
 subTitle: Microsoft Certified Educator (MCE) 認證可驗證教育人員是否具備所需的全球教育人員技術知識能力，可為學生提供內容豐富且量身打造的教學體驗。
 levels:
 - advanced
@@ -22,7 +21,7 @@ skills:
 - 促進學生合作
 - 促進熟練的交流
 - 促進自律
-- 促進實際問題解決和創新
+- 促進現實世界的解決問題和創新
 - 促進學生使用資訊和通訊工具 (ICT)
 - 使用 ICT 成為一名有效的教育人員
 roles:
@@ -30,6 +29,7 @@ roles:
 type: mce
 products:
 - windows
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4vHlT
 exams:
 - uid: exam.62-193
 resources:
@@ -38,7 +38,8 @@ resources:
   href: https://education.microsoft.com/GetTrained/ITL-Research
 - title: 學習指南
   description: 尋找訓練教材以準備測驗
-  href: https://aka.ms/MCEStudyGuide
-- title: 重測
+  href: http://aka.ms/MCEStudyGuide
+- title: Exam Replay
   description: 數位工具套件，用於教育未來現在活動（海報、資料表和 MCE 測驗目標範圍）
-  href: https://aka.ms/MCEAssets
+  href: http://aka.ms/MCEAssets
+

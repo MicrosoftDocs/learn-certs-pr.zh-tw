@@ -1,0 +1,78 @@
+### YamlMime:Examination
+title: 'Microsoft Azure AI Fundamentals (beta)'
+metadata:
+  title: 'Exam AI-900: Microsoft Azure AI Fundamentals (beta)'
+  description: 'Exam AI-900: Microsoft Azure AI Fundamentals (beta)'
+uid: exam.ai-900
+displayName: AI-900
+summary: |-
+  <div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+
+  參加此測驗的應試者應具有機器學習 (ML) 和人工智慧 (AI) 概念以及相關的 Microsoft Azure 服務的基礎知識。
+
+  這次測驗是一次展示常見的 ML 和 AI 工作負載以及如何在 Azure 上實作知識的機會。  
+
+  該測驗適用於具有技術和非技術背景的考生。不需要資料科學和軟體工程經驗；但是，一些一般的編程知識或經驗將是有益的。  
+
+  Azure AI Fundamentals 可用於準備其他基於 Azure 角色的認證，例如 Azure Data Scientist Associate 或 Azure AI Engineer Associate，但這不是其中任何一個的先決條件。  
+
+  <div style='font-weight&#58; bold;'><br/>注意；此版測驗要到 2020 年 6 月 8日才能提供。</div>
+subTitle: '這項測驗將於 2020 年 6 月 8 日左右開始。證明您可以描述以下內容：AI 工作負載和注意事項； Azure 上機器學習的基本原理； Azure 上的電腦視覺工作負載的功能；和 Azure 上的對話式 AI 工作負載的功能。'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wGpB
+locales:
+- en
+levels:
+- beginner
+skills:
+- 描述 AI 工作負載和注意事項 (15-20%)
+- 描述 Azure 上機器學習的基本原理 (30-35%)
+- 描述 Azure 上的電腦視覺工作負載的功能 (15-20%)
+- 描述 Azure 上的對話式 AI 工作負載的功能 (15-20%)
+roles:
+- ai-engineer
+- data-scientist
+- developer
+- solution-architect
+products:
+- azure
+- azure-bot-service
+- azure-cognitive-search
+- azure-cognitive-services
+- azure-computer-vision
+- azure-form-recognizer
+- azure-language-understanding
+- azure-machine-learning
+- azure-qna-maker
+- azure-speech-text
+- azure-speech-translation
+- azure-text-analytics
+- azure-text-speech
+- azure-translator-speech
+- azure-translator-text
+relatedCertifications:
+- related:
+    uid: certification.azure-ai-fundamentals
+resources:
+- title: 訓練和認證指南
+  description: 透過一份簡潔的訓練和認證指南探索所有認證。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 認證海報
+  description: 查看基本知識、基於角色的認證和專業認證的概述。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: 查看兩份可幫助您提高成功幾率的好提議。
+  href: ../deals.md
+- title: 支持認證考試
+  description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
+  href: ../help.md
+- title: 認證儀錶板
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 請求無障礙設施
+  description: 詳細了解有關為測驗申請調整的資訊。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 測驗政策和常見問題
+  description: 查看測驗政策和常見問題。
+  href: ../certification-exam-policies.md
+

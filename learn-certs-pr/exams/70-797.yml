@@ -1,0 +1,58 @@
+### YamlMime:Examination
+title: Configuring Windows Devices (pilot)
+metadata:
+  title: 'Exam 70-797: Configuring Windows Devices (pilot)'
+  description: 'Exam 70-797: Configuring Windows Devices (pilot)'
+uid: exam.70-797
+displayName: 70-797
+summary: |-
+  <div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+
+  本測驗會針對建立固態身分識別、內容保護 (資料遺失保護)、行動裝置管理原則、使用 Hyper-V 虛擬化、使用公司入口網站與 Windows 市集執行應用程式管理，驗證應試者的基本知識與技能。應試者會在 Windows 10 安全性與整合的 Azure 功能方面接受評估。
+
+  除了專業經驗，參加本測驗的應試者應具備下列技術&#58;
+
+  - 具備 Windows 桌面管理、維護和疑難排解的經驗
+  - 具備 Windows 網路技術的基本經驗和知識
+  - Active Directory 與 Microsoft Intune 的入門知識
+
+  應試者可以參加本測驗，然後藉由擔任 Windows 裝置支援技術人員或 Windows 裝置系統管理員這類實務經驗，獲得同等知識和技能，即可達成必要條件。
+subTitle: 本測驗會針對建立固態身分識別、內容保護 (資料遺失保護)、行動裝置管理原則、使用 Hyper-V 虛擬化、使用公司入口網站與 Windows 市集執行應用程式管理，驗證應試者的基本知識與技能。應試者會在 Windows 10 安全性與整合的 Azure 功能方面接受評估。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trjT
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=70-797&examname=Configuring%20Windows%20Devices&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-797
+locales:
+- en
+levels:
+- beginner
+skills:
+- 管理身份 (13%)
+- 規劃桌面與裝置部署 (13%)
+- 規劃與實作 Microsoft Intune 裝置管理解決方案 (11%)
+- 設定網路 (11%)
+- 設定儲存區 (10%)
+- 管理資料存取和保護(11%)
+- 管理遠端存取 (10%)
+- 管理應用程式 (11%)
+- 管理更新與修復 (10%)
+roles:
+- administrator
+products:
+- windows
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Exam Replay
+  description: 查看兩份可幫助您提高成功幾率的好提議。
+  href: ../deals.md
+- title: 認證儀錶板
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 請求無障礙設施
+  description: 詳細了解有關為測驗申請調整的資訊。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 測驗政策和常見問題
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: ../certification-exam-policies.md
+

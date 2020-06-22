@@ -2,17 +2,21 @@
 title: 'Microsoft Certified: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate'
 metadata:
   title: 'Microsoft Certified: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate'
-  description: Dynamics 365 供應鏈管理製造功能顧問負責整合數位與實際系統；提升可見性、製造效率與靈活度；並為客戶降低成本。
+  description: 'Dynamics 365 供應鏈管理製造功能顧問負責整合數位與實際系統；提升可見性、製造效率與靈活度；並為客戶降低成本。'
 uid: certification.d365-functional-consultant-manufacturing
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: Dynamics 365 供應鏈管理製造功能顧問負責整合數位與實際系統；提升可見性、製造效率與靈活度；並為客戶降低成本。
-subTitle: Dynamics 365 供應鏈管理製造功能顧問負責整合數位與實際系統；提升可見性、製造效率與靈活度；並為客戶降低成本。
+summary: |-
+  <div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
+
+  Dynamics 365 供應鏈管理製造功能顧問負責整合數位與實際系統；提升可見性、製造效率與靈活度；並為客戶降低成本。
+subTitle: 'Dynamics 365 供應鏈管理製造功能顧問負責整合數位與實際系統；提升可見性、製造效率與靈活度；並為客戶降低成本。'
 levels:
 - intermediate
 skills:
+- 附註：出現在以下文件中所評量的每種技能下方的項目符號旨在說明我們如何評估該技能。此清單不明確或詳盡。
 - 使用通用功能與實作工具
 - 設定安全性、流程與選項
-- 執行資料遷移
+- 執行數據遷移
 - 驗證並支援解決方法
 - 設置與設定製造
 - 創建與管理生產與精益訂單
@@ -24,12 +28,8 @@ products:
 - dynamics
 - dynamics-finance-operations
 courses:
-- uid: course.mb-300t01
-- uid: course.mb-300t02
-- uid: course.mb-300t03
-- uid: course.mb-320t01
-- uid: course.mb-320t02
-- uid: course.mb-320t03
+- uid: course.mb-300t00
+- uid: course.mb-320t00
 paths:
 - uid: learn-dynamics.get-started-with-dynamics-365-for-finance-and-operations
 - uid: learn-dynamics.use-lcs-to-design-and-plan-an-implementation-of-f-and-o
@@ -45,21 +45,22 @@ exams:
 - uid: exam.mb-300
 - uid: exam.mb-320
 resources:
-- title: 認證學習路徑
+- title: 認證學習途徑
   description: '發現訓練資源，以成為經 Microsoft Certified: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35KLG
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 認證海報
-  description: 查看關於基礎知識、角色型和專業認證的概述。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oWP3
-- title: 重測
+  description: 查看基本知識、基於角色的認證和專業認證的概述。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
   description: 查看兩份可幫助您提高成功幾率的好提議。
   href: deals.md
 - title: 支持認證
-  description: 透過Microsoft認證支持論壇獲得幫助。論壇版主將在週一至週五之間的一個工作日內回覆。
+  description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
   href: help.md
 - title: 認證儀錶板
-  description: 檢閱並管理您的預定測驗、證書和成績單。
+  description: 查看和管理您的預定約會、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
+

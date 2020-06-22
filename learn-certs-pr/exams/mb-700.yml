@@ -1,8 +1,8 @@
 ### YamlMime:Examination
-title: 'Microsoft Dynamics 365: Finance and Operations Apps Solution Architect (beta)'
+title: 'Microsoft Dynamics 365: Finance and Operations Apps Solution Architect'
 metadata:
-  title: 'Exam MB-700: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect (beta)'
-  description: 'Exam MB-700: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect (beta)'
+  title: 'Exam MB-700: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect'
+  description: 'Exam MB-700: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect'
 uid: exam.mb-700
 displayName: MB-700
 summary: |-
@@ -13,8 +13,6 @@ summary: |-
   解決方案架構師負責整套解決方案設計的完整性和成功交付。架構師在售前和設計期間提供關鍵指導，並在項目生命週期的剩餘部分提供咨詢以解決實作過程中可能出現的問題。
 
   解決方案架構師必須具有跨越業務需求和產品功能的廣泛知識與經驗。解決方案架構師必須具有廣泛的功能性和技術性專業知識，以便在以下領域之一擔任“開發人員”或“功能顧問” 角色&#58; 財務、製造業或供應鏈管理。此外，他們還在一個或多個客戶行業中擁有廣泛的領域知識。
-
-  <div style='font-weight&#58; bold;'><br/>Beta 測驗不會立即評分，因為我們正在收集有關問題和測驗品質的資料。詳細了解 <a href="/learn/certifications/certification-exams#participating-in-beta-exams">Beta考試的價值和重要性</a>。</div>
 subTitle: '這項測驗衡量您完成以下技術任務的能力：確定解決方案要求；設計解決方案組件；以及定義解決方案測試和管理策略。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43Vdh
@@ -24,7 +22,7 @@ locales:
 levels:
 - advanced
 skills:
-- 識別解決方案要求(30-35%)
+- 識別解決方案要求(30 -35%)
 - 設計解決方案元件 (40-45%)
 - 定義解決方案測試與管理策略 (25-30%)
 roles:
@@ -39,6 +37,9 @@ relatedCertifications:
 - related:
     uid: certification.d365-finance-and-operations-apps-solution-architect-expert
 resources:
+- title: 認證學習途徑
+  description: '發現訓練資源，以成為經 Microsoft Certified: Dynamics 365: Finance and Operations Apps Solution Architect Expert.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4vyT7
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
@@ -52,9 +53,9 @@ resources:
   description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
   href: ../help.md
 - title: 認證儀錶板
-  description: 檢閱並管理您的預定測驗、證書和成績單。
+  description: 查看和管理您的預定約會、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 要求住宿
+- title: 請求無障礙設施
   description: 詳細了解有關為測驗申請調整的資訊。
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 測驗政策和常見問題

@@ -1,0 +1,44 @@
+### YamlMime:Certification
+title: 'Microsoft Office Specialist: Outlook Associate (Outlook and Outlook 2019)'
+metadata:
+  title: 'Microsoft Office Specialist: Outlook Associate (Outlook and Outlook 2019)'
+  description: '透過獲得 Microsoft Office Specialist:  Outlook Associate 認證，證明您具有充分利用 Outlook 所需的技能。'
+uid: certification.mos-outlook-2019
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  <div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></font></div>
+
+  透過獲得 Microsoft Office Specialist&#58; Outlook Associate 認證，證明您具有充分利用 Outlook 所需的技能。該認證證明了定制 Outlook 用戶界面格式消息內容，創建或插入圖形元素以及發送和響應電子郵件以及會議要求的能力。
+
+  獲得此認證的個人擁有大約150個小時的教學經驗和產品實踐經驗，已在產業助理層面證明其能力，並準備進入工作市場。他們可以演示 Outlook 主要功能的正確應用，並可以獨立完成任務。
+subTitle: '透過獲得 Microsoft Office Specialist: Outlook Associate 認證，證明您具有充分利用 Outlook 所需的技能。'
+levels:
+- intermediate
+skills:
+- 管理 Outlook 設置和過程
+- 管理訊息
+- 管理時間表
+- 管理聯繫人和任務
+roles:
+- business-user
+type: mos
+products:
+- office
+- office-outlook
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4nj1J
+exams:
+- uid: exam.mo-400
+resources:
+- title: 訓練和認證指南
+  description: 透過一份簡潔的訓練和認證指南探索所有認證。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Exam Replay
+  description: 查看兩份可幫助您提高成功幾率的好提議。
+  href: deals.md
+- title: 支持認證
+  description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
+  href: help.md
+- title: 認證儀錶板
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

@@ -1,0 +1,56 @@
+### YamlMime:Examination
+title: Designing and Providing Microsoft Licensing Solutions to Large Organizations
+metadata:
+  title: 'Exam 70-705: Designing and Providing Microsoft Licensing Solutions to Large Organizations'
+  description: 'Exam 70-705: Designing and Providing Microsoft Licensing Solutions to Large Organizations'
+uid: exam.70-705
+displayName: 70-705
+summary: |-
+  <div><div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+  <div><strong>該測驗於美國中部時間2021年1月31日晚上11&#58;59淘汰。在此日期之後，您將無法參加測驗。深入瞭解 <a href='/learn/certifications/retired-certification-exams'>即將停止提供的測驗</a>。<br/><br/></strong></div>
+  </div>
+
+  本考試是為向大型組織銷售授權解決方案的銷售人員設計的。此類別中的組織通常具有 250 個或更多裝置或使用者。應試者應至少有六個月的銷售 Microsoft 授權解決方案的經驗，以及對所有 Microsoft 企業授權解決方案有基本瞭解，包括 Enterprise 合約，Enterprise Subscription 合約，雲端解決方案提供者(CSP)，MPSA, OEM, 以及 Open 和 Open Value。
+
+  應試者還應對 Microsoft 產品的類型(如作業系統、伺服器應用程式、桌面應用程式和線上服務)及其各自的授權模式有基本的瞭解。應試者有望驗證其能力以定義最適合客戶需求的解決方案。
+subTitle: 本考試是為向大型組織銷售授權解決方案的銷售人員設計的。此類別中的組織通常具有 250 個或更多裝置或使用者。應試者應至少有六個月的銷售 Microsoft 授權解決方案的經驗，以及對所有 Microsoft 企業授權解決方案有基本瞭解，包括 Enterprise 合約，Enterprise Subscription 合約，雲端解決方案提供者(CSP)，MPSA, OEM, 以及 Open 和 Open Value。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trl8
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=70-705&examname=Designing%20and%20Providing%20Microsoft%20Licensing%20Solutions%20to%20Large%20Organizations&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-705
+locales:
+- en
+- zh-cn
+- fr
+- de
+- ja
+- pt-br
+- ko
+- ru
+- es
+levels:
+- beginner
+skills:
+- 推薦適當的技術解決方案 (60%〜65%)
+- 推薦適當的軟體保障優勢 (10-15%)
+- 推薦授權解決方案 (20-25%)
+roles:
+- administrator
+products:
+- azure
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Exam Replay
+  description: 查看兩份可幫助您提高成功幾率的好提議。
+  href: ../deals.md
+- title: 認證儀錶板
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 請求無障礙設施
+  description: 詳細了解有關為測驗申請調整的資訊。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 測驗政策和常見問題
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: ../certification-exam-policies.md
+

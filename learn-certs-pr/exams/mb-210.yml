@@ -1,39 +1,41 @@
 ### YamlMime:Examination
 title: Microsoft Dynamics 365 Sales
 metadata:
-  title: '測驗 MB-210：Microsoft Dynamics 365 Sales'
-  description: '測驗 MB-210：Microsoft Dynamics 365 Sales'
+  title: 'Exam MB-210: Microsoft Dynamics 365 Sales'
+  description: 'Exam MB-210: Microsoft Dynamics 365 Sales'
 uid: exam.mb-210
 displayName: MB-210
-summary: >-
+summary: |-
+  <div>
+  <div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'> 該測驗的內容更新于 2020 年 5 月 1 日.請下載下面的技能評估文件，以了解發生了什麼變化。<br/><br/></div>
+  </div>
+
   本次測驗的應試者是 Dynamics 365 專業銷售顧問。應試者負責實施支持銷售生命周期的解決方案，以高效有效地運行，以滿足收入目標、業務戰略和公司目標。
-
-  <br/>
-
 
   應試者負責配置和擴展領導、聯絡人、客戶、機會和支持實體的核心功能，以映射到公司現有的銷售流程。他們負責識別可用的機會，從而能夠使用 Power Apps 為多台設備開發統一體驗，使用 Power Automate 整合應用程式、商務流程，以及使用其他自動化工具建構支援與加速“走向現金之旅”的應用程式。
 
-
   應試者必須具有較強的商業知識，最好是銷售領域的一個或多個銷售職位的第一人稱經驗。
-subTitle: 此測驗測量您在完成以下技術任務時的能力：執行配置，管理核心銷售實體與管理銷售實體。
+subTitle: '此測驗測量您在完成以下技術任務時的能力：執行配置，管理核心銷售實體與管理銷售實體。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUjN
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=MB-210&examname=Exam%20MB-210:%20Microsoft%20Dynamics%20365%20for%20Sales&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-210
 locales:
 - en
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=MB-210&examname=測驗%20MB-210:%20Microsoft%20Dynamics%20365%20for%20Sales&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2Fmb-210
 levels:
 - intermediate
 skills:
-- 執行配置（40-45%）
+- 該測驗的內容更新于 2020 年 5 月 1 日.請下載下面概述的測驗技能，以了解已發生什麼變化。
+- 執行配置(40-45%)
 - 管理核心銷售實體 (20-25%)
 - 管理銷售實體 (35-40%)
 roles:
 - functional-consultant
-exams:
-- uid: exam.mb-200
 products:
 - dynamics
 - dynamics-sales
+exams:
+- uid: exam.mb-200
 courses:
 - uid: course.mb-210t01
 paths:
@@ -44,24 +46,28 @@ relatedCertifications:
 - related:
     uid: certification.d365-functional-consultant-sales
 resources:
-- title: 認證學習路徑
-  description: '發現訓練資源, 以成為經 Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate。'
+- title: 認證學習途徑
+  description: '發現訓練資源，以成為經 Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35xKa
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 重測
+- title: 認證海報
+  description: 查看基本知識、基於角色的認證和專業認證的概述。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
   description: 查看兩份可幫助您提高成功幾率的好提議。
   href: ../deals.md
 - title: 支持認證考試
-  description: 透過Microsoft認證支持論壇獲得幫助。論壇版主將在週一至週五之間的一個工作日內回覆。
+  description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
   href: ../help.md
 - title: 認證儀錶板
-  description: 檢閱並管理您的預定測驗、證書和成績單。
+  description: 查看和管理您的預定約會、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 請求無障礙設施
-  description: 瞭解更多有關為您的測驗申請無障礙設施的資訊。
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
-- title: 測驗規則和常見問題解答
-  description: 檢閱測驗規定和常見問題解答。
+  description: 詳細了解有關為測驗申請調整的資訊。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 測驗政策和常見問題
+  description: 查看測驗政策和常見問題。
   href: ../certification-exam-policies.md
+

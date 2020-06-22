@@ -7,13 +7,13 @@ uid: certification.mcse-productivity-certification
 iconUrl: /media/learn/certification/badges/mcse-badge.svg
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
-  <div><strong>此認證於 2021 年 1 月 31 日淘汰。在此日期之後，您將無法再獲得此認證。在淘汰日期之前獲得的任何認證將繼續出現在您的成績單中 <a href='https://www.microsoft.com/learning/dashboard.aspx'>認證儀表板</a>.您也可以 <a href='/learn/certifications/retired-certifications'>browse all retired certifications</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
+  <div><strong>該證書將於2021年1月31日美國中部時間下午11&#58;59退役。在此日期之後，您將無法再獲得此認證。了解有關<a href='/learn/certifications/retired-certifications'>即將退出的認證</a>的更多信息。</a></strong><br/><br/></div>
   </div>
 
-  本認證可驗證您具備以下相關能力，能將您的公司移至雲端、提高使用者生產力與機動性、減少資料遺失的機會，並改善組織的資料安全性。該認證可用於滿足成為 [Microsoft 365 Certified Enterprise Administrator Expert](https://www.microsoft.com/en-us/learning/m365-enterprise-administrator.aspx) 的一項要求
+  本認證可驗證您具備以下相關能力，能將您的公司移至雲端、提高使用者生產力與機動性、減少資料遺失的機會，並改善組織的資料安全性。該認證可用於滿足成為 [Microsoft 365 Certified Enterprise Administrator Expert](https://www.microsoft.com/learning/m365-enterprise-administrator.aspx) 的一項要求
 
-  要成為一名 MCSE 生產力解決方案專家，請完成下列要求：
+  要成為一名 MCSE 生產力解決方案專家，請完成下列要求&#58;
   - 贏取一項先決條件認證
     - 先決條件選項 1&#58; [MCSA Windows Server 2012](https://www.microsoft.com/learning/mcsa-windows-server-certification.aspx)
     - 先決條件選項 2&#58; [MCSA Windows Server 2016](https://www.microsoft.com/learning/mcsa-windows-server-2016-certification.aspx)
@@ -57,6 +57,6 @@ resources:
   description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
   href: help.md
 - title: 認證儀錶板
-  description: 檢閱並管理您的預定測驗、證書和成績單。
+  description: 查看和管理您的預定約會、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
 

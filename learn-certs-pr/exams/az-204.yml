@@ -1,23 +1,23 @@
 ### YamlMime:Examination
-title: Developing Solutions for Microsoft Azure (beta)
+title: Developing Solutions for Microsoft Azure
 metadata:
-  title: 'Exam AZ-204: Developing Solutions for Microsoft Azure (beta)'
-  description: 'Exam AZ-204: Developing Solutions for Microsoft Azure (beta)'
+  title: 'Exam AZ-204: Developing Solutions for Microsoft Azure'
+  description: 'Exam AZ-204: Developing Solutions for Microsoft Azure'
 uid: exam.az-204
 displayName: AZ-204
 summary: |-
   <div><div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>此測驗內容將於 2020 年 5 月 18 日更新。請下載下面的技能評估文件，以了解將發生什麼變化。<br/><br/></div>
+  <div style='font-weight&#58; bold;'> 該測驗的內容更新于 2020 年 5 月 18 日。請下載下面的技能評估文件，以了解發生了什麼變化。<br/><br/></div>
   </div>
 
-  此測驗的應試者是雲端開發人員，他們將參與從需求定義和設計到開發，部署和維護的所有開發階段。他們與雲端資料庫管理員，雲端管理員和客戶端合作以實作解決方案。
+  參加該測驗的應試者應具有主題知識，可以在 Microsoft Azure 上設計、構建、測試和維護雲端應用程式和服務。
 
-  應試者應精通 Azure SDK，資料儲存選項，資料連接，API，應用程式驗證和授權，計算和容器部署，偵錯，效能微調和監視。
+  Azure 開發人員的職責包括參與從需求定義和設計到開發、部署和維護的雲端開發、效能調整和監控的所有階段。
   <br/>
 
-  應試者必須具有1-2年的專業開發經驗以及 Microsoft Azure 的經驗。他們必須能夠使用 Azure 支援的語言進行程式設計。
+  Azure 開發人員與遠端解決方案架構師、雲端 DBA、雲端管理員和客戶端合作以實作解決方案。
 
-  <div><br/><strong>Beta 測驗不會立即評分，因為我們正在收集有關問題和測驗品質的資料。詳細了解 <a href="/learn/certifications/certification-exams#participating-in-beta-exams">Beta考試的價值和重要性</a>.</strong></div>
+  參加此測驗的應試者應具有 1-2 年的專業開發經驗以及 Microsoft Azure 的經驗。此外，該角色應具有使用 Azure 支援的語言進行編程的能力，並熟練使用 Azure SDK、Azure PowerShell、Azure CLI、資料存儲選項、資料連接、API、應用程式身份驗證和授權、計算和容器部署、調試、效能調整，以及監控。
 subTitle: '此測驗會評量您達成下方技術性工作的能力：開發 Azure 計算解決方案；開發 Azure 儲存;實作 Azure 安全性;監視，疑難排解和最佳化 Azure 解決方案;並連接以及使用 Azure 服務和第三方服務。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oZ7B
@@ -29,12 +29,12 @@ providers:
 levels:
 - intermediate
 skills:
-- 此測驗內容將於 2020 年 5 月 18 日更新。請下載下面概述的測驗技能，以了解將會發生什麼變化。
-- 開發 Azure 計算解決方案(25-30%)
+- 該測驗的內容更新于 2020 年 5 月 18 日.請下載下面概述的測驗技能，以了解已發生什麼變化。
+- 開發 Azure 計算解決方案(25 -30%)
 - 開發 Azure 存儲 (10-15%)
 - 實作 Azure 安全 (15-20%)
-- 監視，疑難排解和最佳化 Azure 解決方案(10-15%)
-- 連接並使用 Azure 服務和第三方服務(25-30%)
+- 監視，疑難排解和最佳化 Azure 解決方案(10 -15%)
+- 連接並使用 Azure 服務和第三方服務(25 -30%)
 roles:
 - developer
 products:
@@ -58,7 +58,6 @@ products:
 - azure-monitor
 - azure-policy
 - azure-portal
-- azure-redis-cache
 - azure-resource-manager
 - azure-sdks
 - azure-service-bus
@@ -66,6 +65,9 @@ products:
 - azure-stream-analytics
 - azure-traffic-manager
 - azure-virtual-machines
+courses:
+- uid: course.az-020t00
+- uid: course.az-204t00
 paths:
 - uid: learn.create-serverless-applications
 - uid: learn.connect-your-services-together
@@ -80,9 +82,9 @@ relatedCertifications:
 - related:
     uid: certification.azure-developer
 resources:
-- title: 認證學習途徑
-  description: '發現訓練資源，以成為經 Microsoft Certified: Azure Developer Associate.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQqM
+- title: 認證之旅
+  description: 探索獲得 Azure Developer Associate 資格的步驟以及可用來幫助您進行準備的資源。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4woK5
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
@@ -96,9 +98,9 @@ resources:
   description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
   href: ../help.md
 - title: 認證儀錶板
-  description: 檢閱並管理您的預定測驗、證書和成績單。
+  description: 查看和管理您的預定約會、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 要求住宿
+- title: 請求無障礙設施
   description: 詳細了解有關為測驗申請調整的資訊。
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 測驗政策和常見問題

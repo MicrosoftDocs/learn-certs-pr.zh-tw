@@ -2,24 +2,26 @@
 title: 'Microsoft 365 Certified: Enterprise Administrator Expert'
 metadata:
   title: 'Microsoft 365 Certified: Enterprise Administrator Expert'
-  description: 此測驗的應試者是參與評估、規劃、移轉、部署與管理 Microsoft 365 服務的 Microsoft 365 企業管理員。
+  description: 'Microsoft 365 企業管理員參與評估，規劃，移轉，部署與管理 Microsoft 365 服務。'
 uid: certification.m365-enterprise-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
 summary: |-
-  此測驗的應試者是參與評估、規劃、移轉、部署與管理 Microsoft 365 服務的 Microsoft 365 企業管理員。
-  
-  <div style='color&#58; red;'><br/>MCSE 生產力解決方案專家認證將於 2020 年 6 月 30 日淘汰。因此，在2021年6月30日之後，MCSE 生產力解決方案專家認證將不符合Microsoft 365 Certified&#58; Enterprise Administrator Expert認證的先決條件。(MCSE 淘汰後1年)。</div>
-subTitle: 此測驗的應試者是參與評估、規劃、移轉、部署與管理 Microsoft 365 服務的 Microsoft 365 Enterprise Administrators。
+  <div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
+
+  Microsoft 365 企業管理員評估，規劃，遷移，部署和管理 Microsoft 365 服務。
+
+  <div><br/><strong>MCSE 生產力解決方案專家認證將於 2021 年 1 月 31 日淘汰。因此，MCSE生产力解决方案专家认证不会成为Microsoft 365认证的必备选项：2022 年 1 月 31 日（MCSE 停用後一年）之後的企業管理員專家證書。</strong></div>
+subTitle: Microsoft 365 企業管理員評估，規劃，遷移，部署和管理 Microsoft 365 服務。
 levels:
 - advanced
 skills:
-- '附註：出現在以下文件中所評量的每種技能下方的項目符號旨在說明我們如何評估該技能。此清單不明確或詳盡。'
-- 設計和實作 Microsoft 365 服務
+- 附註：出現在以下文件中所評量的每種技能下方的項目符號旨在說明我們如何評估該技能。此清單不明確或詳盡。
+- 設計與實作 Microsoft 365 服務
 - 管理使用者身分識別與角色
-- 管理存取和驗證
-- 規劃 Office 365 工作負載和應用程式
+- 管理存取與驗證
+- 規劃 Office 365 工作負載與應用程式
 - 實作現代裝置服務
-- 實作 Microsoft 365 安全和威脅管理
+- 實作 Microsoft 365 安全與威脅管理
 - 管理 Microsoft 365 治理和合規性
 roles:
 - administrator
@@ -27,12 +29,8 @@ type: role-based
 products:
 - m365
 courses:
-- uid: course.ms-100t01
-- uid: course.ms-100t02
-- uid: course.ms-100t03
-- uid: course.ms-101t01
-- uid: course.ms-101t02
-- uid: course.ms-101t03
+- uid: course.ms-100t00
+- uid: course.ms-101t00
 prerequisites:
 - uid: certification.modern-desktop
   isOptional: false
@@ -52,10 +50,10 @@ exams:
 - uid: exam.ms-101
 resources:
 - title: 訓練和認證指南
-  description: 在簡明的訓練和認證指南中探索所有認證。
+  description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 認證海報
-  description: 查看關於基礎知識、角色型和專業認證的概述。
+  description: 查看基本知識、基於角色的認證和專業認證的概述。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
   description: 查看兩份可幫助您提高成功幾率的好提議。
@@ -64,5 +62,6 @@ resources:
   description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
   href: help.md
 - title: 認證儀錶板
-  description: 檢閱並管理您的預定測驗、證書和成績單。
+  description: 查看和管理您的預定約會、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
+

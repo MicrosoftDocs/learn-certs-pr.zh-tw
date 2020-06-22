@@ -1,0 +1,52 @@
+### YamlMime:Examination
+title: Outlook 2013
+metadata:
+  title: 'Exam 77-423: Outlook 2013'
+  description: 'Exam 77-423: Outlook 2013'
+uid: exam.77-423
+displayName: 77-423
+summary: |-
+  <div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+
+  應試者有能力使用字元與段落格式設定以設定電子郵件訊息內容格式，在郵件中建立或插入圖形元素，例如圖表、表格及 SmartArt 圖形。他們還要有能力使用密件副本欄位，傳送訊息給私密收件者。應試者有能力用內送訊息建立連絡人記錄、工作及約會，以及設定連絡人群組，方便與其他 Outlook 使用者溝通。他們還會與其他 Outlook 使用者共用排程資訊。應試者會針對包含人員並使用系統資源的會議進行排程，以及委派工作給其他人。核心使用者將 Outlook 程式視窗與快速存取工具列個人化，以盡可能提高效率。他們會整理訊息與其他 Outlook 項目，顯示不同的郵件資料夾檢視，以及不同的行事曆、通訊錄與工作清單檢視。他們還會顯示多個行事曆，與其他 Outlook 使用者共用行事曆。
+subTitle: 應試者有能力使用字元與段落格式設定以設定電子郵件訊息內容格式，在郵件中建立或插入圖形元素，例如圖表、表格及 SmartArt 圖形。他們還要有能力使用密件副本欄位，傳送訊息給私密收件者。應試者有能力用內送訊息建立連絡人記錄、工作及約會，以及設定連絡人群組，方便與其他 Outlook 使用者溝通。他們還會與其他 Outlook 使用者共用排程資訊。應試者會針對包含人員並使用系統資源的會議進行排程，以及委派工作給其他人。核心使用者將 Outlook 程式視窗與快速存取工具列個人化，以盡可能提高效率。他們會整理訊息與其他 Outlook 項目，顯示不同的郵件資料夾檢視，以及不同的行事曆、通訊錄與工作清單檢視。他們還會顯示多個行事曆，與其他 Outlook 使用者共用行事曆。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiMb
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=77-423&examname=Outlook%202013&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-423
+locales:
+- en
+- zh-tw
+- de
+- es
+- ja
+- ko
+- nb
+- nl
+levels:
+- beginner
+skills:
+- 管理 Outlook 環境 (25-30%)
+- 管理訊息 (25-30%)
+- 管理時間表 (30-35%)
+- 管理連絡人和群組 (15-20%)
+roles:
+- business-user
+products:
+- office-outlook
+relatedCertifications:
+- related:
+    uid: certification.microsoft-office-specialist-master-certification-2013
+resources:
+- title: Exam Replay
+  description: 查看兩份可幫助您提高成功幾率的好提議。
+  href: ../deals.md
+- title: 認證儀錶板
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 請求無障礙設施
+  description: 詳細了解有關為測驗申請調整的資訊。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 測驗政策和常見問題
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: ../certification-exam-policies.md
+

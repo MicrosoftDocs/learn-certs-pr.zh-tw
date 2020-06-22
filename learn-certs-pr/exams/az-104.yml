@@ -5,7 +5,18 @@ metadata:
   description: 'Exam AZ-104: Microsoft Azure Administrator (beta)'
 uid: exam.az-104
 displayName: AZ-104
-summary: "<div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>\r\n  \r\nAzure管理員在雲端環境中實作，管理和監視身分識別，治理，儲存，計算和虛擬網路。Azure 管理員將根據需要設定，調整大小，監視和調整資源。\r\n\r\n應試者應至少有六個月的管理 Azure 的實作經驗。應試者應該對核心Azure服務，Azure工作負載，安全性和治理有深入的瞭解。此測驗的應試者應具有使用PowerShell，命令列界面，Azure Portal 和 ARM 範本的經驗。\r\n\r\n<div style='font-weight&#58; bold;'><br/>Beta 測驗不會立即評分，因為我們正在收集有關問題和測驗品質的資料。詳細了解 <a href=\"/learn/certifications/certification-exams#participating-in-beta-exams\">Beta考試的價值和重要性</a>。</div>"
+summary: |-
+  <div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+
+  參加該測驗的考生應具有主題知識，可以實作、管理和監控組織的 Microsoft Azure 環境。
+
+  Azure 管理員的職責包括在雲端環境中實作、管理和監控身份、治理、存儲、計算和虛擬網路，以及在需要時提供、調整大小、監控和調整資源。
+
+  Azure 管理員通常是專門用於實作組織的雲端基礎結構的較大團隊的一部分。
+
+  參加該測驗的應試者應至少具有六個月的 Azure 管理實踐經驗，並對核心 Azure 服務、Azure 工作負載、安全性和治理有深刻的了解。此外，該角色應具有使用 PowerShell、Azure CLI、Azure 門戶和 Azure 資源管理員模板的經驗。
+
+  <div style='font-weight&#58; bold;'><br/>Beta 測驗不會立即評分，因為我們正在收集有關問題和測驗品質的資料。詳細了解 <a href="/learn/certifications/certification-exams#participating-in-beta-exams">Beta考試的價值和重要性</a>。</div>
 subTitle: '此測驗會評量您達成下方技術性工作的能力：管理 Azure 身份識別和治理； 實作和管理儲存； 部署和管理 Azure 計算資源； 設定和管理虛擬網路； 並監視和備份Azure資源。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4pCWy
@@ -15,29 +26,25 @@ locales:
 levels:
 - intermediate
 skills:
-- 管理 Azure 身份識別和治理(15-20%)
+- 管理 Azure 身份識別和治理(15 -20%)
 - 實作和管理存儲 (10-15%)
-- 部署和管理 Azure 計算資源(25-30%)
-- 設定和管理虛擬網路(30-35%)
-- 監視和備份Azure資源(10-15%)
+- 部署和管理 Azure 計算資源(25 -30%)
+- 設定和管理虛擬網路(30 -35%)
+- 監視和備份Azure資源(10 -15%)
 roles:
 - administrator
 products:
 - azure
 courses:
+- uid: course.az-010t00
 - uid: course.az-104t00
 paths:
-- uid: learn.administer-infrastructure-resources-in-azure
-- uid: learn.architect-storage-infrastructure
-- uid: learn.architect-network-infrastructure
-- uid: learn.architect-infrastructure-operations
-- uid: learn.architect-compute-infrastructure
-- uid: learn.architect-migration-bcdr
-- uid: learn.manage-resources-in-azure
-- uid: learn.security.manage-identity-and-access
-- uid: learn.security.manage-security-operations
-- uid: learn.security.implement-resource-mgmt-security
-- uid: learn.administer-containers-in-azure
+- uid: learn.az104-admin-prerequisites
+- uid: learn.az-104-manage-identities-governance
+- uid: learn.az-104-manage-storage
+- uid: learn.az-104-manage-compute-resources
+- uid: learn.az-104-manage-virtual-networks
+- uid: learn.az-104-monitor-backup-resources
 relatedCertifications:
 - related:
     uid: certification.azure-administrator
@@ -55,9 +62,9 @@ resources:
   description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
   href: ../help.md
 - title: 認證儀錶板
-  description: 檢閱並管理您的預定測驗、證書和成績單。
+  description: 查看和管理您的預定約會、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 要求住宿
+- title: 請求無障礙設施
   description: 詳細了解有關為測驗申請調整的資訊。
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 測驗政策和常見問題

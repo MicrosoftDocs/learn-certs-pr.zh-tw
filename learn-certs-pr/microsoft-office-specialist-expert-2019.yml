@@ -2,19 +2,36 @@
 title: 'Microsoft Office Specialist: Expert (Office 365 and Office 2019)'
 metadata:
   title: 'Microsoft Office Specialist: Expert (Office 365 and Office 2019)'
-  description: 透過取得 Microsoft Office Specialist 認證，展現您具備充分運用 Office 所需的進階技能。多個 Office program 程式中的 Expert 認證。
+  description: '證明您具備所需進階技能，以透過獲得具體Office程式中的Microsoft Office Specialist: Expert 認證，展現您具備充分運用 Office 所需的進階技能。'
 uid: certification.microsoft-office-specialist-expert-2019
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: 取得特定 Office 程式的 Microsoft Office Specialist (MOS) 認證，展現您具備充分運用 Office 所需的進階技能。
-subTitle: 透過取得 Microsoft Office Specialist 認證，展現您具備充分運用 Office 所需的進階技能。多個 Office program 程式中的 Expert 認證。
+summary: |-
+  <div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></font></div>
+
+  證明您具備所需進階技能，以透過獲得具體Office程式中的Microsoft Office Specialist&#58; Expert 認證，展現您具備充分運用 Office 所需的進階技能。
+
+  要獲得 Microsoft Office Specialist&#58; Expert 認證，請完成以下要求&#58;
+
+
+  - 通過以下三門准測驗，可獲得 Microsoft Office 專家准證書&#58;
+    - [MO-100&#58; Microsoft Word (Word and Word 2019)](/learn/certifications/exams/mo-100)
+    - [MO-200&#58; Microsoft Excel (Excel and Excel 2019)](/learn/certifications/exams/mo-200)
+    - [MO-300&#58; Microsoft PowerPoint (PowerPoint and PowerPoint 2019)](/learn/certifications/exams/mo-300)
+    - [MO-400&#58; Microsoft Outlook (Outlook and Outlook 2019)](/learn/certifications/exams/mo-400)
+
+  - 透過以下三項專家考試&#58;
+    - [MO-101&#58; Microsoft Word Expert (Word and Word 2019)](/learn/certifications/exams/mo-101)
+    - [MO-201&#58; Microsoft Excel Expert (Excel and Excel 2019)](/learn/certifications/exams/mo-201)
+    - [MO-500&#58; Microsoft Access Expert (Access and Access 2019)](/learn/certifications/exams/mo-500)
+subTitle: '證明您具備所需進階技能，以透過獲得具體Office程式中的Microsoft Office Specialist: Expert 認證，展現您具備充分運用 Office 所需的進階技能。'
 levels:
-- intermediate
+- advanced
 skills:
-- Microsoft Word Expert (Word 和 Word 2019)
-- Microsoft Excel Expert (Excel 和 Excel 2019)
-- Microsoft Access Expert (Access 和 Access 2019) (coming soon)
+- Microsoft Word Expert (Word and Word 2019)
+- Microsoft Excel Expert (Excel and Excel 2019)
+- Microsoft Access Expert (Access and Access 2019)
 roles:
-- developer
+- business-user
 type: mos
 products:
 - office
@@ -26,16 +43,18 @@ prerequisites:
 exams:
 - uid: exam.mo-101
 - uid: exam.mo-201
+- uid: exam.mo-500
 resources:
 - title: Microsoft 訓練和認證指南
-  description: 在簡明的訓練和認證指南中探索所有認證。
+  description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 重測
+- title: Exam Replay
   description: 查看兩份可幫助您提高成功幾率的好提議。
   href: deals.md
 - title: 支持認證
-  description: 通過Microsoft認證支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
+  description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
   href: help.md
 - title: 認證儀錶板
   description: 查看和管理您的預定約會、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
+

@@ -5,15 +5,18 @@ metadata:
   description: 'MO-201: Microsoft Excel Expert (Excel and Excel 2019)'
 uid: exam.mo-201
 displayName: MO-201
-summary: 獲得此認證的個人擁有大約 15 0個小時的教學經驗和產品實踐經驗，已在產業專家層面證明其能力，並準備進入工作市場。他們可以從專家層面展示 Excel 主要功能的正確應用，並可以獨立完成任務。
+summary: |-
+  <div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+
+  該測驗涵蓋了自訂 Excel 環境以符合專案需求並提升生產力的能力。Expert 活頁簿範例包括自訂業務範本、多軸財務圖表、攤銷表和庫存盤點排程。應試者應在專家級演示 Excel 的主要功能的正確應用，並獨立完成任務。
 subTitle: 該測驗衡量他們為各種專業目的和情況創建，管理和分發專業電子表格的能力。該測驗涵蓋了自訂 Excel 環境以符合專案需求並提升生產力的能力。Expert 活頁簿範例包括自訂業務範本、多軸財務圖表、攤銷表和庫存盤點排程。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE47RTC
+providers:
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
-providers:
-  - providerType: certiport
-    examUrl: https://www.certiport.com/locator
 levels:
 - advanced
 skills:
@@ -31,14 +34,15 @@ relatedCertifications:
     uid: certification.mos-excel-expert-2019
 resources:
 - title: 訓練和認證指南
-  description: 在簡明的訓練和認證指南中探索所有認證。
+  description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 認證儀錶板
   description: 查看和管理您的預定約會、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 申請調整
+- title: 請求無障礙設施
   description: 詳細了解有關為測驗申請調整的資訊。
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 測驗政策和常見問題
   description: 查看測驗政策和常見問題。
   href: ../certification-exam-policies.md
+

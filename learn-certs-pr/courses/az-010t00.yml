@@ -1,0 +1,53 @@
+### YamlMime:Course
+title: Azure Administration for AWS SysOps
+metadata:
+  title: 'Course AZ-010T00-A: Azure Administration for AWS SysOps'
+  description: 'Course AZ-010T00-A: Azure Administration for AWS SysOps'
+uid: course.az-010t00
+courseNumber: 'AZ-010T00-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- azure
+exams:
+- uid: exam.az-103
+- uid: exam.az-104
+summary: |-
+  此為期兩天的課程是為有興趣了解 Azure 與 AWS 的不同以及如何管理 Azure 的 AWS Sysops 管理員設計的。研討會的主要主題是 Azure 管理、Azure 網路、Azure 計算、Azure 存儲和 Azure 管治。該研討會結合了授課，含有實際操作實踐練習和討論/複習。在研討會期間，學生將構建一個端到端的體系結構，以演示本課程中討論的主要功能。
+
+  #### 對象設定檔
+  本課程的受眾是 AWS Sysops Administrator Associate 或同等人員。這類人員在 AWS 部署、管理和操作方面擁有一到兩年的經驗。參加本課程的學生對學習 Azure 與 AWS 有何不同以及如何管理 Azure 感興趣。學生可能也有興趣參加 AZ-103 Microsoft Azure 管理員認證測驗或 AZ-900 Azure 基礎測驗。
+prerequisitesSection: |-
+  成功的 AWS Sysops 將從操作系統、視覺效果、雲端基礎結構、存儲結構、身份解決方案和網路方面的經驗開始本課程。具體來說，學生應具備&#58;
+  - 有關如何構造 CLI 命令的實用知識，包括使用幫助頁面確定適當的參數和命令結構。
+  - 了解虛擬網路概念、網域名稱系統 (DNS)、虛擬私人網路 (VPN)、防火牆、網關和加密技術。
+  - 了解虛擬機器，如何使用虛擬機器以及諸如 CPU 效能和磁碟之類的設定選項。
+  - 了解虛擬存儲概念，例如存儲帳戶、blob、檔案共用和磁盤類型。
+  - 了解治理概念，包括基於角色的存取控制、身份管理和身份保護。
+outlineSection: |-
+  ### 模塊 1&#58; Azure 管理
+  在本模塊中，您將學習管理 Azure 所需的工具和原則概念。主題包括&#58; 資源管理員、資源組、Azure 門戶、Azure CLI、Azure 模板、Cloud Shell、Azure 市場和 Azure PowerShell。
+
+
+  ### 模塊 2&#58; Azure 網路
+  在本模塊中，您將了解 Azure 網路功能。主題包括&#58; Azure 區域、虛擬網路和子網、IP 尋址、網路安全組、虛擬網路對等、VNet 到 Vnet 連接、ExpressRoute、負載平衡器和網路監控程序。
+
+
+  ### 模塊 3&#58; Azure 計算
+  在本模塊中，您將了解有關設定和監控 Azure 虛擬機器的資訊。主題包括&#58; Azure 虛擬機器、創建虛擬機器、虛擬機器大小、虛擬機器磁碟、可用性區域、可用性設定組、Windows VM 連接、Linux VM 連接、Azure 監視器和 Azure 警示。
+
+
+  ### 模塊 4&#58; Azure 儲存體
+  在本模塊中，您將學習 Azure 存儲功能和實作。主題包括&#58; 存儲帳戶、Blob 存儲、Blob 效能層、檔案共用、檔案同步、資料箱、內容傳遞網路、共用存取簽章和服務端點。
+
+
+  ### 模塊 5&#58; Azure 身份
+  在本模塊中，您將了解 Azure 身份解決方案。主題包括&#58; Azure 網域、基於角色的存取控制、Azure Active Directory、多重身份驗證、Azure AD 身份保護和 Azure 原則。
+

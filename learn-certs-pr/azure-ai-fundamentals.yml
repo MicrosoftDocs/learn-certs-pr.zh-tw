@@ -1,0 +1,72 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Azure AI Fundamentals'
+metadata:
+  title: 'Microsoft Certified: Azure AI Fundamentals'
+  description: 該認證將於 2020 年 6 月 8 日或前後可用。Azure AI Fundamentals 驗證機器學習和人工智慧概念以及相關 Microsoft Azure 服務的基礎知識。
+uid: certification.azure-ai-fundamentals
+iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
+summary: |-
+  <div><strong><font color='red'>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</font></strong><br/><br/></div>
+
+  Azure AI Fundamentals 認證的應試者應具有機器學習 (ML) 和人工智慧  (AI) 概念以及相關 Microsoft Azure 服務的基礎知識。  
+
+  該認證是一個展示常見的 ML 和 AI 工作負載以及如何在 Azure 上實作知識的機會。  
+
+  該認證適用於具有技術和非技術背景的應試者。不需要資料科學和軟體工程經驗；但是，一些一般的編程知識或經驗將是有益的。  
+
+  Azure AI Fundamentals 可用於準備其他基於 Azure 角色的認證，例如 Azure Data Scientist Associate 或 Azure AI Engineer Associate，但這不是其中任何一個的先決條件。  
+
+  <div><br/><strong>注意；該認證將於 2020 年 6 月 8 日或前後可用。</strong></div>
+subTitle: 該認證將於 2020 年 6 月 8 日或前後可用。Azure AI Fundamentals 驗證機器學習和人工智慧概念以及相關 Microsoft Azure 服務的基礎知識。
+levels:
+- beginner
+skills:
+- 描述 AI 工作負載和注意事項
+- 描述 Azure 上機器學習的基本原理
+- 描述 Azure 上的電腦視覺工作負載的功能
+- 描述 Azure 上的對話式 AI 工作負載的功能
+roles:
+- ai-engineer
+- data-scientist
+- developer
+- solution-architect
+type: fundamentals
+products:
+- azure
+- azure-bot-service
+- azure-cognitive-search
+- azure-cognitive-services
+- azure-computer-vision
+- azure-form-recognizer
+- azure-language-understanding
+- azure-machine-learning
+- azure-qna-maker
+- azure-speech-text
+- azure-speech-translation
+- azure-text-analytics
+- azure-text-speech
+- azure-translator-speech
+- azure-translator-text
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wAEF
+exams:
+- uid: exam.ai-900
+resources:
+- title: Azure 認證海報
+  description: 查看概述，包括 Azure 的基礎知識、基於角色的和專業認證。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: 訓練和認證指南
+  description: 透過一份簡潔的訓練和認證指南探索所有認證。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 認證海報
+  description: 查看基本知識、基於角色的認證和專業認證的概述。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: 查看兩份可幫助您提高成功幾率的好提議。
+  href: deals.md
+- title: 支持認證
+  description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
+  href: help.md
+- title: 認證儀錶板
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

@@ -2,25 +2,34 @@
 title: 'Microsoft Certified: Azure Solutions Architect Expert'
 metadata:
   title: 'Microsoft Certified: Azure Solutions Architect Expert'
-  description: Azure 解決方案架構師必須擁有計算、網路、儲存和安全性方面的專業知識，這樣他們才可以設計在Azure上執行的解決方案。
+  description: 'Azure 解決方案架構師設計並實作了可在 Microsoft Azure 上運行的解決方案，包括計算、網路、存儲和安全性等方面。'
 uid: certification.azure-solutions-architect
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: Azure 解決方案架構師必須擁有計算、網路、儲存和安全性方面的專業知識，這樣他們才可以設計在Azure上執行的解決方案。
-subTitle: Azure 解決方案架構師必須擁有計算、網路、儲存和安全性方面的專業知識，這樣他們才可以設計在Azure上執行的解決方案。
+summary: |-
+  <div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
+
+  Azure 解決方案架構師專家認證的應試者應具有設計和實作可在 Microsoft Azure 上運行的解決方案的主題專業知識，包括計算、網路、存儲和安全性等方面。
+
+  擔任此職務的職責包括為利益相關者提供建議，並將業務需求轉換為安全，可擴充且可靠的雲端解決方案。
+
+  Azure 解決方案架構師與雲端管理員、雲端 DBA 和客戶端合作以實作解決方案。
+
+  參加此認證的應試者應該在 IT 運營的各個方面都具有先進的經驗和知識，包括網路、視覺效果、身份、安全性、業務連續性、災難恢復、資料管理、預算和治理——該角色應管理各個領域的決策如何影響整體解決方案。此外，該角色應精通以下 Azure 知識領域中的至少一個：管理、開發或 DevOps。
+subTitle: Azure 解決方案架構師設計並實作了可在 Microsoft Azure 上運行的解決方案，包括計算、網路、存儲和安全性等方面。
 levels:
 - advanced
 skills:
 - 部署與設定基礎架構
-- 實作工作負載和安全性
+- 實作工作量和安全
 - 建立與部署應用程式
 - 實作身份驗證與保護資料
 - 為雲與 Azure 儲存進行開發
-- 確定工作負載要求
-- 為身份與安全進行設計
-- 設計一個資料平台解決方法
-- 設計一個業務連續性測量
+- 確定工作量要求
+- 身份和安全性設計
+- 設計資料平台解決方案
+- 設計業務連續性策略
 - 設計部署、移轉與整合
-- 設計一個基礎架構策略
+- 設計基礎設施策略
 roles:
 - solution-architect
 type: role-based
@@ -71,21 +80,22 @@ exams:
 - uid: exam.az-300
 - uid: exam.az-301
 resources:
-- title: 認證學習路徑
-  description: '發現訓練資源,以成為經 Microsoft Certified: Azure Solutions Architect Expert。'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtVsd
+- title: Azure 認證海報
+  description: 查看概述，包括 Azure 的基礎知識、基於角色的和專業認證。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 認證海報
-  description: 查看關於基礎知識、角色型和專業認證的概述。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oWP3
-- title: 重測
+  description: 查看基本知識、基於角色的認證和專業認證的概述。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
   description: 查看兩份可幫助您提高成功幾率的好提議。
   href: deals.md
 - title: 支持認證
-  description: 透過Microsoft認證支持論壇獲得幫助。論壇版主將在週一至週五之間的一個工作日內回覆。
+  description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
   href: help.md
 - title: 認證儀錶板
-  description: 檢閱並管理您的預定測驗、證書和成績單。
+  description: 查看和管理您的預定約會、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
+

@@ -1,19 +1,28 @@
 ### YamlMime:Examination
 title: 'Word 2016: Core Document Creation, Collaboration and Communication'
 metadata:
-  title: '測驗 77-725: Word 2016: Core Document Creation, Collaboration and Communication'
-  description: '測驗 77-725: Word 2016: Core Document Creation, Collaboration and Communication'
+  title: 'Exam 77-725: Word 2016: Core Document Creation, Collaboration and Communication'
+  description: 'Exam 77-725: Word 2016: Core Document Creation, Collaboration and Communication'
 uid: exam.77-725
 displayName: 77-725
-summary: "Word 2016 測驗的成功應試者具備對 Word 環境的基本瞭解，以及獨立完成工作的能力。應試者能夠針對各種用途與狀況建立及編輯兩到三頁的文件，來示範 Word 2016 主要功能的正確應用。文件範例包括具有專業外觀的報告、多欄電子報、履歷以及商業書信。 \n\nMicrosoft Office Specialist (MOS) 2016 認證測驗為使用 MOS 2016 計劃改進對應試者的知識、技能及能力的測試而引進新的基於性能的格式&#58;\n- MOS 2016 測驗任務說明一般不包括命令名稱，如舊版所示。例如，會避免出現函數名稱並將其取代為描述元。這表示，應試者必須瞭解計畫功能的用途及一般使用方式，才能成功完成每個專案中的任務。\n- MOS 2016 測驗格式併入多個專案。\n"
+summary: |+
+  <div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+
+  Word 2016 測驗的成功應試者具備對 Word 環境的基本瞭解，以及獨立完成工作的能力。應試者能夠針對各種用途與狀況建立及編輯兩到三頁的文件，來示範 Word 2016 主要功能的正確應用。文件範例包括具有專業外觀的報告、多欄電子報、履歷以及商業書信。
+
+  Microsoft Office Specialist (MOS) 2016 認證測驗為使用 MOS 2016 計劃改進對應試者的知識、技能及能力的測試而引進新的基於性能的格式&#58;
+  - MOS 2016 測驗任務說明一般不包括命令名稱，如舊版所示。例如，會避免出現函數名稱並將其取代為描述元。這表示，應試者必須瞭解計畫功能的用途及一般使用方式，才能成功完成每個專案中的任務。
+  - MOS 2016 測驗格式併入多個專案。
 subTitle: Word 2016 測驗的成功應試者具備對 Word 環境的基本瞭解，以及獨立完成工作的能力。應試者能夠針對各種用途與狀況建立及編輯兩到三頁的文件，來示範 Word 2016 主要功能的正確應用。文件範例包括具有專業外觀的報告、多欄電子報、履歷以及商業書信。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3XVfI
 providers:
-  - providerType: certiport
-    examUrl: https://www.certiport.com/locator
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
+- ar-sa
+- bg-bg
 - zh-cn
 - zh-tw
 - de
@@ -33,6 +42,7 @@ locales:
 levels:
 - intermediate
 skills:
+- 附註：出現在以下文件中所評量的每種技能下方的項目符號旨在說明我們如何評估該技能。此清單不明確或詳盡。
 - 建立及管理文件 (25-30%)
 - 格式化文字、段落及章節 (25-30%)
 - 建立表格及清單 (20-25%)
@@ -47,14 +57,15 @@ relatedCertifications:
     uid: certification.mos-word-2016
 resources:
 - title: 訓練和認證指南
-  description: 在簡明的訓練和認證指南中探索所有認證。
+  description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 認證儀錶板
   description: 查看和管理您的預定約會、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 申請調整
+- title: 請求無障礙設施
   description: 詳細了解有關為測驗申請調整的資訊。
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 測驗政策和常見問題
   description: 查看測驗政策和常見問題。
   href: ../certification-exam-policies.md
+

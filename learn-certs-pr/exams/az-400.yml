@@ -1,8 +1,8 @@
 ### YamlMime:Examination
-title: Microsoft Azure DevOps Solutions
+title: Designing and Implementing Microsoft DevOps Solutions
 metadata:
-  title: 'Exam AZ-400: Microsoft Azure DevOps Solutions'
-  description: 'Exam AZ-400: Microsoft Azure DevOps Solutions'
+  title: 'Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions'
+  description: 'Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions'
 uid: exam.az-400
 displayName: AZ-400
 summary: |-
@@ -17,7 +17,7 @@ subTitle: '該測驗衡量您設計 DevOps 策略並實作以下功能的能力�
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP8d
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-400?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=AZ-400&examname=Exam%20AZ-400:%20Microsoft%20Azure%20DevOps%20Solutions&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-400
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=AZ-400&examname=Exam%20AZ-400:%20Designing%20and%20Implementing%20Microsoft%20DevOps%20Solutions&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-400
 locales:
 - en
 - ja
@@ -33,7 +33,7 @@ skills:
 - 實作持續交付 (10-15%)
 - 實作關聯性管理 (5-10%)
 - 實作應用程式基礎設施 (15-20%)
-- 實作持續反饋 (10-15%)
+- 實作持續意見反應 (10-15%)
 roles:
 - devops-engineer
 products:
@@ -49,20 +49,14 @@ paths:
 - uid: learn.azdo.automate-deployments-azure-devops
 - uid: learn.azdo.capture-feedback-monitoring
 courses:
-- uid: course.az-400t01
-- uid: course.az-400t02
-- uid: course.az-400t03
-- uid: course.az-400t04
-- uid: course.az-400t05
-- uid: course.az-400t06
-- uid: course.az-400t07
+- uid: course.az-400t00
 relatedCertifications:
 - related:
-    uid: certification.azure-devops
+    uid: certification.devops-engineer
 resources:
-- title: 認證學習途徑
-  description: '發現訓練資源，以成為經 Microsoft Certified: Azure DevOps Engineer Expert.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE41muG
+- title: 認證之旅
+  description: 探索獲得 DevOps 工程師專家認證的步驟，以及可用來幫助您準備的資源。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqC
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
@@ -76,9 +70,9 @@ resources:
   description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
   href: ../help.md
 - title: 認證儀錶板
-  description: 檢閱並管理您的預定測驗、證書和成績單。
+  description: 查看和管理您的預定約會、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 要求住宿
+- title: 請求無障礙設施
   description: 詳細了解有關為測驗申請調整的資訊。
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 測驗政策和常見問題

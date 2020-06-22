@@ -5,21 +5,35 @@ metadata:
   description: 'MO-100: Microsoft Word (Word and Word 2019)'
 uid: exam.mo-100
 displayName: MO-100
-summary: 獲得此認證的個人擁有大約150個小時的教學經驗和產品實踐經驗，已在產業助理層面證明其能力，並準備進入工作 市場。他們可以展示Word的主要功能的正確應用，並可以獨立完成任務。
+summary: |-
+  <div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+
+  該測驗涵蓋建立和維護專業外觀報告，多欄電子報，簡歷和商務信函的能力。應試者應演示 Word 的主要功能的正確應用並獨立完成任務。
 subTitle: 該測驗透過各種用途與狀況建立及編輯文件，來衡量Word 主要功能的正確應用的能力。該測驗涵蓋建立和維護專業外觀報告，多欄電子報，簡歷和商務信函的能力。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3WPxx
+providers:
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
-providers:
-  - providerType: certiport
-    examUrl: https://www.certiport.com/locator
+- en-my
+- de
+- id-id
+- ko
+- es
+- nl
+- ja
+- ru
+- fr
+- it
+- pt-br
 levels:
 - intermediate
 skills:
-- 管理 資料 (20-25%)
+- 管理多個文件 (20-25%)
 - 插入和格式化文字、段落及章節 (20-25%)
-- 管理表格和清單 (15-20%)
+- 管理表格與清單 (15-20%)
 - 建立及管理參考 (5-10%)
 - 插入並設定圖形元素格式 (15-20%)
 - 管理文件共同作業 (5-10%)
@@ -33,14 +47,15 @@ relatedCertifications:
     uid: certification.mos-word-2019
 resources:
 - title: 訓練和認證指南
-  description: 在簡明的訓練和認證指南中探索所有認證。
+  description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 認證儀錶板
   description: 查看和管理您的預定約會、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 申請調整
+- title: 請求無障礙設施
   description: 詳細了解有關為測驗申請調整的資訊。
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 測驗政策和常見問題
   description: 查看測驗政策和常見問題。
   href: ../certification-exam-policies.md
+

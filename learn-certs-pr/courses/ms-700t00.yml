@@ -5,7 +5,7 @@ metadata:
   description: 'Course MS-700T00-A: Managing Microsoft Teams'
 uid: course.ms-700t00
 courseNumber: 'MS-700T00-A'
-hoursToComplete: 120
+hoursToComplete: 96
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
 - skill: 什麼是Microsoft Teams以及元件是如何共同工作
@@ -52,7 +52,7 @@ outlineSection: |-
   - 關於管理Microsoft Teams的概觀
 
 
-  #### 實驗室&#58; 角色管理和建立Teams
+  #### 實驗室 &#58; 角色管理和建立Teams
   - 準備Team的角色和許可證
   - 建立一個新的Team
 
@@ -65,7 +65,7 @@ outlineSection: |-
   - 為Microsoft Teams實作合法
 
 
-  #### 實驗室&#58; 為Teams和內容設定安全和合法
+  #### 實驗室 &#58; 為Teams和內容設定安全和合法
   - 為Microsoft Teams實作管理和Lifecycle Management
   - 為Microsoft Teams實作安全
   - 為Microsoft Teams實作合法
@@ -79,7 +79,7 @@ outlineSection: |-
   - 部署和管理Microsoft Teams終端
 
 
-  #### 實驗室&#58; 為Teams準備環境
+  #### 實驗室 &#58; 為Teams準備環境
   - 計算網路性能
   - 評估設定文件
   - 提供Team資源
@@ -93,7 +93,7 @@ outlineSection: |-
   - 管理外部用戶的存取
 
 
-  #### 實驗室&#58; 管理Teams
+  #### 實驗室 &#58; 管理Teams
   - 管理Team資源
   - 管理分享和存取
 
@@ -105,7 +105,7 @@ outlineSection: |-
   - 管理Team APP的設置
 
 
-  #### 實驗室&#58; 為Teams修改合作設置
+  #### 實驗室 &#58; 為Teams修改合作設置
   - 設定渠道和簡訊政策
   - 為Team管理APP設置
 
@@ -119,7 +119,8 @@ outlineSection: |-
   - 處理音頻，視頻和客戶端的問題
 
 
-  #### 實驗室&#58; 為Teams修改通信設置
+  #### 實驗室 s&#58; 為Teams修改通信設置
   設定符合原則
   - 為Microsoft Teams管理Phone System
   - 處理音頻，視頻和客戶端的問題
+

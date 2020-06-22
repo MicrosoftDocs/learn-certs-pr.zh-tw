@@ -1,0 +1,46 @@
+### YamlMime:Examination
+title: Microsoft Outlook (Outlook and Outlook 2019)
+metadata:
+  title: 'MO-400: Microsoft Outlook (Outlook and Outlook 2019)'
+  description: 'MO-400: Microsoft Outlook (Outlook and Outlook 2019)'
+uid: exam.mo-400
+displayName: MO-400
+summary: |-
+  <div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+
+  此測驗涵蓋增強專業人員通信、建立行事曆及排定約會的功能。應用實例包括協調建築資源，為營銷活動發送訊息，規劃員工會議以及分配會議操作項目。應試者應演示 Outlook 主要功能的正確應用並獨立完成任務。
+subTitle: 該測驗評量自訂 Outlook 使用者界面格式郵件內容，建立或插入圖形元素以及發送和回覆電子郵件以及會議要求的能力。此測驗涵蓋增強專業人員通信、建立行事曆及排定約會的功能。應用實例包括協調建築資源，為營銷活動發送訊息，規劃員工會議以及分配會議操作項目。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4mURd
+scheduleExamUrl: http://www.certiport.com/locator
+locales:
+- en
+levels:
+- intermediate
+skills:
+- 管理 Outlook 設置和過程 (15-20%)
+- 管理訊息 (30-35%)
+- 管理時間表 (30-35%)
+- 管理聯繫人和任務 (15-20%)
+roles:
+- business-user
+products:
+- office
+- office-outlook
+relatedCertifications:
+- related:
+    uid: certification.mos-outlook-2019
+resources:
+- title: 訓練和認證指南
+  description: 透過一份簡潔的訓練和認證指南探索所有認證。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 認證儀錶板
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 請求無障礙設施
+  description: 詳細了解有關為測驗申請調整的資訊。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 測驗政策和常見問題
+  description: 查看測驗政策和常見問題。
+  href: ../certification-exam-policies.md
+

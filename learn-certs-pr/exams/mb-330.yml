@@ -1,47 +1,44 @@
 ### YamlMime:Examination
 title: Microsoft Dynamics 365 Supply Chain Management​
 metadata:
-  title: '測驗 MB-330: Microsoft Dynamics 365 Supply Chain Management​​'
-  description: '測驗 MB-330: Microsoft Dynamics 365 Supply Chain Management​​'
+  title: 'MB-330: Microsoft Dynamics 365 Supply Chain Management​'
+  description: 'MB-330: Microsoft Dynamics 365 Supply Chain Management​'
 uid: exam.mb-330
 displayName: MB-330
-summary: >-
+summary: |-
+  <div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+
   此測驗的應試者應為功能顧問，他們負責分析業務需求，並將這些需求轉化為完全實作的業務流程與實作行業最佳實踐的解決方案。應試者是實作與設定應用程式以滿足業務需求的關鍵資源。
-
   <br/>
-
 
   此測驗的應試者對企業客戶服務、現場服務、製造、零售的會計原則與財務運作，以及供應鏈管理概念應有基本的了解。
 
-
   此測驗的應試者通常專注於 Microsoft Dynamics 365 財務的一個或多個功能集，包括財務、製造與供應鏈管理。
 
-
   應試者必須具備供應鏈管理實踐的相應知識，包括採購、貿易、物流、倉儲管理與運輸管理。
-subTitle: 該測驗測量您完成以下技術任務的能力：實作產品資訊管理；實作庫存管理；實作和管理供應鏈流程；實作倉庫和運輸管理並執行商務程序。
+subTitle: '該測驗測量您完成以下技術任務的能力：實作產品資訊管理；實作庫存管理；實作和管理供應鏈流程；實作倉庫和運輸管理並執行商務程序。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwVt
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=MB-330&examname=Exam%20MB-330:%20Microsoft%20Dynamics%20365%20for%20Finance%20and%20Operations,%20Supply%20Chain%20Management&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-330
 locales:
 - en
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=MB-330&examname=測驗%20MB-330:%20Microsoft%20Dynamics%20365%20for%20Finance%20and%20Operations,%20Supply%20Chain%20Management&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2Fmb-330
 levels:
 - intermediate
 skills:
+- 附註：出現在以下文件中所評量的每種技能下方的項目符號旨在說明我們如何評估該技能。此清單不明確或詳盡。
 - 實作產品資訊管理 (25-30%)
 - 實作庫存管理(20-25%)
 - 實作與管理供應鏈流程 (25-30%)
 - 實作倉儲管理與運輸管理並執行業務流程 (25-30%)
 roles:
 - functional-consultant
-exams:
-- uid: exam.mb-300
 products:
 - dynamics
 - dynamics-finance-operations
+exams:
+- uid: exam.mb-300
 courses:
-- uid: course.mb-330t01
-- uid: course.mb-330t02
-- uid: course.mb-330t03
+- uid: course.mb-330t00
 paths:
 - uid: learn-dynamics.configure-manage-products-inventory-d365-finance-ops
 - uid: learn-dynamics.configure-manage-sales-customers-dyn365-supply-chain-mgmt
@@ -52,24 +49,28 @@ relatedCertifications:
 - related:
     uid: certification.d365-functional-consultant-supply-chain-management
 resources:
-- title: 認證學習路徑
-  description: '發現訓練資源, 以成為經 Microsoft Certified: Dynamics 365 Supply Chain Management Functional Consultant Associate。'
+- title: 認證學習途徑
+  description: '發現訓練資源，以成為經 Microsoft Certified: Dynamics 365 Supply Chain Management Functional Consultant Associate。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35nkT
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 重測
+- title: 認證海報
+  description: 查看基本知識、基於角色的認證和專業認證的概述。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
   description: 查看兩份可幫助您提高成功幾率的好提議。
   href: ../deals.md
 - title: 支持認證考試
-  description: 透過Microsoft認證支持論壇獲得幫助。論壇版主將在週一至週五之間的一個工作日內回覆。
+  description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
   href: ../help.md
 - title: 認證儀錶板
-  description: 檢閱並管理您的預定測驗、證書和成績單。
+  description: 查看和管理您的預定約會、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 請求無障礙設施
-  description: 瞭解更多有關為您的測驗申請無障礙設施的資訊。
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
-- title: 測驗規則和常見問題解答
-  description: 檢閱測驗規定和常見問題解答。
+  description: 詳細了解有關為測驗申請調整的資訊。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 測驗政策和常見問題
+  description: 查看測驗政策和常見問題。
   href: ../certification-exam-policies.md
+

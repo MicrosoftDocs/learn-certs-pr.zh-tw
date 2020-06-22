@@ -2,18 +2,23 @@
 title: 'Microsoft Certified: Azure IoT Developer Specialty'
 metadata:
   title: 'Microsoft Certified: Azure IoT Developer Specialty'
-  description: 證明您了解如何實作構成 IoT 解決方案的 Azure 服務，包括資料分析、資料處理、資料儲存選項和平台即服務選項。IoT 開發人員必須能夠在 IoT 解決方案的代碼部分中辨識 Azure IoT 服務配置設定。
+  description: Azure IoT 開發人員開發 Azure IoT 解決方案的雲端和邊緣元件。
 uid: certification.azure-iot-developer-specialty
 iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
 summary: |-
-  <div style='color&#58; red;'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
 
-  證明您了解如何實作構成 IoT 解決方案的 Azure 服務，包括資料分析、資料處理、資料儲存選項和平台即服務選項。IoT 開發人員必須能夠在 IoT 解決方案的代碼部分中辨識 Azure IoT 服務配置設定。
-subTitle: 證明您了解如何實作構成 IoT 解決方案的 Azure 服務，包括資料分析、資料處理、資料儲存選項和平台即服務選項。IoT 開發人員必須能夠在 IoT 解決方案的代碼部分中辨識 Azure IoT 服務配置設定。
+  Azure IoT 開發人員專業認證的應試者應具有開發 Azure IoT 解決方案的雲端和邊緣元件方面的主題專業知識。
+
+  擔任此角色的職責包括使用雲端服務和其他工具管理設備生命週期（設置、設定和維護）。您可以實作 Azure IoT 解決方案的設計，包括設備拓撲、連線能力、調試和安全性，以及用於管理、監控和轉換與 IoT 相關的資料管線的解決方案。您還可以部署 Azure IoT Edge 元件並在邊緣上設定設備網路。
+
+  Azure IoT 開發人員與資料工程師和其他利害關係人合作，以確保成功進行商務整合。
+
+  參加此認證的應試者應具有實作構成物聯網解決方案的 Azure 服務的經驗，包括資料存儲選項、資料分析、資料處理和平台即服務選項。該角色還應該能夠識別 IoT 解決方案的代碼部分內的 Azure IoT 服務設定設置，並以至少一種 Azure 支援的語言（包括 C＃、Node、C 或 Python）執行特定的 IoT 編碼任務。
+subTitle: Azure IoT 開發人員開發 Azure IoT 解決方案的雲端和邊緣元件。
 levels:
 - intermediate
 skills:
-- '附註：出現在以下文件中所評量的每種技能下方的項目符號旨在說明我們如何評估該技能。此清單不明確或詳盡。'
 - 實作 IoT 解決方案基礎架構
 - 佈建和管理裝置
 - 實作 Edge
@@ -38,6 +43,12 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4nw1
 exams:
 - uid: exam.az-220
 resources:
+- title: Azure 認證海報
+  description: 查看概述，包括 Azure 的基礎知識、基於角色的和專業認證。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: 認證之旅
+  description: 探索獲得 Azure IoT Developer 專業認證的步驟以及可用來幫助您進行準備的資源。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqz
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
@@ -51,6 +62,6 @@ resources:
   description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
   href: help.md
 - title: 認證儀錶板
-  description: 檢閱並管理您的預定測驗、證書和成績單。
+  description: 查看和管理您的預定約會、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
 

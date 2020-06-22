@@ -1,29 +1,30 @@
 ### YamlMime:Examination
 title: 'Outlook 2016: Core Communication, Collaboration and Email Skills'
 metadata:
-  title: '測驗 77-731: Outlook 2016: Core Communication, Collaboration and Email Skills '
-  description: '測驗 77-731: Outlook 2016: Core Communication, Collaboration and Email Skills '
+  title: 'Exam 77-731: Outlook 2016: Core Communication, Collaboration and Email Skills'
+  description: 'Exam 77-731: Outlook 2016: Core Communication, Collaboration and Email Skills'
 uid: exam.77-731
 displayName: 77-731
-summary: >
-  成功的應試者將建立及編輯具專業外觀的電子郵件訊息、跨時區維護行事曆，以及針對各種用途與情況排程工作。應試者將使用 Outlook 2016 增強專業人員通信、建立行事曆及排定約會。套用實例包括協調建築資源，為營銷活動發送訊息，規劃員工會議以及分配會議操作項目。
+summary: |+
+  <div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
 
+  成功的應試者將建立及編輯具專業外觀的電子郵件訊息、跨時區維護行事曆，以及針對各種用途與情況排程工作。應試者將使用 Outlook 2016 增強專業人員通信、建立行事曆及排定約會。應用實例包括協調建築資源，為營銷活動發送訊息，規劃員工會議以及分配會議操作項目。
 
   Microsoft Office Specialist (MOS) 2016 認證測驗為使用 MOS 2016 計劃改進對應試者的知識、技能及能力的測試而引進新的基於性能的格式&#58;
-
   - MOS 2016 測驗任務說明一般不包括命令名稱，如舊版所示。例如，會避免出現函數名稱並將其取代為描述元。這表示，應試者必須瞭解計畫功能的用途及一般使用方式，才能成功完成每個專案中的任務。
-
   - MOS 2016 測驗格式併入多個專案。
-subTitle: 成功的應試者將建立及編輯具專業外觀的電子郵件訊息、跨時區維護行事曆，以及針對各種用途與情況排程工作。應試者將使用 Outlook 2016 增強專業人員通信、建立行事曆及排定約會。套用實例包括協調建築資源，為營銷活動發送訊息，規劃員工會議以及分配會議操作項目。
+subTitle: 成功的應試者將建立及編輯具專業外觀的電子郵件訊息、跨時區維護行事曆，以及針對各種用途與情況排程工作。應試者將使用 Outlook 2016 增強專業人員通信、建立行事曆及排定約會。應用實例包括協調建築資源，為營銷活動發送訊息，規劃員工會議以及分配會議操作項目。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Y8ds
 providers:
-  - providerType: certiport
-    examUrl: https://www.certiport.com/locator
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
+- ar-sa
 - zh-cn
 - zh-tw
+- nl
 - de
 - es
 - fr
@@ -33,10 +34,11 @@ locales:
 levels:
 - intermediate
 skills:
+- 附註：出現在以下文件中所評量的每種技能下方的項目符號旨在說明我們如何評估該技能。此清單不明確或詳盡。
 - 管理 Outlook 環境以提高生產力 (20-25%)
 - 管理訊息 (35-40%)
 - 管理時間表 (35-40%)
-- 管理連絡人與群組 (10-15%)
+- 管理連絡人和群組 (10-15%)
 roles:
 - developer
 products:
@@ -46,14 +48,15 @@ relatedCertifications:
     uid: certification.mos-outlook-2016
 resources:
 - title: 訓練和認證指南
-  description: 在簡明的訓練和認證指南中探索所有認證。
+  description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 認證儀錶板
   description: 查看和管理您的預定約會、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 申請調整
+- title: 請求無障礙設施
   description: 詳細了解有關為測驗申請調整的資訊。
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 測驗政策和常見問題
   description: 查看測驗政策和常見問題。
   href: ../certification-exam-policies.md
+

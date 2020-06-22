@@ -1,69 +1,72 @@
 ### YamlMime:Examination
 title: Managing Modern Desktops
 metadata:
-  title: '測驗 MD-101: Managing Modern Desktops'
-  description: '測驗 MD-101: Managing Modern Desktops'
+  title: 'Exam MD-101: Managing Modern Desktops'
+  description: 'Exam MD-101: Managing Modern Desktops'
 uid: exam.md-101
 displayName: MD-101
-summary: >-
-  如果您在 [測驗 70-698](https://www.microsoft.com/learning/exam-70-698.aspx) 2019 年 3 月31 日過期之前通過了該測驗，您只需要使用 MD-101 即可獲得“智慧桌面”認證。參加此測驗的應試者在企業環境中部署、配置、保護、管理和監視設備和客戶端應用程式的管理員。應試者管理身份、存取、策略、更新與應用程式。
+summary: |-
+  <div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
 
+  如果您在2019年3月31日到期之前通過了[Exam  70-698](https://www.microsoft.com/learning/exam-70-698.aspx)，您只需要參加測驗 MD-101 即可獲得現代桌面認證。參加此測驗的應試者在企業環境中部署、配置、保護、管理和監視設備和客戶端應用程式的管理員。應試者管理身份、存取、策略、更新與應用程式。
   <br/>
 
-
-  作為管理員，應試者通常與 Microsoft 365 企業管理員合作以設計和實作可滿足現代組織業務需求的設備策略。
-
-  <br/>
-
+  作為管理員，應試者通常與 Microsoft 365 企業管理員合作來設計與實作滿足現代組織業務需求的裝置策略。
 
   應試必須熟悉 Microsoft 365 工作負載，並且必須在部署，設定與維護 Windows 10 與非 Windows 裝置與技術方面具有豐富的經驗與經驗。
-subTitle: 這項測驗衡量您完成以下專業任務的能力：部署和更新操作系統；管理策略和檔案；管理和保護設備；和管理應用程式和資料。如果您在測驗 70-698 2019 年 3 月31日過期之前通過了該測驗，您只需要使用 MD-101 即可獲得“智慧桌面”認證。
+subTitle: '這項測驗衡量您完成以下專業任務的能力：部署和更新操作系統；管理策略和檔案；管理和保護設備；和管理應用程式和資料。如果您在2019年3月31日到期之前通過了Exam 70-698，您只需要參加測驗 MD-101 即可獲得現代桌面認證。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJVD
 practiceTestUrl: https://us.mindhub.com/p/MU-MD-101?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=MD-101&examname=Exam%20MD-101:%20Managing%20Modern%20Desktops&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmd-101
 locales:
 - en
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=MD-101&examname=測驗%20MD-101:%20Managing%20Modern%20Desktops&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2Fmd-101
 levels:
 - intermediate
 skills:
-- 部署和更新操作系統 (15-20%)
-- 管理策略和檔案 (35-40%)
-- 管理和保護設備 (15-20%)
-- 管理應用程式和資料 (25-30%)
+- 部署和更新操作系統 (35-40%)
+- 管理策略和檔案 (25-30%)
+- 管理和保護設備 (20-25%)
+- 管理應用程式和資料 (10-15%)
 roles:
 - administrator
-exams:
-- uid: exam.md-100
 products:
 - m365
 - windows
+exams:
+- uid: exam.md-100
 courses:
-- uid: course.md-101t01
-- uid: course.md-101t02
-- uid: course.md-101t03
+- uid: course.md-101t00
+paths:
+- uid: learn-wwl.modernize-workplace-with-m365-and-surface-v1-1
+- uid: learn-m365.microsoft-365-get-modern
+- uid: learn-m365.manage-enterprise-deployment-m365
 relatedCertifications:
 - related:
     uid: certification.modern-desktop
 resources:
 - title: 認證學習途徑
-  description: '發現訓練資源以獲得 Microsoft Certified: Modern Desktop Administrator Associate。'
+  description: '發現訓練資源，以成為經 Microsoft Certified: Modern Desktop Administrator Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE45lE2
 - title: 訓練和認證指南
-  description: 在簡明的訓練和認證指南中探索所有認證。
+  description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 重測
+- title: 認證海報
+  description: 查看基本知識、基於角色的認證和專業認證的概述。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
   description: 查看兩份可幫助您提高成功幾率的好提議。
   href: ../deals.md
 - title: 支持認證考試
-  description: 通過Microsoft認證支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
+  description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
   href: ../help.md
 - title: 認證儀錶板
   description: 查看和管理您的預定約會、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 申請調整
+- title: 請求無障礙設施
   description: 詳細了解有關為測驗申請調整的資訊。
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 測驗政策和常見問題
   description: 查看測驗政策和常見問題。
   href: ../certification-exam-policies.md
+

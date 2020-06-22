@@ -2,22 +2,24 @@
 title: 'Microsoft Certified: Azure Data Engineer Associate'
 metadata:
   title: 'Microsoft Certified: Azure Data Engineer Associate'
-  description: Azure資料工程師使用完整堆疊的Azure資料服務來設計和實作資料管理，監控，安全性和隱私權，以滿足業務需求。
+  description: 'Azure資料工程師使用完整堆疊的Azure資料服務來設計和實作資料管理，監控，安全性和隱私權，以滿足業務需求。'
 uid: certification.azure-data-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
+  <div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
+
   Azure資料工程師使用完整堆疊的Azure資料服務來設計和實作資料管理，監控，安全性和隱私權，以滿足業務需求。
 subTitle: Azure資料工程師使用完整堆疊的Azure資料服務來設計和實作資料管理，監控，安全性和隱私權，以滿足業務需求。
 levels:
 - intermediate
 skills:
-- '附註：出現在以下文件中所評量的每種技能下方的項目符號旨在說明我們如何評估該技能。此清單不明確或詳盡。'
+- 附註：出現在以下文件中所評量的每種技能下方的項目符號旨在說明我們如何評估該技能。此清單不明確或詳盡。
 - 實施資料儲存解決方案
 - 管理和開發資料處理
 - 監控和最佳化資料解決方案
-- 設計Azure資料儲存解存決方案
+- 設計一個Azure資料儲存解決方案
 - 設計資料處理解決方案
-- 設計資料安全性和合規性
+- 資料安全和遵從性設計
 roles:
 - data-engineer
 type: role-based
@@ -49,6 +51,9 @@ exams:
 - uid: exam.dp-200
 - uid: exam.dp-201
 resources:
+- title: Azure 認證海報
+  description: 查看概述，包括 Azure 的基礎知識、基於角色的和專業認證。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
@@ -62,5 +67,6 @@ resources:
   description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
   href: help.md
 - title: 認證儀錶板
-  description: 檢閱並管理您的預定測驗、證書和成績單。
+  description: 查看和管理您的預定約會、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
+

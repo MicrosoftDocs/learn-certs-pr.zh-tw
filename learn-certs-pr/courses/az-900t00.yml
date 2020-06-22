@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Microsoft Azure Fundamentals(2 Day)
+title: Microsoft Azure Fundamentals (2 Day)
 metadata:
-  title: 'Course AZ-900T00-A: Microsoft Azure Fundamentals(2 Day)'
-  description: 'Course AZ-900T00-A: Microsoft Azure Fundamentals(2 Day)'
+  title: 'Course AZ-900T00-A: Microsoft Azure Fundamentals (2 Day)'
+  description: 'Course AZ-900T00-A: Microsoft Azure Fundamentals (2 Day)'
 uid: course.az-900t00
 courseNumber: 'AZ-900T00-A'
 hoursToComplete: 48
@@ -13,14 +13,21 @@ locales:
 levels:
 - beginner
 roles:
+- administrator
+- ai-engineer
+- data-analyst
+- data-engineer
+- data-scientist
+- database-administrator
 - developer
+- security-engineer
 products:
 - azure
 exams:
 - uid: exam.az-900
 summary: |-
   為期兩天的課程將提供有關雲端概念的基礎知識； 核心 Azure 服務; 安全性，隱私權，合規性和信任； 以及 Azure 定價和支援。
-  此課程為學生提供 Azure 許可證和時間以參加實習實驗室。如果您不需要實作經驗，請考慮 AZ -900T01&#58;  Microsoft Azure 基礎知識(1天)課程。這兩門課程的內容均與 AZ -900 測驗目標範圍一致。
+  此課程為學生提供 Azure 許可證和時間以參加實習實驗室。如果您不需要實作經驗，請考慮 AZ -900T01： Microsoft Azure 基礎知識（1天）課程。這兩門課程的內容均與 AZ -900 測驗目標範圍一致。
 
   #### 對象設定檔
   此課程適合剛剛開始使用 Azure 的 IT 人員。此對象希望了解我們的產品並獲得有關該產品的實作經驗。本課程主要使用 Azure portal 建立服務，不需要指令碼技能。  本課程的學生將有信心參加其他角色型的課程和認證，例如 Azure Administrator。本課程提供 Azure 許可證和可選的實驗室環境。本課程結合了講課，示範和實習實驗室。  此課程還將幫助某人準備好參加 AZ -900 測驗。
@@ -28,7 +35,7 @@ prerequisitesSection: |-
   參加本課程沒有任何先決條件。但是，學生
   掌握的技術知識越多，他們對雲端的了解就越多。
 outlineSection: |-
-  ### 模組 1&#58; 雲端概念
+  ### 模塊 1&#58; 雲端概念
   在此模組中，您將了解雲端服務，雲端模型的類型以及雲端服務的類型。
   #### 課程
   - 為什麼要使用雲端服務？
@@ -41,7 +48,7 @@ outlineSection: |-
   - 說明 IaaS，PaaS 和 SaaS 雲端服務。
 
 
-  ### 模組 2&#58; 核心Azure服務
+  ### 模塊 2&#58; 核心Azure服務
   在此模組中，您將了解 Azure 核心雲端架構元件，Azure 服務和產品，Azure 解決方案以及 Azure 管理工具。
   #### 課程
   - 核心Azure架構組件
@@ -73,12 +80,12 @@ outlineSection: |-
   #### 實驗室 &#58; 逐步解說&#58; 使用  CLI 建立 VM
   完成本單元後，學生將能夠&#58;
   - 識別核心 Azure 架構元件，例如區域，地理位置和資源群組。
-  - 識別 Azure 核心服務和產品(例如虛擬機器和儲存)的使用案例。
+  - 識別 Azure 核心服務和產品（例如虛擬機器和儲存）的使用案例。
   - 識別 Azure解決方案的用例，例如物聯網和機器學習。
   - 識別可用的 Azure 管理工具，例如 Azure PowerShell 和 CLI 。
 
 
-  ### 模組 3&#58; 安全性，隱私權，合規性和信任
+  ### 模塊 3&#58; 安全性，隱私權，合規性和信任
   在此模組中，您將了解 Azure 安全性，身份識別，治理，監視，報告和標準。
   #### 課程
   - 安全的網路連接
@@ -111,7 +118,7 @@ outlineSection: |-
   - 描述隱私，合規性和資料保護標準
 
 
-  ### 模組 4&#58; Azure定價和支援
+  ### 模塊 4&#58; Azure定價和支援
   在此模組中，您將了解 Azure 訂閱，規劃和管理成本，支援選項，SLA 和服務生命週期。
   #### 課程
   - Azure訂閱
@@ -136,3 +143,4 @@ outlineSection: |-
   - 說明 Azure 支援選項。
   - 描述 Azure SLA。
   - 說明 Azure 服務生命週期。
+

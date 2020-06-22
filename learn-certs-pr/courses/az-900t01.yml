@@ -1,41 +1,48 @@
 ### YamlMime:Course
-title: Microsoft Azure Fundamentals（1日）
+title: Microsoft Azure Fundamentals (1 Day)
 metadata:
-  title: 'Course AZ-900T01-A: Microsoft Azure Fundamentals'
-  description: 'Course AZ-900T01-A: Microsoft Azure Fundamentals'
+  title: 'Course AZ-900T01-A: Microsoft Azure Fundamentals (1 Day)'
+  description: 'Course AZ-900T01-A: Microsoft Azure Fundamentals (1 Day)'
 uid: course.az-900t01
 courseNumber: 'AZ-900T01-A'
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: 瞭解一般的雲端計算概念
-- skill: 瞭解Microsoft Azure提供的核心服務
-- skill: 瞭解Microsoft Azure的安全性，隱私性，合規性和信任度
-- skill: 瞭解Microsoft可用的定價和支援模型
+- skill: 了解一般的雲端計算概念
+- skill: 了解 Microsoft Azure 提供的核心服務
+- skill: 了解 Microsoft Azure 的安全性，隱私性，合規性和信任度
+- skill: 了解 Microsoft 提供的定價和支援模型
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:
 - beginner
 roles:
+- administrator
+- ai-engineer
+- data-analyst
+- data-engineer
+- data-scientist
+- database-administrator
 - developer
+- security-engineer
 products:
 - azure
 exams:
 - uid: exam.az-900
 summary: |-
-  本課程將提供有關雲端服務以及Microsoft Azure如何提供這些服務的基礎知識。在繼續學習Microsoft Azure或Microsoft雲端服務課程之前，該課程可以作為學習雲端服務和Microsoft Azure的可選第一步。
+  本課程將提供有關雲端服務以及 Microsoft Azure 如何提供這些服務的基礎知識。在繼續學習 Microsoft Azure 或 Microsoft 雲端服務課程之前，該課程可以作為學習雲端服務和 Microsoft Azure 的可選第一步。
 
   該課程將涵蓋一般的雲端計算概念，以及一般的雲端計算模型和服務，例如公共雲端，私有雲端和混合雲端，以及基礎結構即服務(IaaS)，平台即服務(PaaS) ，以及軟體即服務(SaaS)。
 
-  它還將涵蓋一些核心Azure服務和解決方案，以及與安全性，隱私，合規性和信任有關的關鍵Azure支柱服務。最後，它將涵蓋Azure可用的定價和支援服務。
+  它還將涵蓋一些核心 Azure 服務和解決方案，以及與安全性，隱私，合規性和信任有關的關鍵 Azure 支柱服務。最後，它將涵蓋 Azure 可用的定價和支援服務。
 
   #### 對象設定檔
-  參加本課程沒有任何先決條件。它面向希望瞭解有關Microsoft Azure的更多資訊的使用者。
+  參加本課程沒有任何先決條件。它面向希望了解有關 Microsoft Azure 的更多資訊的使用者。
 prerequisitesSection: |-
   參加本課程沒有任何先決條件。不需要專業 IT 經驗，但是，一些一般的 IT 知識或經驗會是有益的。
 outlineSection: |-
-  ### 模組 1&#58; 雲端概念
+  ### 模塊 1&#58; 雲端概念
   在本模組中，您將學習基本的雲端概念。
   #### 課程
   - 學習目標
@@ -43,44 +50,42 @@ outlineSection: |-
   - 基礎結構即服務(IaaS)，平台即服務(PaaS)和軟體即服務(SaaS)
   - 公共，私有和混合雲端模型
 
-  完成本單元後，學生將能夠&#58; 
-  - 瞭解一般的雲端計算概念
+  完成本單元後，學生將能夠&#58;
+  - 了解一般的雲端計算概念
 
 
-  ### 模組 2&#58; 核心Azure服務
-  在本模組中，您將學習Microsoft Azure提供的基本核心服務。
+  ### 模塊 2&#58; 核心Azure服務
+  在本模組中，您將學習 Microsoft Azure 提供的基本核心服務。
   #### 課程
-  - 核心Azure架構組件
-  - 核心Azure服務和產品
-  - Azure解決方案
-  - Azure管理工具
+  - 核心Azure 架構組件
+  - 核心Azure 服務和產品
+  - Azure 解決方案
+  - Azure 管理工具
 
-  完成本單元後，學生將能夠&#58; 
-  - 瞭解可用於的核心服務
-  - Microsoft Azure
+  完成本單元後，學生將能夠&#58;
+  - 了解可用於的核心服務 Microsoft Azure
 
-  ### 模組 3&#58; 安全性，隱私權，合規性和信任
-  在本模組中，您將瞭解有關Microsoft Azure的安全性，隱私性，合規性和信任度。
+  ### 模塊 3&#58; 安全性，隱私權，合規性和信任
+  在本模組中，您將了解有關 Microsoft Azure 的安全性，隱私性，合規性和信任度。
   #### 課程
-  - 保護Azure中的網路連接
-  - 核心Azure身份識別服務
+  - 保護 Azure 中的網路連接
+  - 核心 Azure 身份識別服務
   - 安全工具和功能
-  - Azure控管方法
-  - Azure中的監視和報告
-  - Azure中的隱私，合規性和資料保護標準
+  - Azure 控管方法
+  - Azure 中的監視和報告
+  - Azure 中的隱私，合規性和資料保護標準
 
-  完成本單元後，學生將能夠&#58; 
-  - 瞭解
-  - Microsoft Azure的安全性，隱私性，合規性和信任
+  完成本單元後，學生將能夠&#58;
+  - 了解 Microsoft Azure 的安全性，隱私性，合規性和信任
 
-  ### 模組 4&#58; Azure定價和支援
-  在本模組中，您將重點關注Microsoft可用的定價和支援模型。
+  ### 模塊 4&#58; Azure 定價和支援
+  在本模組中，您將重點關注 Microsoft 可用的定價和支援模型。
   #### 課程
-  - Azure訂閱
+  - Azure 訂閱
   - 規劃和管理成本
-  - Azure提供的支援選項
-  - Azure中的服務生命週期
+  - Azure 提供的支援選項
+  - Azure 中的服務生命週期
 
-  完成本單元後，學生將能夠&#58; 
-  - 瞭解Microsoft提供的定價和支援模型
+  完成本單元後，學生將能夠&#58;
+  - 了解 Microsoft 提供的定價和支援模型
 

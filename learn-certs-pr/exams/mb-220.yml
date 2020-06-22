@@ -8,14 +8,14 @@ displayName: MB-220
 summary: |-
   <div>
   <div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>此測驗內容將於 2020 年 5 月 19 日更新。請下載下面的技能評估文件，以了解將發生什麼變化。<br/><br/></div>
+  <div style='font-weight&#58; bold;'> 該測驗的內容更新于 2020 年 5 月 19 日.請下載下面的技能評估文件，以了解發生了什麼變化。<br/><br/></div>
   </div>
 
-  本次測驗的應試者是擁有行銷專業技能的 Microsoft Dynamics 365 Customer Engagement 功能顧問。應試者負責實作吸引並轉化潛在客戶的解決方案，建構品牌知名度，標準化全渠道訊息傳送，以及提供行銷見解。
+  本次測驗的應試者是擁有行銷專業技能的 Dynamics 365 Customer Engagement 功能顧問。應試者負責實作吸引並轉化潛在客戶的解決方案，建構品牌知名度，標準化全渠道訊息傳送，以及提供行銷見解。
 
-  應試者負責設定與擴展核心行銷應用程式以包括電子郵件行銷、設置、交互式客戶經驗、LinkedIn 整合、事件、客戶之聲、登陸頁面、分割與評分，以及維護一般資料保護監管 (GDPR) 合規性。
+  應試者負責設定與擴展核心行銷應用程式以包括電子郵件行銷、設置、交互式客戶經驗、LinkedIn 整合、事件、調查、登陸頁面、分割與評分，以及維護一般資料保護監管 (GDPR) 合規性。
 
-  應試者應掌握一些行銷原理及與 Microsoft Dynamics 365 應用程式套件相關的行銷應用程式角色，包括與 Microsoft Dynamics 365 和 Office 365 應用程式的整合。應聘者應該了解行業術語、優先級、通用機制、標準、方法和最佳實踐。
+  應試者應掌握一些行銷原理及與 Dynamics 365 應用程式套件相關的行銷應用程式角色，包括與 Dynamics 365 和 Office 365 應用程式的整合。應聘者應該了解行業術語、優先級、通用機制、標準、方法和最佳實踐。
 subTitle: '該測驗測量您完成以下技術任務的能力：設定行銷應用；管理區段和清單；建立和管理行銷表單和頁面；管理潛在客戶；建立和管理行銷電子郵件；管理客戶旅程；管理事件與網路研討會；並設定和分析客戶響應。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUjQ
@@ -25,10 +25,10 @@ locales:
 levels:
 - intermediate
 skills:
-- 此測驗內容將於 2020 年 5 月 19 日更新。請下載下面的技能評估文件，以了解將發生什麼變化。
+- 該測驗的內容更新于 2020 年 5 月 19 日.請下載下面概述的測驗技能，以了解已發生什麼變化。
 - 設定行銷應用程式 (5-10%)
 - 管理區段和清單 10-15%)
-- 建立與管理行銷表單與頁面 (10-15%)
+- 建立與管理行銷表單與頁面 (10 -15%)
 - 管理潛在客戶 (10-15%)
 - 建立與管理行銷電子郵件(10-15%)
 - 管理客戶旅程 (15-20%)
@@ -68,9 +68,9 @@ resources:
   description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
   href: ../help.md
 - title: 認證儀錶板
-  description: 檢閱並管理您的預定測驗、證書和成績單。
+  description: 查看和管理您的預定約會、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 要求住宿
+- title: 請求無障礙設施
   description: 詳細了解有關為測驗申請調整的資訊。
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 測驗政策和常見問題

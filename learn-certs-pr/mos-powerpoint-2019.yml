@@ -2,19 +2,25 @@
 title: 'Microsoft Office Specialist: PowerPoint Associate (PowerPoint and PowerPoint 2019)'
 metadata:
   title: 'Microsoft Office Specialist: PowerPoint Associate (PowerPoint and PowerPoint 2019)'
-  description: 取得特定 Office 程式的 Microsoft Office Specialist (MOS) 認證，展現您具備充分運用 Office 所需的技能。
+  description: '透過獲得 Microsoft Office Specialist:  PowerPoint Associate 認證，證明您具有充分利用 PowerPoint 所需的技能。'
 uid: certification.mos-powerpoint-2019
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: 取得特定 Office 程式的 Microsoft Office Specialist (MOS) 認證，展現您具備充分運用 Office 所需的技能。
-subTitle: 取得特定 Office 程式的 Microsoft Office Specialist (MOS) 認證，展現您具備充分運用 Office 所需的技能。
+summary: |-
+  <div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
+
+  透過獲得 Microsoft Office Specialist&#58; PowerPoint Associate 認證，證明您具有充分利用 PowerPoint 所需的技能。該認證證明了創建、編輯和增強簡報和投影片的能力。
+
+  獲得此認證的個人擁有大約150個小時的教學經驗和產品實踐經驗，已在產業助理層面證明其能力，並準備進入工作市場。他們可以展示PowerPoint主要功能的正確應用，並可以獨立完成任務。
+subTitle: '透過獲得 Microsoft Office Specialist: PowerPoint Associate 認證，證明您具有充分利用 PowerPoint 所需的技能。'
 levels:
 - intermediate
 skills:
-- 管理多個簡報
+- 附註：出現在以下文件中所評量的每種技能下方的項目符號旨在說明我們如何評估該技能。此清單不明確或詳盡。
+- 管理個簡報
 - 管理投影片
 - 插入與格式化文字、形狀與影像
-- 建立及管理參考
-- 插入並設定圖形元素格式
+- 插入表格，圖表，smartArt，3D 模型和媒體
+- 套用轉場與動畫
 roles:
 - business-user
 type: mos
@@ -26,14 +32,15 @@ exams:
 - uid: exam.mo-300
 resources:
 - title: 訓練和認證指南
-  description: 在簡明的訓練和認證指南中探索所有認證。
+  description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 重測
+- title: Exam Replay
   description: 查看兩份可幫助您提高成功幾率的好提議。
   href: deals.md
 - title: 支持認證
-  description: 通過Microsoft認證支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
+  description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
   href: help.md
 - title: 認證儀錶板
   description: 查看和管理您的預定約會、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
+

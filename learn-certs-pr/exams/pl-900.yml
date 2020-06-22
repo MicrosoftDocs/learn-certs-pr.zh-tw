@@ -7,12 +7,10 @@ uid: exam.pl-900
 displayName: PL-900
 summary: |-
   <div><div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>此測驗內容將於 2020 年 5 月 1 日更新。請下載下面的技能評估文件，以了解將發生什麼變化。<br/><br/></div>
+  <div style='font-weight&#58; bold;'> 該測驗的內容更新于 2020 年 5 月 7 日。請下載下面的技能評估文件，以了解發生了什麼變化。<br/><br/></div>
   </div>
 
-  本測驗的應試者是那些希望透過自動化業務流程提升生產力，透過分析資料生成業務見解，以及透過創建簡單的 APP 體驗提高執行效率的使用者。
-
-  此次測驗涵蓋以下內容： 描述 Power Platform 組件&#58; Power Apps、Power BI、Microsoft Automate、Common Data Service (CDS)、連接器和 & AI 生成器；透過展示 Microsoft 365、Dynamics 365、Microsoft Azure 和第三方服務描述跨雲端使用情形；識別 Power Platform 的優點和功能； 識別 Power Platform 組件的基本功能和業務價值；使用 Microsoft Automate、Power BI 和 AI Builder 實作簡單的解決方案；以及在無代碼環境中創建一個基本應用程式。
+  希望透過了解 Power Platform 的功能，使用 Power Automate 自動化基本業務流程，使用 Power BI 執行基本資料分析以產生業務見解，透過創建簡單的 Power Apps canvas 應用程式來更有效地行動來提高生產力的用戶體驗，無需使用代碼即可創建功能強大的聊天機器人。
 subTitle: 該測驗衡量您的以下能力：瞭解 Power Platform 的業務價值；瞭解 Power Platform 的核心組件；展示 Power BI 的業務價值；以及展示 Microsoft Automate 的業務價值。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43Nnn
@@ -27,12 +25,13 @@ providers:
 levels:
 - beginner
 skills:
-- 此測驗內容將於 2020 年 5 月 1 日更新。請下載下面的技能評估文件，以了解將發生什麼變化。
-- 瞭解 Power Platform 的業務價值 (20-25%)
-- 瞭解 Power Platform 的核心組件 (20-25%)
-- 展示 Power BI 的業務價值 (15-20%)
-- 展示 Power Apps 的業務價值 (20-25%)
-- 展示 Power Automate 的業務價值 (15-20%)
+- 該測驗的內容更新于 2020 年 5 月 7 日.請下載下面概述的測驗技能，以了解已發生什麼變化。
+- 描述 Power Platform 的商業價值 (20-25%)
+- 確定 Power Platform 的核心元件 (15-20%)
+- 描述 Power BI 的商業價值 (10-15%)
+- 描述 Power Apps 的商業價值 (15-20%)
+- 描述 Power Automate 的商業價值 (15-20%)
+- 展示 Power Virtual Agents 的商業價值(10-15%)
 roles:
 - developer
 products:
@@ -61,9 +60,9 @@ resources:
   description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
   href: ../help.md
 - title: 認證儀錶板
-  description: 檢閱並管理您的預定測驗、證書和成績單。
+  description: 查看和管理您的預定約會、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 要求住宿
+- title: 請求無障礙設施
   description: 詳細了解有關為測驗申請調整的資訊。
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 測驗政策和常見問題

@@ -1,0 +1,47 @@
+### YamlMime:Examination
+title: Microsoft Access Expert (Access and Access 2019)
+metadata:
+  title: 'MO-500: Microsoft Access Expert (Access and Access 2019)'
+  description: 'MO-500: Microsoft Access Expert (Access and Access 2019)'
+uid: exam.mo-500
+displayName: MO-500
+summary: |-
+  <div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+
+  該測驗涵蓋創建和維護 Access 資料庫對象(包括表、關係、資料輸入表單、多級報告和多表查詢)的能力。應試者應演示 Access 的主要功能的正確應用，並獨立完成任務。
+subTitle: 該測驗衡量資料庫設計原則中的能力。該測驗涵蓋創建和維護 Access 資料庫對象(包括表、關係、資料輸入表單、多級報告和多表查詢)的能力。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4n2bY
+scheduleExamUrl: http://www.certiport.com/locator
+locales:
+- en
+levels:
+- advanced
+skills:
+- 管理資料庫 (15-20%)
+- 創建和修改表 (25-30%)
+- 創建和修改查詢 (25-30%)
+- 在佈局視圖中修改表單 (10-15%)
+- 在佈局視圖中修改報告 (10-15%)
+roles:
+- business-user
+products:
+- office
+- office-access
+relatedCertifications:
+- related:
+    uid: certification.mos-access-expert-2019
+resources:
+- title: 訓練和認證指南
+  description: 透過一份簡潔的訓練和認證指南探索所有認證。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 認證儀錶板
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 請求無障礙設施
+  description: 詳細了解有關為測驗申請調整的資訊。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 測驗政策和常見問題
+  description: 查看測驗政策和常見問題。
+  href: ../certification-exam-policies.md
+

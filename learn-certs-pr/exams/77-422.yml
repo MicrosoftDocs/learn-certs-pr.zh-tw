@@ -1,0 +1,67 @@
+### YamlMime:Examination
+title: PowerPoint 2013
+metadata:
+  title: 'Exam 77-422: PowerPoint 2013'
+  description: 'Exam 77-422: PowerPoint 2013'
+uid: exam.77-422
+displayName: 77-422
+summary: |-
+  <div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+
+  MOS 2013 Study Guide for Microsoft PowerPoint  發行於：2013年10月
+
+  學習使用 PowerPoint 展示您的專業技能。使用這份全方位學習指南練習與準備 2013 PowerPoint Microsoft Office Specialist (MOS) 測驗。尋找全面而有針對性的測驗覆蓋範圍，並使用簡單易懂的程序與圖例複習基本技能。此外，還可獲取實踐任務，以套用您所學到的內容。此指南包括可下載的練習文件。
+
+  在 Microsoft Press Store 購買此書籍
+
+  本測驗的應試者應為使用 Office 建置兼具安全性與靈活性之應用程式的 IT 專業人員。
+subTitle: '本測驗的應試者應為使用 Office 建置兼具安全性與靈活性之應用程式的 IT 專業人員。'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4toXb
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=77-422&examname=PowerPoint%202013&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-422
+locales:
+- en
+- zh-cn
+- zh-tw
+- de
+- es
+- fr
+- it
+- ja
+- ko
+- nb
+- nl
+- pl
+- pt-br
+- ru
+levels:
+- beginner
+skills:
+- 建立與管理簡報
+- 插入與格式化形狀與投影片
+- 建立投影片內容
+- 套用轉場與動畫
+- 管理多個簡報
+roles:
+- business-user
+products:
+- office-powerpoint
+relatedCertifications:
+- related:
+    uid: certification.microsoft-office-specialist-certification-2013
+- related:
+    uid: certification.microsoft-office-specialist-master-certification-2013
+resources:
+- title: Exam Replay
+  description: 查看兩份可幫助您提高成功幾率的好提議。
+  href: ../deals.md
+- title: 認證儀錶板
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 請求無障礙設施
+  description: 詳細了解有關為測驗申請調整的資訊。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 測驗政策和常見問題
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: ../certification-exam-policies.md
+

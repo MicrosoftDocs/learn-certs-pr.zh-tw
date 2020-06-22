@@ -1,0 +1,88 @@
+### YamlMime:Examination
+title: Upgrading Your Skills to MCSA Windows Server 2012
+metadata:
+  title: 'Exam 70-417: Upgrading Your Skills to MCSA Windows Server 2012'
+  description: 'Exam 70-417: Upgrading Your Skills to MCSA Windows Server 2012'
+uid: exam.70-417
+displayName: 70-417
+summary: |+
+  <div><div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+  <div><strong>該測驗於美國中部時間2021年1月31日晚上11&#58;59淘汰。在此日期之後，您將無法參加測驗。深入瞭解 <a href='/learn/certifications/retired-certification-exams'>即將停止提供的測驗</a>。<br/><br/></strong></div>
+  </div>
+
+  此測驗適合想證明自己具備實作 Windows Server 2012 核心基礎結構服務所需技能與知識的 IT 專業人員。應試者需已通過合格的 Windows Server 2008、Windows Server 2003、Windows Server 2000 或 Windows XP certification。
+  - MCSA&#58; Windows Server 2008
+  - MCITP&#58; Server Administrator on Windows Server 2008
+  - MCITP&#58; Enterprise Administrator on Windows Server 2008
+  - MCITP&#58; Virtualization Administrator on Windows Server 2008 R2
+  - MCITP&#58; Enterprise Messaging Administrator 2010
+  - MCITP&#58; Lync Server Administrator 2010
+  - MCITP&#58; SharePoint Administrator 2010
+  - MCITP&#58; Enterprise Desktop Administrator on Windows 7
+  - MCDST&#58; Windows XP
+  - MCSE&#58; Windows 2000
+  - MCSA Windows 2000
+  - MCSA&#58; Security on Windows 2000
+  - MCSA&#58; Security on Windows 2003
+  - MCSA&#58; Windows Server 2003
+  - MCSE&#58; Security on Windows 2000
+  - MCSE&#58; Security on Windows 2003
+  - MCSE&#58; Windows Server 2003
+  - MCSA&#58; Messaging on Windows Server 2000
+  - MCSA&#58; Messaging on Windows Server 2003
+  - MCSE&#58; Messaging on Windows Server 2000
+  - MCSE&#58; Messaging on Windows Server 2003
+
+  <div style='font-weight&#58; bold;'><br/>本測驗已更新，納入 Windows Server 2012 R2 和 System Center 2012 R2 的最新技術更新。如需更多詳細資訊，您可以檢閱測驗詳細資料頁面上的測驗文件 <a href='/learn/certifications/exams/70-410'>70-410</a>, <a href='/learn/certifications/exams/70-411'>70-411</a>, 和 <a href='/learn/certifications/exams/70-412'>70-412</a>.</div>
+subTitle: '此測驗適合想證明自己具備實作 Windows Server 2012 核心基礎結構服務所需技能與知識的 IT 專業人員。應試者需已通過合格的 Windows Server 2008、Windows Server 2003、Windows Server 2000 或 Windows XP certification。'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tixY
+practiceTestUrl: https://www.mindhub.com/70-417-Upgrading-Your-Skills-to-MCSA-Windows-Srvr-p/mu-70-417_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=70-417&examname=Upgrading%20Your%20Skills%20to%20MCSA%20Windows%20Server%202012&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-417
+locales:
+- en
+- zh-cn
+- fr
+- de
+- ja
+- pt-br
+levels:
+- intermediate
+skills:
+- 安裝和設定伺服器
+- 設定伺服器角色和功能
+- 設定 Hyper-V
+- 安裝及管理 Active Directory
+- 部署、管理及維護伺服器
+- 設定網路服務及存取
+- 設定網路原則伺服器基礎結構
+- 設定及管理 Active Directory
+- 設定及管理群組原則
+- 設定及管理高可用性
+- 個人檔案案及存放解決方案
+- 實作商務持續性與嚴重損壞修復
+- 設定網路服務
+- 設定存取和資訊保護解決方案
+roles:
+- administrator
+products:
+- windows-server
+courses:
+- uid: course.20417
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Exam Replay
+  description: 查看兩份可幫助您提高成功幾率的好提議。
+  href: ../deals.md
+- title: 認證儀錶板
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 請求無障礙設施
+  description: 詳細了解有關為測驗申請調整的資訊。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 測驗政策和常見問題
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: ../certification-exam-policies.md
+

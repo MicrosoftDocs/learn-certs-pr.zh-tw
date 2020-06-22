@@ -2,13 +2,13 @@
 title: 'Microsoft Certified: Power Apps + Dynamics 365 Developer Associate'
 metadata:
   title: 'Microsoft Certified: Power Apps + Dynamics 365 Developer Associate'
-  description: 處理 Microsoft Power Apps 和 Dynamics 365 的研究人員負責設計、開發、保護及擴展 Dynamics 365 的實作。應試者實作解決方案的組件包括應用程式精進、自定義使用者體驗、系統整合、資料轉換、自定義流程自動化以及自定義可視化。
+  description: 處理 Microsoft Power Apps 和 Dynamics 365 的研究人員負責設計、開發、保護及擴展 Dynamics 365 的實作。應試者實作解決方案的元件，包括應用程式增強功能，自訂使用者體驗，系統整合，資料轉換，自訂流程自動化和自訂視覺效果。
 uid: certification.power-apps-and-d365-developer-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div style='color&#58; red;'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
 
-  處理 Microsoft Power Apps 和 Dynamics 365 的研究人員負責設計、開發、保護及擴展 Dynamics 365 的實作。應試者實作解決方案的組件包括應用程式精進、自定義使用者體驗、系統整合、資料轉換、自定義流程自動化以及自定義可視化。
+  處理 Microsoft Power Apps 和 Dynamics 365 的研究人員負責設計、開發、保護及擴展 Dynamics 365 的實作。應試者實作解決方案的元件，包括應用程式增強功能，自訂使用者體驗，系統整合，資料轉換，自訂流程自動化和自訂視覺效果。
 subTitle: 處理 Microsoft Power Apps 和 Dynamics 365 的研究人員負責設計、開發、保護及擴展 Dynamics 365 的實作。
 levels:
 - intermediate
@@ -20,7 +20,7 @@ skills:
 - 實作整合
 - 執行解決方案部署和測試
 - 建立一項技術設計
-- 設定 Common Data Service (CDS)
+- 設定 Common Data Service
 - 創建和設定 Power Apps
 - 設定業務流程自動化
 - 擴展使用者體驗
@@ -71,6 +71,6 @@ resources:
   description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
   href: help.md
 - title: 認證儀錶板
-  description: 檢閱並管理您的預定測驗、證書和成績單。
+  description: 查看和管理您的預定約會、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
 

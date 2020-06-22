@@ -1,0 +1,62 @@
+### YamlMime:Examination
+title: 'Microsoft Azure Data Fundamentals (beta)'
+metadata:
+  title: 'Exam DP-900: Microsoft Azure Data Fundamentals (beta)'
+  description: 'Exam DP-900: Microsoft Azure Data Fundamentals (beta)'
+uid: exam.dp-900
+displayName: DP-900
+summary: |-
+  <div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+
+  參加該測驗的考生應具有核心資料概念的基本知識，以及如何使用 Microsoft Azure 資料服務實作這些知識。
+
+  該測驗適用於開始使用雲端中的資料的應試者。
+
+  應試者應該熟悉關係和非關係資料的概念，以及不同類型的資料工作負載，例如事務性或分析性。
+
+  Azure 資料基礎知識可用於為其他基於 Azure 角色的認證做準備，例如 Azure Database Administrator Associate 或 Azure Data Engineer Associate，但這不是其中任何一個的先決條件。  
+
+  <div style='font-weight&#58; bold;'><br/>注意；此版測驗要到 2020 年 6 月 8日才能提供。</div>
+subTitle: '這項測驗將於 2020 年 6 月 8 日左右開始。證明您可以描述以下內容：核心資料概念；如何在 Azure 上使用關係資料；如何在 Azure 上使用非關係資料以及 Azure 上的分析工作負載。'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wsKZ
+locales:
+- en
+levels:
+- beginner
+skills:
+- 描述核心資料概念 (15-20%)
+- 描述如何在 Azure 上使用關係資料 (25-30%)
+- 描述如何在 Azure 上使用非關係資料 (25-30%)
+- 描述 Azure 上的分析工作負載 (25-30%)
+roles:
+- data-engineer
+- database-administrator
+products:
+- azure
+relatedCertifications:
+- related:
+    uid: certification.azure-data-fundamentals
+resources:
+- title: 訓練和認證指南
+  description: 透過一份簡潔的訓練和認證指南探索所有認證。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 認證海報
+  description: 查看基本知識、基於角色的認證和專業認證的概述。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: 查看兩份可幫助您提高成功幾率的好提議。
+  href: ../deals.md
+- title: 支持認證考試
+  description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
+  href: ../help.md
+- title: 認證儀錶板
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 請求無障礙設施
+  description: 詳細了解有關為測驗申請調整的資訊。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 測驗政策和常見問題
+  description: 查看測驗政策和常見問題。
+  href: ../certification-exam-policies.md
+

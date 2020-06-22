@@ -1,0 +1,116 @@
+### YamlMime:Course
+title: Microsoft Azure solutions for AWS developers
+metadata:
+  title: 'Course AZ-020T00-A: Microsoft Azure solutions for AWS developers'
+  description: 'Course AZ-020T00-A: Microsoft Azure solutions for AWS developers'
+uid: course.az-020t00
+courseNumber: 'AZ-020T00-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- azure
+exams:
+- uid: exam.az-203
+- uid: exam.az-204
+summary: |-
+  為期三天的課程旨在教授 AWS (Amazon Web Services) 開發人員如何在 Microsoft Azure 中準備端到端解決方案。在本課程中，您將構建 Azure App Service Web App 解決方案和 Azure Function，在解決方案中使用 blob 或 Cosmos DB 存儲，實作包括用戶身份驗證和授權在內的安全雲端解決方案，實作 API 管理，以及開發基於事件和消息的解決方案，並監控、解決和優化您的 Azure 解決方案。您將了解開發人員如何使用 Azure 服務，並將重點關注不同於 AWS 的功能和任務，以及在開發將使用 Azure 服務託管的應用程式時這對您意味著什麼。
+
+  #### 對象設定檔
+  本課程的學生是對 Azure 開發感興趣的經驗豐富的 AWS 開發人員。
+prerequisitesSection: |-
+  應試者必須具有 1-2 年的專業開發經驗以及 Azure 的經驗。他們必須能夠使用 Azure 支援的語言進行程式設計。
+outlineSection: |-
+  ### 模塊 1&#58; 創建Azure App Service 行動應用
+  學生將學習如何在 Azure App Service 平台上構建 Web 應用程式。他們將學習平台的功能以及如何建立，設定，擴充，保護和部署到 App Service 平台。
+  #### 課程
+  - Azure App Service核心概念
+  - 創建Azure App Service Web應用
+  - 設定和監視 App Service 應用程式
+  - 擴充 App Service 應用程式
+  - Azure App Service暫存概念
+
+
+  ### 模塊 2&#58; 實作Azure功能
+  此模組介紹如何建立 Functions 應用程式，以及如何將觸發器和輸入/輸出整合到該應用程式中。
+  #### 課程
+  - Azure功能概述
+  - 開發Azure功能
+  - 實作耐用功能
+
+
+  ### 模塊 3&#58; 開發使用Azure表儲存的解決方案
+  學生將學習 Azure Blob 儲存的工作方式，如何透過熱/冷/封存 Blob 存生命週期管理資料，以及如何使用 Azure Blob 儲存客戶端文件庫來管理資料和中繼資料。此外，學生還將學習如何創建 ARM（Azure 資源管理員）模板。
+  #### 課程
+  - Azure Blob storage 核心概念
+  - 管理 Azure Blob 儲存生命週期
+  - 使用Azure Blob 儲存體
+  - 建立 Azure Resource Manager 範本
+
+
+  ### 模塊 4&#58; 開發使用Azure Cosmos DB儲存的解決方案
+  學生將學習 Cosmos DB 的結構以及如何管理資料一致性。學生還將學習如何透過結合使用 Azure Portal 和 .NET SDK 來建立 Cosmos DB 帳號以及建立資料庫，容器和項目。
+  #### 課程
+  - Azure Cosmos DB概述
+  - Azure Cosmos DB data structure
+  - 使用 Azure Cosmos DB 資源和資料
+  - 建立和部署 ARM 範本
+
+
+  ### 模塊 5&#58; 創建和部署 Azure 資源管理員 (ARM) 模板
+  學生將學習如何創建和部署 Azure 資源管理員模板，這些模板可用於加快新部署的速度並在資源之間創建一致性。
+  #### 課程
+  - 建立和部署 ARM 範本
+
+
+  ### 模塊 6&#58; 實作使用者驗證和授權
+  學生將學習如何利用 Microsoft Identity Platform v2.0 管理 驗證和存取資源。學生還將學習如何使用  Microsoft Authentication Library 和 Microsoft Graph 來對用戶進行驗證並擷取儲存在 Azure 中的資訊，以及如何以及何時使用共享訪問簽名。
+  #### 課程
+  - 實作 Microsoft 身份平台
+  - 實作 Microsoft 身份驗證庫
+  - 使用 Azure App Configuration 確保應用程式設定資料的安全
+
+
+  ### 模塊 7&#58; 實作安全性資料解決方案
+  本模組涵蓋如何保護應用程式用來存取資源的資訊（金鑰、機密、認證）。它還涵蓋確保應用程式設定資訊的安全。
+  #### 課程
+  - 使用 KeyVault API 管理金鑰，機密和認證
+  - 實作Azure資源的受控身份識別
+  - 使用 Azure App Configuration 確保應用程式設定資料的安全
+
+
+  ### 模塊 8&#58; API管理
+  學生將學習如何發佈 API，透過 API 建立原則以管理共用資訊以及使用 Azure API 管理服務來管理對其API的存取。
+  #### 課程
+  - 實作 API 管理
+  - 定義API的原則
+  - 保護您的API
+
+
+  ### 模塊 9&#58; 開發基於事件的解決方案
+  學生將學習如何使用事件型的架構來構建應用程式。
+  #### 課程
+  - 實作 Azure 事件網格
+  - 實作 Azure 事件中心
+  - 實作 Azure 通知中心
+
+
+  ### 模塊 10&#58; 開發以訊息為基礎的解決方案
+  學生將學習如何使用訊息型的架構構建應用程式。
+  #### 課程
+  - 實作使用Azure Service Bus的解決方案
+  - 實作使用Azure佇列儲存佇列的解決方案
+
+
+  ### 模塊 11&#58; 監視和自動化Azure解決方案
+  該模塊教學生如何為遙測技術檢測代碼。
+  #### 課程
+  - Azure Application Insights 的應用程式
+  - 檢測應用程式
+

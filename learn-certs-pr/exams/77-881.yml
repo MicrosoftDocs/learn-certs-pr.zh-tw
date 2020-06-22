@@ -1,0 +1,59 @@
+### YamlMime:Examination
+title: Word 2010
+metadata:
+  title: 'Exam 77-881: Word 2010'
+  description: 'Exam 77-881: Word 2010'
+uid: exam.77-881
+displayName: 77-881
+summary: |-
+  <div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+
+  核心級 Microsoft Office Word 2010 用戶應該能夠在特性與功能級別上導覽 Microsoft Office Word 2010 軟體。他們應該熟悉並知曉如何使用 Microsoft Office Word 2010 的至少 80% 的特性與功能。核心級用戶應該能夠使用 Microsoft Office Word 2010 來建立與編輯具有專業外觀的文件，以用於各種目的與情況。用戶可包括來自各個領域的各種職業角色，包括專業人士、學生與個人使用者。
+subTitle: 核心級 Microsoft Office Word 2010 用戶應該能夠在特性與功能級別上導覽 Microsoft Office Word 2010 軟體。他們應該熟悉並知曉如何使用 Microsoft Office Word 2010 的至少 80% 的特性與功能。核心級用戶應該能夠使用 Microsoft Office Word 2010 來建立與編輯具有專業外觀的文件，以用於各種目的與情況。用戶可包括來自各個領域的各種職業角色，包括專業人士、學生與個人使用者。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trjX
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=77-881&examname=Word%202010&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-881
+locales:
+- en
+- zh-cn
+- zh-tw
+- de
+- es
+- fr
+- it
+- ja
+- ko
+- nl
+- pt-br
+- ru
+levels:
+- beginner
+skills:
+- 共享與維護文件
+- 設定格式內容
+- 套用頁面設定與可重用內容
+- 在文件中包括圖例與圖形
+- 校訂文件
+- 套用引用與超連結
+- 執行郵件合併操作
+roles:
+- business-user
+products:
+- office-word
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Exam Replay
+  description: 查看兩份可幫助您提高成功幾率的好提議。
+  href: ../deals.md
+- title: 認證儀錶板
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 請求無障礙設施
+  description: 詳細了解有關為測驗申請調整的資訊。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 測驗政策和常見問題
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: ../certification-exam-policies.md
+

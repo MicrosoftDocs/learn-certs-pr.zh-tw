@@ -6,16 +6,19 @@ metadata:
 uid: exam.62-193
 displayName: 62-193
 summary: |-
+  <div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+
   此測驗的應試者包括準備成為教室教育人員、現任教育人員、教師訓練師資或職前教育學院、教育行政人員或其他希望提供能力驗證的專業人員。
 
   MCE&#58; 技術素養的教育人員認證測驗是一項中級測驗，旨在成為 21 世紀學習設計 (21CLD) 架構衡量的有效和可靠的能力測量。
 subTitle: 此測驗的應試者包括準備成為教室教育人員、現任教育人員、教師訓練師資或職前教育學院、教育行政人員或其他希望提供能力驗證的專業人員。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4vHlU
 providers:
-  - providerType: pearson-vue
-    examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=62-193&examname=Technology%20Literacy%20for%20Educators&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2F62-193
-  - providerType: certiport
-    examUrl: http://www.certiport.com/locator
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=62-193&examname=Technology%20Literacy%20for%20Educators&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2F62-193
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
 - de
@@ -27,13 +30,13 @@ locales:
 - pl
 - ja
 - tr
-levels: 
+levels:
 - beginner
 skills:
 - 促進學生合作
 - 促進熟練的交流
 - 促進知識建構
-- 促进自律
+- 促進自律
 - 促進現實世界的解決問題和創新
 - 促進學生使用資訊和通訊工具 (ICT)
 - 使用 ICT 成為一名有效的教育人員
@@ -46,11 +49,12 @@ relatedCertifications:
     uid: certification.microsoft-certified-educator
 resources:
 - title: 認證儀錶板
-  description: 檢閱並管理您的預定測驗、證書和成績單。
+  description: 查看和管理您的預定約會、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 申請調整
+- title: 請求無障礙設施
   description: 詳細了解有關為測驗申請調整的資訊。
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 測驗政策和常見問題
   description: 查看測驗政策和常見問題。
   href: ../certification-exam-policies.md
+

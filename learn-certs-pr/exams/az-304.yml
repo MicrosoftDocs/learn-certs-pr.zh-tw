@@ -18,17 +18,16 @@ summary: |-
 subTitle: '此測驗會評量您達成下方技術性工作的能力：設計監視； 設計身份識別和安全性； 設計資料儲存； 設計商務連續性； 和設計基礎架構。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4pCWz
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=AZ-304&examname=Exam%20AZ-304:%20Microsoft%20Azure%20Architect%20Design&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-304
 locales:
 - en
 levels:
 - advanced
 skills:
-- 設計監視(10-15%)
-- 設計身份識別和安全性(25-30%)
-- 設計資料儲存(15-20%)
+- 設計監視(10 -15%)
+- 設計身份識別和安全性(25 -30%)
+- 設計資料儲存(15 -20%)
 - 設計業務連續性 (10-15%)
-- 設計基礎(25-30%)
+- 設計基礎(25 -30%)
 roles:
 - solution-architect
 products:
@@ -37,9 +36,6 @@ relatedCertifications:
 - related:
     uid: none
 resources:
-- title: 認證學習途徑
-  description: '發現訓練資源，以成為經 Microsoft Certified: Azure Solutions Architect Expert.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtVsd
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
@@ -53,9 +49,9 @@ resources:
   description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
   href: ../help.md
 - title: 認證儀錶板
-  description: 檢閱並管理您的預定測驗、證書和成績單。
+  description: 查看和管理您的預定約會、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 要求住宿
+- title: 請求無障礙設施
   description: 詳細了解有關為測驗申請調整的資訊。
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 測驗政策和常見問題

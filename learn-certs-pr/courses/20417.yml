@@ -1,0 +1,273 @@
+### YamlMime:Course
+title: Upgrading Your Skills to MCSA Windows Server® 2012
+metadata:
+  title: 'Course 20417-D: Upgrading Your Skills to MCSA Windows Server® 2012'
+  description: 'Course 20417-D: Upgrading Your Skills to MCSA Windows Server® 2012'
+uid: course.20417
+courseNumber: '20417-D'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 安裝和設定 Windows Server 2012。
+- skill: 使用 WindowsPowerShell® 管理 Windows Server 2012。
+- skill: 在 Windows Server 2012 中管理存儲。
+- skill: 實作網路服務。
+- skill: 實作遠端存取。
+- skill: 實作容錯移轉叢集。
+- skill: 實作 Hyper-V™。
+- skill: 使用 Hyper-V 實作容錯移轉叢集。
+- skill: 為用戶和設備實作安全的資料存取。
+- skill: 實作 Active Directory® 網域服務 (AD DS)。
+- skill: 實作 Active Directory Federation Services (AD FS)。
+- skill: 監控和維護 Windows Server 2012。
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- windows-server
+exams:
+- uid: exam.70-417
+summary: |-
+  在為期五天的 Microsoft 官方課程中，獲得實際操作指導，並練習在 Windows Server 2012（包括 Windows Server 2012 R2）中設定和實作新功能。本課程專為希望將其現有 Windows Server 技術技能升級到 Windows Server 2012 和 Windows Server 2012 R2 的 IT 專業人員而設計。它假定您具有與 MCSA 等效的以前的 Windows Server 技術和技能的高水平知識：Windows Server 2008 認證。 
+
+  該課程涵蓋 Windows Server 2012 和 Windows Server 2012 R2 中的新功能，包括管理、網路基礎結構、存儲、存取控制、視覺效果、高可用性和身份聯合。涵蓋的特定技術包括 Windows PowerShell、存儲空間和 Internet 小型電腦系統介面 (iSCSI)、Active Directory、Hyper-V、遠端存取解決方案的實作，例如 DirectAccess、VPN 和 Web 應用程式 Proxy (WAP)。該課程還涵蓋容錯移轉叢集、聯合身份驗證服務以及存取和資訊提供和保護技術，例如動態存取控制以及與聯合身份驗證服務和加入工作場所網路的 Web 應用程式 Proxy 整合。 
+
+  本課程不是產品升級課程，它詳細介紹了將特定環境遷移和升級到 Windows Server 2012 的注意事項。相反，本課程將使您現有的 Windows Server 知識和技能更新為 Windows Server 2012（包括 Windows Server 2012 R2）。 
+
+  本課程直接映射到 Microsoft 認證解決方案合作夥伴 (MCSA)，是進行實際操作準備的首選方法：測驗 [417&#58; Your Skills to MCSA Windows Server 2012](http://www.microsoft.com/learning/exam-70-417.aspx)，這是具有合格升級路徑的認證的升級測驗。此處提供了各種支援的升級路徑的詳細資訊 [https://www.microsoft.com/learning/en-au/windows-server-certification.aspx](https://www.microsoft.com/learning/windows-server-certification.aspx)  
+
+  注意&#58; 本課程中的實驗是根據 Windows Server 2012 R2 和 Windows 8.1。
+
+  #### 對象設定檔
+  本課程適用於經驗豐富的 Windows Server 系統管理員的資訊技術 (IT) 專業人員，他們熟悉執行 Windows Server 的日常管理和維護任務。課程將使他們的技能更新為 Windows Server 2012 和 Windows Server 2012 R2。適合該課程的應試者為：
+  - 經驗豐富的Windows Server管理員，他們具有在 Windows Server 企業環境中工作的真實經驗。
+  - 已獲得 [MCSA&#58; Windows Server 2008](http://www.microsoft.com/learning/en-gb/mcsa-windows-server-2008-certification.aspx) ，或合格的可升級認證（在[此處]可以獲取其詳細資訊(https://www.microsoft.com/learning/windows-server-certification.aspx)，或具有同等知識的 IT 專業人員。
+  - 希望在資料中心、桌面基礎結構、傳訊、協作和通信中參加 Microsoft 認證解決方案專家 (MCSE) 測驗的 IT 專業人員，在為 Microsoft Certified Solutions Associate (MCSA) Windows Server 2012 認證（這是他們各自專業的先決條件）做準備時，也有興趣參加此課程。
+  prerequisitesSection: |-
+  在參加本課程之前，學生必須具備&#58;
+  - 擁有企業環境中日常 Windows Server 系統管理、管理和維護任務的經驗
+  - 取得了可以參加此處列出的 70-417 升級測驗的資格, [https://www.microsoft.com/learning/windows-server-certification.aspx](https://www.microsoft.com/learning/windows-server-certification.aspx), or have equivalent knowledge
+
+  注&#58; 一旦滿足同等知識的標準，就可以在不獲得合格可升級證書的情況下參加本課程。但是，隨後參加並通過 70-417 升級測驗不會為考生提供 MCSA&#58; Windows Server 2012 認證。此證書升級僅適用於持有現有合格升級證書的持有者，有關詳細資訊，請參見上面列出的 URL。
+outlineSection: |-
+  ### 模塊 1&#58; 安装和設定 Windows Server 2012
+  本模塊說明如何安裝和設定 Windows Server 2012。它專門涵蓋了安裝的要求和注意事項以及角色安裝和安裝類型（例如 Server Core）。它還涵蓋了執行 Windows Server 2012 的伺服器的遠端管理的實作和設定。
+  #### 課程
+  - 安裝 Windows Server 2012 R2
+  - 設定 Windows Server 2012 R2 和 Windows Server 2012
+  - 為 Windows Server 2012 R2 和 Windows Server 2012 設定遠端管理
+
+
+  #### 實驗室 &#58; 安裝和設定 Windows Server 2012 R2
+  完成本單元後，學生將能夠&#58;
+  - 安裝 Windows Server 2012 R2。
+  - 設定 Windows Server 2012 R2 和 Windows Server 2012。
+  - 為 Windows Server 2012 R2 和 Windows Server 2012 設定遠端管理。
+
+
+  ### 模塊 2&#58; 使用 Windows PowerShell 管理 Windows Server 2012
+  本模塊說明如何使用 Windows PowerShell 管理 Windows Server 2012。它將概述 Windows PowerShell 和 Windows PowerShell 整合式指令碼環境 (ISE)。它還將在 AD DS 和常規伺服器管理的範圍內介紹 Windows PowerShell。
+  #### 課程
+  - Windows PowerShell 概述
+  - 使用 Windows PowerShell 管理 AD DS
+  - 使用 Windows PowerShell 管理伺服器
+
+
+  #### 實驗室 &#58; 使用 Windows PowerShell 管理執行 Windows Server 2012 的伺服器
+  完成本單元後，學生將能夠&#58;
+  - 描述 Windows PowerShell 命令列介面。
+  - 使用 Windows PowerShell 管理 Active Directory 網域服務 (AD DS)。
+  - 使用 Windows PowerShell 管理伺服器。
+
+
+  ### 模塊 3&#58; 在 Windows Server 2012 中管理存儲
+  本模塊說明如何在 Windows Server 2012 中設定存儲。
+  #### 課程
+  - Windows Server 2012 中的存儲功能
+  - 設定 iSCSI 存儲
+  - 在 Windows Server 2012 中設定存儲空間
+  - 在 Windows Server 2012 中設定 BranchCache
+
+
+  #### 實驗室 &#58; 在執行 Windows Server 2012 的伺服器上管理存儲
+
+  #### 實驗室 &#58; 實作 BranchCache
+  完成本單元後，學生將能夠&#58;
+  - 描述 Windows Server 2012 中的存儲功能。
+  - 設定 iSCSI 儲存。
+  - 設定存儲空間。
+  - 設定 BranchCache。
+
+
+  ### 模塊 4&#58; 實作網路服務
+  本模塊說明如何為網域名稱系統 (DNS) 和動態主機設定通訊協定 (DHCP) 設定高階功能。它還說明如何設定 IP 地址管理 (IPAM) 和網路存取保護 (NAP)。
+  #### 課程
+  - 實作 DNS 和 DHCP 增強功能
+  - 實作 PAM
+  - 使用 IPAM 管理 IP 地址空間
+  - NAP 概述
+  - 實作 NAP
+
+
+  #### 實驗室 &#58; 實作網路服務
+
+  #### 實驗室 &#58; 實作 NAP
+  完成本單元後，學生將能夠&#58;
+  - 實作 DHCP 和 DNS 增強功能。
+  - 實作 IPAM。
+  - 使用 IPAM 管理 IP 地址空間。
+  - 描述 NAP。
+  - 實作 NAP。
+
+
+  ### 模塊 5&#58; 實作遠端存取
+  本模塊介紹使用 Windows Server 2012 設置遠端存取的選項。它將專門介紹 DirectAccess 和 VPN，以及在 Windows Server 2012 環境中實作和管理這些遠端存取技術的注意事項，包括證書的使用。
+  #### 課程
+  - 遠端存取概述
+  - 使用開始使用精靈實作 DirectAccess
+  - 實作和管理進階 DirectAccess 基礎結構
+  - 實作VPN
+
+
+  #### 實驗室 &#58; 實作 DirectAccess
+  完成本單元後，學生將能夠&#58;
+  - 在 Windows Server 2012 中安裝和管理遠端存取角色。
+  - 使用入門嚮導實作 DirectAccess。
+  - 實作和管理高級 DirectAccess 基礎架構。
+  - 在 Windows Server 2012 中實作 VPN 存取。
+
+
+  ### 模塊 6&#58; 實作故障移轉群集
+  本模塊說明如何透過實作容錯移轉叢集來為網路服務和應用程式提供高可用性。它將概述所討論的服務和應用程式的術語和技術以及特定的注意事項和選項。
+  #### 課程
+  - 容錯移轉叢集概觀
+  - 實作容錯移轉叢集
+  - 在容錯移轉叢集上設定高可用性應用程式和服務
+  - 維護故障移轉群集
+  - 實作多站點容錯移轉叢集
+
+
+  #### 實驗室 &#58; 實施容錯移轉叢集
+  完成本單元後，學生將能夠&#58;
+  - 描述容錯轉移叢集。
+  - 實作容錯移轉叢集。
+  - 設定高可用性的應用程式和服務。
+  - 維護故障移轉群集。
+  - 實作多站點容錯移轉叢集。
+
+
+  ### 模塊 7&#58; 實作網路服務
+  本模塊說明如何安裝和設定 Hyper-V 虛擬機器。它將涵蓋常規設定以及存儲和網路注意事項。它還將涵蓋 Windows Server 2012 R2 中引入的差異。
+  #### 課程
+  - 設定 Hyper-V 伺服器
+  - 設定 Hyper-V 存儲
+  - 設定 Hyper-V 網路
+  - 設定 Hyper-V 虛擬機
+
+
+  #### 實驗室 &#58; 使用 Hyper-V 實作伺服器虛擬化
+  完成本單元後，學生將能夠&#58;
+  - 設定 Hyper-V 伺服器。
+  - 設定 Hyper-V 存放裝置。
+  - 設定 Hyper-V 網路功能。
+  - 設定 Hyper-V 虛擬機。
+
+
+  ### 模塊 8&#58; 使用Windows Server 2012 R2 Hyper-V 實作容錯移轉叢集
+  本模塊說明如何在容錯移轉叢集中部署和管理 Hyper-V 虛擬機器。它將概述所涉及的技術，以及有關虛擬機器的常規設定和遷移的詳細資訊。
+  #### 課程
+  - 概述 Hyper-V Server 2012 與故障移轉群集的集成
+  - 在容錯移轉叢集上實作 Hyper-V 虛擬機器
+  - 實作 Windows Server 2012 Hyper-V 虛擬機器遷移
+  - 實作 Hyper-V 複本
+
+
+  #### 實驗室 &#58; 使用Windows Server 2012 Hyper-V 實作容錯移轉叢集
+  完成本單元後，學生將能夠&#58;
+  描述 Hyper-V 如何與容錯移轉叢集整合。
+  - 在容錯移轉叢集中實作 Hyper-V 虛擬機器。
+  - 實作 Hyper-V 虛擬機器移動。
+  - 實作 Hyper-V 複本。
+
+
+  ### 模塊 9&#58; 為用戶和設備實作安全資料存取
+  本模塊說明如何為用戶和設備設定安全的資料存取。它將主要涵蓋動態存取控制 (DAC) 和工作資料夾的實作。
+  #### 課程
+  - 動態存取控制概述
+  - 實作 DAC 元件
+  - 實作用於存取控制的 DAC
+  - 實作拒絕存取時的協助
+  - 實作和管理工作資料夾
+
+
+  #### 實驗室 &#58; 實作安全文檔存取
+  完成本單元後，學生將能夠&#58;
+  - 描述DAC。
+  - 實作 DAC 元件。
+  - 實作 DAC 進行存取控制。
+  - 實作拒絕存取時的協助。
+  - 實作和管理工作資料夾。
+
+
+  ### 模塊 10&#58; 實作 AD DS
+  本模塊說明如何在 Windows Server 2012 中實作 AD DS。它涵蓋了網域控制站的部署和設定，以及 Windows Azure Active Directory 提供的服務帳戶、群組原則和服務的使用和實作。它還涵蓋了 AD DS 的常規維護。
+  #### 課程
+  - 部署 AD DS 網域控制站
+  - 設定 AD DS 網域控制站
+  - 實作服務帳戶
+  - 在 AD DS 中實作群組原則
+  - Windows Azure Active Directory 概述
+  - 維護 AD DS
+
+
+  #### 實驗室 &#58; 實作 AD DS
+
+  #### 實驗室 &#58; 疑難解答和維護 AD DS
+  完成本單元後，學生將能夠&#58;
+  - 部署網域控制站。
+  - 設定網域控制站。
+  - 實作服務帳戶。
+  - 實作群組原則
+  - 描述 Windows Azure Active Directory。
+  - 維護 AD DS。
+
+
+  ### 模塊 11&#58; 實作 AD FS
+  本模塊說明如何實作 AD FS 部署。它將涵蓋單個組織使用場景以及企業對企業場景。該模塊還涵蓋了 Web 應用程式 Proxy 和加入工作場所網路。
+  #### 課程
+  - AD FS 概述
+  - 部署 AD FS
+  - 為單個組織實作 AD FS
+  - 在企業對企業同盟案例中部署 AD FS
+  - 實作 Web Application Proxy
+  - 實作加入工作場所網路
+
+
+  #### 實驗室 &#58; 實作 AD FS
+  完成本單元後，學生將能夠&#58;
+  - 描述 AD FS。
+  - 說明如何部署 AD FS。
+  - 說明如何為單個組織實作 AD FS。
+  - 說明如何在企業對企業同盟案例中部署 AD FS。
+  - 說明如何實作 Web 應用程式 Proxy。
+  - 說明如何實作加入工作場所網路。
+
+
+  ### 模塊 12&#58; 監控和維護 Windows Server 2012
+  本模塊說明如何監控和維護 Windows Server 2012。它將涵蓋效能監控器和資料收集器集合工具以及伺服器備份和恢復技術。
+  #### 課程
+  - 監控 Windows Server 2012
+  - 實作 Windows Server 備份
+  - 實作伺服器和資料修復
+
+
+  #### 實驗室 &#58; 監控和維護 Windows 2012 伺服器
+  完成本單元後，學生將能夠&#58;
+  - 監控 Windows Server 2012。
+  - 實作 Windows Server 備份。
+  - 使用 Windows Server Backup 還原資料和伺服器。
+

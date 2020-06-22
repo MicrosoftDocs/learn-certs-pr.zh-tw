@@ -1,19 +1,18 @@
 ### YamlMime:Certification
-title: 'Microsoft Certified: Power Apps + Dynamics 365 Solution Architect Expert'
+title: 'Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert'
 metadata:
-  title: 'Microsoft Certified: Power Apps + Dynamics 365 Solution Architect Expert'
-  description: Dynamics 365 中的 Microsoft Power Apps 模型驅動式應用程式解決方案架構師須能成功領導實作工作，並專注于如何透過解決方案為組織解決更廣泛的業務和技術需求。
+  title: 'Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert'
+  description: Microsoft Dynamics 365 + Power Platform 的解決方案架構師領導成功的實作，並專注於解決方案如何滿足組織更廣泛的業務和技術需求。
 uid: certification.power-apps-and-d365-solution-architect-expert
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
 summary: |-
-  <div style='color&#58; red;'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
-  
-  Dynamics 365 中的 Microsoft Power Apps 模型驅動式應用程式解決方案架構師須能成功領導實作工作，並專注于如何透過解決方案為組織解決更廣泛的業務和技術需求。 
-subTitle: Dynamics 365 中的 Microsoft Power Apps 模型驅動式應用程式解決方案架構師須能成功領導實作工作，並專注于如何透過解決方案為組織解決更廣泛的業務和技術需求。
+  <div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
+
+  Microsoft Dynamics 365 + Power Platform 的解決方案架構師領導成功的實作，並專注於解決方案如何滿足組織更廣泛的業務和技術需求。
+subTitle: Microsoft Dynamics 365 + Power Platform 的解決方案架構師領導成功的實作，並專注於解決方案如何滿足組織更廣泛的業務和技術需求。
 levels:
 - advanced
 skills:
-- '附註：出現在以下文件中所評量的每種技能下方的項目符號旨在說明我們如何評估該技能。此清單不明確或詳盡。'
 - 執行解決方案設想和需求分析
 - 構建一項解決方案
 - 實作該解決方案
@@ -43,7 +42,7 @@ prerequisites:
   isOptional: false
 resources:
 - title: 認證學習途徑
-  description: '發現訓練資源，以成為經 Microsoft Certified: Power Apps + Dynamics 365 Solution Architect Expert'
+  description: '發現訓練資源，以成為經 Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tKUY
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
@@ -58,5 +57,6 @@ resources:
   description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
   href: help.md
 - title: 認證儀錶板
-  description: 檢閱並管理您的預定測驗、證書和成績單。
+  description: 查看和管理您的預定約會、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
+

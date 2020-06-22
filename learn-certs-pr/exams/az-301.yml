@@ -29,8 +29,8 @@ skills:
 - 確定工作量要求 (10-15%)
 - 身份和安全性設計 (20-25%)
 - 設計資料平台解決方案 (15-20%)
-- 設計一個業務連續性策略 (15-20%)
-- 設計用於部署、轉移和集成 (10-15%)
+- 設計業務連續性策略 (15-20%)
+- 設計部署、移轉與整合 (10-15%)
 - 設計基礎設施策略 (15-20%)
 retirementDate: 09/30/2020
 roles:
@@ -78,9 +78,6 @@ relatedCertifications:
 - related:
     uid: certification.azure-solutions-architect
 resources:
-- title: 認證學習途徑
-  description: '發現訓練資源，以成為經 Microsoft Certified: Azure Solutions Architect Expert.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtVsd
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
@@ -94,9 +91,9 @@ resources:
   description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
   href: ../help.md
 - title: 認證儀錶板
-  description: 檢閱並管理您的預定測驗、證書和成績單。
+  description: 查看和管理您的預定約會、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 要求住宿
+- title: 請求無障礙設施
   description: 詳細了解有關為測驗申請調整的資訊。
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 測驗政策和常見問題

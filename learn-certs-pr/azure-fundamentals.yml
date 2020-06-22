@@ -1,19 +1,28 @@
 ### YamlMime:Certification
-title: Microsoft Certified Azure Fundamentals
+title: 'Microsoft Certified: Azure Fundamentals'
 metadata:
-  title: Microsoft Certified Azure Fundamentals
-  description: 證明您了解雲端概念，核心Azure服務，Azure定價和支援，以及雲端安全、隱私、合規性和信任的基礎知識。
+  title: 'Microsoft Certified: Azure Fundamentals'
+  description: 'Azure 基礎知識驗證了雲端服務的基礎知識以及 Microsoft Azure 如何提供這些服務。'
 uid: certification.azure-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
-summary: 證明您了解雲端概念，核心Azure服務，Azure定價和支援，以及雲端安全、隱私、合規性和信任的基礎知識。
-subTitle: 證明您了解雲端概念，核心Azure服務，Azure定價和支援，以及雲端安全、隱私、合規性和信任的基礎知識。
+summary: |-
+  <div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
+
+  Azure 基礎知識認證的應試者應具有雲端服務以及 Microsoft Azure 如何提供這些服務的基礎知識。
+
+  Azure 基礎知識認證是讓您有機會證明在雲端概念、核心 Azure 服務、Azure 定價、SLA 和生命週期方面的知識，以及在雲端安全性、隱私權、合規性和信任方面的基礎知識。
+
+  該認證適用於開始使用基於雲端的解決方案和服務的人們。應試者應該能夠證明有關雲端概念以及 Azure 服務、工作負載、安全性、隱私權、定價和支援的基本知識。此外，您應該熟悉網路、存儲、計算、應用程式支援和應用程式開發的概念。
+
+  Azure 基礎知識可用於準備其他基於 Azure 角色的或專業的認證，但這不是其中任何一項的先決條件。
+subTitle: Azure 基礎知識驗證了雲端服務的基礎知識以及 Microsoft Azure 如何提供這些服務。
 levels:
 - beginner
 skills:
-- 瞭解雲端概念
-- 瞭解核心 Azure 服務
-- 瞭解安全性、隱私、合規性和信任
-- 瞭解 Azure 定價和支援
+- 描述雲端概念
+- 描述核心 Azure 服務
+- 描述安全性、隱私權、合規性和信任
+- 描述 Azure 定價服務等級協定和生命週期
 roles:
 - developer
 type: fundamentals
@@ -21,27 +30,29 @@ products:
 - azure
 courses:
 - uid: course.az-900t01
+- uid: course.az-900t00
 paths:
 - uid: learn.cloud-foundations
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3WzVA
 exams:
 - uid: exam.az-900
 resources:
-- title: 認證學習路徑
-  description: '發現訓練資源,以成為經 Microsoft Certified: Azure Fundamentals。'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE38YZj
+- title: Azure 認證海報
+  description: 查看概述，包括 Azure 的基礎知識、基於角色的和專業認證。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 認證海報
-  description: 查看關於基礎知識、角色型和專業認證的概述。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oWP3
-- title: 重測
+  description: 查看基本知識、基於角色的認證和專業認證的概述。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
   description: 查看兩份可幫助您提高成功幾率的好提議。
   href: deals.md
 - title: 支持認證
-  description: 透過Microsoft認證支持論壇獲得幫助。論壇版主將在週一至週五之間的一個工作日內回覆。
+  description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
   href: help.md
 - title: 認證儀錶板
-  description: 檢閱並管理您的預定測驗、證書和成績單。
+  description: 查看和管理您的預定約會、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
+

@@ -1,44 +1,47 @@
 ### YamlMime:Examination
 title: Deploying Microsoft 365 Teamwork
 metadata:
-  title: '測驗 MS-300：Deploying Microsoft 365 Teamwork'
-  description: '測驗 MS-300：Deploying Microsoft 365 Teamwork'
+  title: 'Exam MS-300: Deploying Microsoft 365 Teamwork'
+  description: 'Exam MS-300: Deploying Microsoft 365 Teamwork'
 uid: exam.ms-300
 displayName: MS-300
-summary: >-
-  此測驗的應試者是團隊管理員，他們負責設定、部署與管理專注於高效率，有效的共同作業與採用的 Office 365 與 Azure 工作負載。團隊工作管理員可管理應用程式，服務與支援基礎架構，以滿足業務需求。Teamwork 管理員必須能夠部署，管理，轉移與保護 SharePoint（線上，本地與混合），OneDrive 與團隊。
+summary: |-
+  <div>
+  <div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>該測驗將於 2020 年 8 月 31 日停用。附註：測驗將在中部標準時間晚間11點59分到期。<br/></div>
+  </div>
 
+  此測驗的應試者是團隊管理員，他們負責設定、部署與管理專注於高效率，有效的共同作業與採用的 Office 365 與 Azure 工作負載。團隊工作管理員可管理應用程式，服務與支援基礎架構，以滿足業務需求。Teamwork 管理員必須能夠部署，管理，轉移與保護 SharePoint(線上，本地與混合)，OneDrive 與團隊。
   <br/>
-
 
   團隊工作管理員參與有關治理的決策，並與其他管理員合作實施治理機構做出的許多決策。團隊工作管理員與 Messaging Administrator 共同作業設定與電子郵件任務相關的選項與安全性，語音管理員在組織中整合語音功能，以及安全管理員以確保端到端的安全性。
 
-
-  測驗的應試者使用以下應用程式與服務對整合點有基本的了解：Office, Power Apps, Flow, Yammer, Microsoft Graph, Stream, Planner, 與 Project。管理員了解如何整合協力廠商應用程式與服務，包括商務營運應用程式。應試者還瞭解 SQL Server 管理概念、Azure Active Directory、PowerShell、網路、Windows 伺服器管理、網域名稱系統（DNS）、Active Directory 行動裝置管理與替代作業系統。
-subTitle: 此測驗測量您在完成以下技術任務時的能力：設定與管理 SharePoint Online；設定與管理 OneDrive for Business；設定與管理團隊；以及設定與管理工作負載整合。
+  測驗的應試者使用以下應用程式與服務對整合點有基本的了解：Office, Power Apps, Flow, Yammer, Microsoft Graph, Stream, Planner, 與 Project。管理員了解如何整合協力廠商應用程式與服務，包括商務營運應用程式。應試者還了解 SQL Server 管理概念、Azure Active Directory、PowerShell、網路、Windows伺服器管理、網域名稱系統(DNS)、Active Directory 行動裝置管理與替代作業系統。
+subTitle: '此測驗測量您在完成以下技術任務時的能力：設定與管理 SharePoint Online；設定與管理 OneDrive for Business；設定與管理團隊；以及設定與管理工作負載整合。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEI2
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=MS-300&examname=Exam%20MS-300:%20Deploying%20Microsoft%20365%20Teamwork&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-300
 locales:
 - en
 - ja
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=MS-300&examname=測驗%20MS-300:%20Deploying%20Microsoft%20365%20Teamwork&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2Fms-300
 levels:
 - intermediate
 skills:
+- 附註：出現在以下文件中所評量的每種技能下方的項目符號旨在說明我們如何評估該技能。此清單不明確或詳盡。
 - 設定與管理 SharePoint Online(35-40%)
 - 設定與管理 OneDrive for Business(25-30%)
-- 設定與管理團隊 (20-25%)
+- 設定與管理團隊 (20 -25%)
 - 設定及管理工作負載整合 (15-20%)
 roles:
 - administrator
-exams:
-- uid: exam.ms-301
 products:
 - m365
 - office-sp
 - office-onedrive
 - office-teams
 - office-yammer
+exams:
+- uid: exam.ms-301
 courses:
 - uid: course.ms-300t01
 - uid: course.ms-300t02
@@ -48,24 +51,28 @@ relatedCertifications:
 - related:
     uid: certification.m365-teamwork-administrator
 resources:
-- title: 認證學習路徑
-  description: '發現訓練資源, 以成為經 Microsoft Certified: Teamwork Administrator Associate。'
+- title: 認證學習途徑
+  description: '發現訓練資源，以成為經 Microsoft Certified: Teamwork Administrator Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE453ss
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 重測
+- title: 認證海報
+  description: 查看基本知識、基於角色的認證和專業認證的概述。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
   description: 查看兩份可幫助您提高成功幾率的好提議。
   href: ../deals.md
 - title: 支持認證考試
-  description: 透過Microsoft認證支持論壇獲得幫助。論壇版主將在週一至週五之間的一個工作日內回覆。
+  description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
   href: ../help.md
 - title: 認證儀錶板
-  description: 檢閱並管理您的預定測驗、證書和成績單。
+  description: 查看和管理您的預定約會、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 請求無障礙設施
-  description: 瞭解更多有關為您的測驗申請無障礙設施的資訊。
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
-- title: 測驗規則和常見問題解答
-  description: 檢閱測驗規定和常見問題解答。
+  description: 詳細了解有關為測驗申請調整的資訊。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 測驗政策和常見問題
+  description: 查看測驗政策和常見問題。
   href: ../certification-exam-policies.md
+

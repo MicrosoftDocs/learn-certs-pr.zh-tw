@@ -1,0 +1,48 @@
+### YamlMime:Examination
+title: 'MOS: Using Microsoft Office Word 2007'
+metadata:
+  title: 'Exam 77-601: MOS: Using Microsoft Office Word 2007'
+  description: 'Exam 77-601: MOS: Using Microsoft Office Word 2007'
+uid: exam.77-601
+displayName: 77-601
+summary: |-
+  <div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+
+  參加該測驗的應試者應具有相當於六個月至一年的實際操作實踐經驗，可以使用 Microsoft Office Word 2007 建立業務可交付成果，並且可能具有使用 Office Word 早期版本的經驗。這些應試者特別擅長透過使用適合所呈現資訊的格式和視覺內容來建立、定制和組織文檔。他們在審查、共享和保護內容方面也有很好的認知。
+subTitle: 參加該測驗的應試者應具有相當於六個月至一年的實際操作實踐經驗，可以使用 Microsoft Office Word 2007 建立業務可交付成果，並且可能具有使用 Office Word 早期版本的經驗。這些應試者特別擅長透過使用適合所呈現資訊的格式和視覺內容來建立、定制和組織文檔。他們在審查、共享和保護內容方面也有很好的認知。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t57w
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=77-601&examname=MOS:%20Using%20Microsoft%20Office%20Word%202007&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-601
+locales:
+- en
+- ru
+levels:
+- beginner
+skills:
+- 建立和自訂文檔 (25–30%)
+- 設定格式內容 (25–30%)
+- 處理視覺內容 (10–15%)
+- 整理內容 (15–20%)
+- 審核文檔 (10–15%)
+- 共享和保護內容 (5–10%)
+roles:
+- business-user
+products:
+- office-word
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Exam Replay
+  description: 查看兩份可幫助您提高成功幾率的好提議。
+  href: ../deals.md
+- title: 認證儀錶板
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 請求無障礙設施
+  description: 詳細了解有關為測驗申請調整的資訊。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 測驗政策和常見問題
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: ../certification-exam-policies.md
+

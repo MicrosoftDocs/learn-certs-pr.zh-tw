@@ -35,7 +35,6 @@ products:
 - azure-monitor
 - azure-policy
 - azure-portal
-- azure-redis-cache
 - azure-resource-manager
 - azure-sdks
 - azure-service-bus

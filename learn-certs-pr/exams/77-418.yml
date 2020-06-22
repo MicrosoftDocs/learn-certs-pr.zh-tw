@@ -1,0 +1,59 @@
+### YamlMime:Examination
+title: Word 2013
+metadata:
+  title: 'Exam 77-418: Word 2013'
+  description: 'Exam 77-418: Word 2013'
+uid: exam.77-418
+displayName: 77-418
+summary: |-
+  <div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+
+  Microsoft Word 2013 的 Core 等級應試者應具備對 Word 環境的基本瞭解，以及獨立完成工作的能力。應試者應了解及示範 Word 2013 主要功能的正確應用。這些應試者應該能夠為各種目的和情況建立和編輯 2-3頁的文檔。範例包括具有專業外觀的報告、多欄電子報、履歷以及商業書信。應試者角色可能包括學生、文書工作者、講師等。
+subTitle: Microsoft Word 2013 的 Core 等級應試者應具備對 Word 環境的基本瞭解，以及獨立完成工作的能力。應試者應了解及示範 Word 2013 主要功能的正確應用。這些應試者應該能夠為各種目的和情況建立和編輯 2-3頁的文檔。範例包括具有專業外觀的報告、多欄電子報、履歷以及商業書信。應試者角色可能包括學生、文書工作者、講師等。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tnJC
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=77-418&examname=Word%202013&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-418
+locales:
+- en
+- zh-cn
+- zh-tw
+- de
+- es
+- fr
+- it
+- ja
+- ko
+- nb
+- nl
+- pl
+- pt-br
+- ru
+levels:
+- beginner
+skills:
+- 建立及管理文件
+- 格式化文字、段落及章節
+- 建立表格及清單
+- 套用參考
+- 插入與格式化對象
+roles:
+- business-user
+products:
+- office
+relatedCertifications:
+- related:
+    uid: certification.microsoft-office-specialist-certification-2013
+resources:
+- title: Exam Replay
+  description: 查看兩份可幫助您提高成功幾率的好提議。
+  href: ../deals.md
+- title: 認證儀錶板
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 請求無障礙設施
+  description: 詳細了解有關為測驗申請調整的資訊。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 測驗政策和常見問題
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: ../certification-exam-policies.md
+

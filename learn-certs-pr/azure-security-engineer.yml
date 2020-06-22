@@ -2,17 +2,26 @@
 title: 'Microsoft Certified: Azure Security Engineer Associate'
 metadata:
   title: 'Microsoft Certified: Azure Security Engineer Associate'
-  description: Azure 安全工程師實作安全控制和威脅防護，管理身分識別和存取，並保護雲端和混合環境中作為端到端基礎架構一部分的資料、應用程式和網路。
+  description: 'Azure 安全工程師實作安全控制和威脅防護，管理身分識別和存取，並保護雲端和混合環境中作為端到端基礎架構一部分的資料、應用程式和網路。'
 uid: certification.azure-security-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: Azure 安全工程師實作安全控制和威脅防護，管理身分識別和存取，並保護雲端和混合環境中作為端到端基礎架構一部分的資料、應用程式和網路。
+summary: |-
+  <div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
+
+  Azure 安全工程師證書的應試者應具有實作安全控制和威脅防護、管理身份和訪問以及保護雲端和混合環境中的資料、應用程式和網路（作為端到端基礎結構的一部分）等方面的主題知識。
+
+  擔任此角色的職責包括維護安全狀況、使用各種安全工具識別和補救漏洞、實作威脅防護以及對安全事件升級做出響應。
+
+  Azure 安全工程師通常是一個較大的團隊的一部分，該團隊致力於基於雲端的管理和安全性，或者作為端到端基礎結構的一部分的混合環境。
+
+  參加此認證的應試者應具有較強的腳本編寫和自動化技能；對網路、視覺效果和雲端 N 層架構的深入了解；對 Azure 的雲端功能、產品和服務以及其他 Microsoft 產品和服務非常熟悉。
 subTitle: Azure 安全工程師實作安全控制和威脅防護，管理身分識別和存取，並保護雲端和混合環境中作為端到端基礎架構一部分的資料、應用程式和網路。
 levels:
 - intermediate
 skills:
-- 管理身分識別和存取
+- 管理身份和訪問
 - 實作平台防護
-- 管理安全性操作
+- 管理安全操作
 - 保護資料和應用程式
 roles:
 - security-engineer
@@ -37,18 +46,22 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwU
 exams:
 - uid: exam.az-500
 resources:
+- title: Azure 認證海報
+  description: 查看概述，包括 Azure 的基礎知識、基於角色的和專業認證。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
 - title: 訓練和認證指南
-  description: 在簡明的訓練和認證指南中探索所有認證。
+  description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 認證海報
   description: 查看基本知識、基於角色的認證和專業認證的概述。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oWP3
-- title: 重測
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
   description: 查看兩份可幫助您提高成功幾率的好提議。
   href: deals.md
 - title: 支持認證
-  description: 通過Microsoft認證支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
+  description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
   href: help.md
 - title: 認證儀錶板
   description: 查看和管理您的預定約會、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
+

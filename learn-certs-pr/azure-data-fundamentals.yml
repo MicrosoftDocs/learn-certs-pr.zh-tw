@@ -1,0 +1,56 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Azure Data Fundamentals'
+metadata:
+  title: 'Microsoft Certified: Azure Data Fundamentals'
+  description: 該認證將於 2020 年 6 月 8 日或前後可用。Azure 資料基礎知識驗證了核心資料概念的基礎知識以及如何使用 Microsoft Azure 資料服務實作它們。
+uid: certification.azure-data-fundamentals
+iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
+summary: |-
+  <div><strong><font color='red'>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</font></strong><br/><br/></div>
+
+  Azure 資料基礎認證的應試者應具有核心資料概念的基本知識，以及如何使用 Microsoft Azure 資料服務實作這些知識。  
+
+  該認證適用於開始使用雲端中資料的應試者。  
+
+  應試者應該熟悉關係和非關係資料的概念，以及不同類型的資料工作負載，例如事務性或分析性。  
+
+  Azure 資料基礎知識可用於為其他基於 Azure 角色的認證做準備，例如 Azure Database Administrator Associate 或 Azure Data Engineer Associate，但這不是其中任何一個的先決條件。  
+
+  <div><br/><strong>注意；該認證將於 2020 年 6 月 8 日或前後可用。</strong></div>
+subTitle: 該認證將於 2020 年 6 月 8 日或前後可用。Azure 資料基礎知識驗證了核心資料概念的基礎知識以及如何使用 Microsoft Azure 資料服務實作它們。
+levels:
+- beginner
+skills:
+- 描述核心資料概念
+- 描述如何在 Azure 上使用關係資料
+- 描述如何在 Azure 上使用非關係資料
+- 描述 Azure 上的分析工作負載
+roles:
+- data-engineer
+- database-administrator
+type: fundamentals
+products:
+- azure
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wqeZ
+exams:
+- uid: exam.dp-900
+resources:
+- title: Azure 認證海報
+  description: 查看概述，包括 Azure 的基礎知識、基於角色的和專業認證。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: 訓練和認證指南
+  description: 透過一份簡潔的訓練和認證指南探索所有認證。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 認證海報
+  description: 查看基本知識、基於角色的認證和專業認證的概述。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: 查看兩份可幫助您提高成功幾率的好提議。
+  href: deals.md
+- title: 支持認證
+  description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
+  href: help.md
+- title: 認證儀錶板
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

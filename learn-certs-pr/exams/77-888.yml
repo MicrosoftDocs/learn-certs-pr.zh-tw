@@ -1,0 +1,55 @@
+### YamlMime:Examination
+title: Excel 2010 Expert
+metadata:
+  title: 'Exam 77-888: Excel 2010 Expert'
+  description: 'Exam 77-888: Excel 2010 Expert'
+uid: exam.77-888
+displayName: 77-888
+summary: |-
+  <div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+
+  專家級 Microsoft Office Excel 2010 用戶能夠在特性與功能級別高效且自信地使用 Excel 2010 軟體。專家用戶精通高階公式、函數與資料分析工具。專家用戶可操縱用於分析、演示與協作的資料。此外，專家用戶還可以操縱 Excel 選項來自訂他們的環境，以滿足不同的需求與提高他們的工作效率。
+subTitle: 專家級 Microsoft Office Excel 2010 用戶能夠在特性與功能級別高效且自信地使用 Excel 2010 軟體。專家用戶精通高階公式、函數與資料分析工具。專家用戶可操縱用於分析、演示與協作的資料。此外，專家用戶還可以操縱 Excel 選項來自訂他們的環境，以滿足不同的需求與提高他們的工作效率。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t7k0
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=77-888&examname=Excel%202010%20Expert&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-888
+locales:
+- en
+- zh-cn
+- zh-tw
+- de
+- es
+- fr
+- it
+- ja
+- ko
+- nl
+- pt-br
+levels:
+- beginner
+skills:
+- 共享與維護活頁簿
+- 套用公式與函數
+- 以可視方式呈現資料
+- 使用巨集與表單
+roles:
+- business-user
+products:
+- office-excel
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Exam Replay
+  description: 查看兩份可幫助您提高成功幾率的好提議。
+  href: ../deals.md
+- title: 認證儀錶板
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 請求無障礙設施
+  description: 詳細了解有關為測驗申請調整的資訊。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 測驗政策和常見問題
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: ../certification-exam-policies.md
+

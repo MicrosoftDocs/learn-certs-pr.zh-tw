@@ -1,0 +1,56 @@
+### YamlMime:Examination
+title: Word 2010 Expert
+metadata:
+  title: 'Exam 77-887: Word 2010 Expert'
+  description: 'Exam 77-887: Word 2010 Expert'
+uid: exam.77-887
+displayName: 77-887
+summary: |-
+  <div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+
+  專家級 Microsoft Word 2010 用戶能夠在特性與功能級別上熟練且自信地使用 Word 2010 軟體。專家用戶可使用 Word 2010 的高階功能來增強專業文件，建立可供發布的文件，及有效地協作群組編輯項目。專家用戶可操縱 Word 選項以自訂其環境從而滿足不同需求並提高生產力。
+subTitle: 專家級 Microsoft Word 2010 用戶能夠在特性與功能級別上熟練且自信地使用 Word 2010 軟體。專家用戶可使用 Word 2010 的高階功能來增強專業文件，建立可供發布的文件，及有效地協作群組編輯項目。專家用戶可操縱 Word 選項以自訂其環境從而滿足不同需求並提高生產力。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiy7
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=77-887&examname=Word%202010%20Expert&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-887
+locales:
+- en
+- zh-cn
+- zh-tw
+- de
+- es
+- fr
+- it
+- ja
+- ko
+- nl
+- pt-br
+levels:
+- beginner
+skills:
+- 共享與管理文件 (15-20%)
+- 設定內容格式 (25–30%)
+- 跟蹤與引用文件 (20-25%)
+- 執行郵件合併操作 (15–20%)
+- 管理巨集與表單 (25-30%)
+roles:
+- business-user
+products:
+- office-word
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Exam Replay
+  description: 查看兩份可幫助您提高成功幾率的好提議。
+  href: ../deals.md
+- title: 認證儀錶板
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 請求無障礙設施
+  description: 詳細了解有關為測驗申請調整的資訊。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 測驗政策和常見問題
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: ../certification-exam-policies.md
+

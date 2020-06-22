@@ -8,7 +8,7 @@ displayName: MB-400
 summary: |-
   <div>
   <div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>此測驗內容將於 2020 年 5 月 22 日更新。請下載下面的技能評估文件，以了解將發生什麼變化。<br/><br/></div>
+  <div style='font-weight&#58; bold;'>該測驗的內容更新于 2020 年 5 月 22 日.請下載下面的技能評估文件，以了解發生了什麼變化。<br/><br/></div>
   </div>
 
   本測驗的應試者是處理 Dynamics 365 中 Microsoft Power APP 模型驅動式應用程式以設計、開發、保護和擴展 Dynamics 365 實作的開發人員。應試者應實作包括應用程式增強功能、自訂使用者體驗、系統整合、資料轉換、自訂流程自動化和自訂視覺效果在內的解決方案組件。
@@ -19,15 +19,15 @@ summary: |-
 subTitle: '該測驗衡量您完成以下技術任務的能力：組建一項技術設計；設定常規資料服務 (CDS)；組建及設定 Power APP；設定業務流程自動化；擴展使用者體驗；擴展平台；以及開發整合。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE42uM0
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=MB-400&examname=Exam%20MB-400:%20Microsoft%20Power%20Apps%20+%20Dynamics%20365%20Developer&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-400
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=MB-400&examname=Exam%20MB-400:%20Microsoft%20Power Apps%20+%20Dynamics%20365%20Developer&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-400
 locales:
 - en
 levels:
 - intermediate
 skills:
-- 此測驗內容將於 2020 年 5 月 22 日更新。請下載下面的技能評估文件，以了解將發生什麼變化。
+- 該測驗的內容更新于 2020 年 5 月 22 日.請下載下面概述的測驗技能，以了解已發生什麼變化。
 - 建立一項技術設計 (10-15%)
-- 設定 Common Data Service (CDS) (15-20%)
+- 設定 Common Data Service  (15-20%)
 - 創建和設定 Power Apps (10-15%)
 - 設定業務流程自動化 (10-15%)
 - 擴展使用者體驗 (15-20%)
@@ -67,9 +67,9 @@ resources:
   description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
   href: ../help.md
 - title: 認證儀錶板
-  description: 檢閱並管理您的預定測驗、證書和成績單。
+  description: 查看和管理您的預定約會、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 要求住宿
+- title: 請求無障礙設施
   description: 詳細了解有關為測驗申請調整的資訊。
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 測驗政策和常見問題

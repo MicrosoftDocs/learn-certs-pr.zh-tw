@@ -66,6 +66,10 @@ ms.author: micsullivan
 
 | 於 2020 年 8 月 31 日撤銷 ||
 | --- | --- |
+| [MS-200](/learn/certifications/exams/ms-200): Planning and Configuring a Messaging Platform |  |
+| [MS-201](/learn/certifications/exams/ms-201): Implementing a Hybrid and Secure Messaging Platform |  |
+| [MS-300](/learn/certifications/exams/ms-300): Deploying Microsoft 365 Teamwork |  |
+| [MS-301](/learn/certifications/exams/ms-301): Deploying SharePoint Server Hybrid |  |
 | [AZ-103](https://www.microsoft.com/learning/exam-AZ-103.aspx): Microsoft Azure Administrator |  |
 | [AZ-203](https://www.microsoft.com/learning/exam-AZ-203.aspx): Developing Solutions for Microsoft Azure |  |
 
@@ -157,7 +161,7 @@ ms.author: micsullivan
 
 ## 其他已淘汰的測試
 
-| ITPro/Developer| | |
+| ITPro/Developer | | |
 | --- | --- | --- |
 | 70-086 | Implementing and Supporting Microsoft Systems Management Server 2.0 | 2008
 | 70-089 | Designing, Implementing, and Managing Microsoft Systems Management Server 2003 | 2010 年 10 月 31 日
@@ -188,7 +192,7 @@ ms.author: micsullivan
 | 70-230 | Designing and Implementing Solutions with Microsoft BizTalk Server 2000, Enterprise Edition | 2008
 | 70-232 | Implementing and Maintaining Highly Available Web Solutions with Microsoft Windows 2000 Server Technologies and Microsoft Application Center 2000 | 2008
 | 70-234 | Designing and Implementing Solutions with Microsoft Commerce Server 2000 | 2008
-| 70-235 | TS: Developing Business Process and Integration Solutions by Using Microsoft BizTalk Server 2006 | June 30, 2011
+| 70-235 | TS: Developing Business Process and Integration Solutions by Using Microsoft BizTalk Server 2006 | 2011年6月30日
 | 70-236 | TS: Exchange Server 2007, Configuring | 2012 年 9 月 30 日
 | 70-237 | Pro: Designing Messaging Solutions with Microsoft Exchange Server 2007 | 2012 年 9 月 30 日
 | 70-238 | Pro: Deploying Messaging Solutions with Microsoft Exchange Server 2007 | 2012 年 9 月 30 日
@@ -257,8 +261,8 @@ ms.author: micsullivan
 | 70-455 | Upgrade: Transition Your MCITP SQL Server 2005 BI Developer to MCITP SQL Server 2008 BI Developer | 2012 年 7 月 31 日
 | 70-457 | Transition Your MCTS on SQL Server 2008 to MCSA: SQL Server 2012, Part 1 | 2016 年 7 月 31 日
 | 70-458 | Transition Your MCTS on SQL Server 2008 to MCSA: SQL Server 2012, Part 2 | 2016 年 7 月 31 日
-| 70-459 | Transition Your MCITP: Database Administrator 2008 or MCITP: Database Developer 2008 to MCSE: Data Platform | 2016 年 1 月 31 日
-| 70-460 | Transition Your MCITP: Business Intelligence Developer 2008 to MCSE: Business Intelligence | 2016 年 1 月 31 日
+| 70-459 | Transition Your MCITP: Database Administrator 2008 or MCITP: Database Developer 2008 to MCSE: Data Platform | 2016年1月31日
+| 70-460 | Transition Your MCITP: Business Intelligence Developer 2008 to MCSE: Business Intelligence | 2016年1月31日
 | 70-469 | Recertification for MCSE: Data Platform | 2017年3月31日
 | 70-470 | Recertification for MCSE: Business Intelligence | 2017年3月31日
 | 70-481 | Essentials of Developing Windows Store Apps Using HTML5 and JavaScript | 2016 年 9 月 30 日
@@ -267,7 +271,7 @@ ms.author: micsullivan
 | 70-485 | Advanced Windows Store App Development Using C# | 2016 年 9 月 30 日
 | 70-490 | Recertification for MCSD: Windows Store Apps Using HTML5 | 2017 年 3 月 31 日
 | 70-491 | Recertification for MCSD: Windows Store Apps Using C# | 2017 年 3 月 31 日
-| 70-492 | Upgrade Your MCPD: Web Developer 4 to MCSD: Web Applications | 2016 年 9 月 30 日
+| 70-492 | Upgrade Your MCPD: Web Developer 4 to MCSD: Web Applications | 2016年9月30日
 | 70-494 | Recertification for MCSD: Web Applications | 2017年3月31日
 | 70-499 | Recertification for MCSD: Application Lifecycle Management | 2017 年 3 月 31 日
 | 70-500 | TS: Microsoft Windows Mobile 5.0, Implementing and Managing | 2011 年 3 月 31 日
@@ -290,8 +294,8 @@ ms.author: micsullivan
 | 70-528 | TS: Microsoft .NET Framework 2.0 – Web-Based Client Development | 2011 年 6 月 30 日
 | 70-529 | TS: Microsoft .NET Framework 2.0 – Distributed Application Development | 2011 年 6 月 30 日
 | 70-536 | TS: Microsoft .NET Framework – Application Development Foundation | 2013 年 7 月 31 日
-| 70-540 | TS: Microsoft Windows Mobile 5.0 – Application Development |  | 2011 年 3 月 31 日
-| 70-541 | TS: Microsoft Windows SharePoint Services 3.0 – Application Development |  | 2011 年 6 月 30 日
+| 70-540 | TS: Microsoft Windows Mobile 5.0 – Application Development | 2011 年 3 月 31 日
+| 70-541 | TS: Microsoft Windows SharePoint Services 3.0 – Application Development | 2011 年 6 月 30 日
 | 70-542 | TS: Microsoft Office SharePoint Server 2007 - Application Development | 2013 年 1月 31 日
 | 70-543 | TS: Visual Studio 2005 Tools for Office | 2011 年 3 月 31 日
 | 70-545 | TS: Microsoft Visio 2007, Application Development | 2013 年 1 月 31 日
@@ -498,7 +502,7 @@ ms.author: micsullivan
 | MB6-206 | Axapta 3.0 Installation and Configuration | 2010 年 1 月 12 日
 | MB6-282 | Axapta 3.0 HRM | 2010 年 1 月 12 日
 | MB6-283 | Axapta 3.0 Questionnaire | 2010 年 1 月 12 日
-| MB6-284 | Axapta 3.0 Projects | 2010 年
+| MB6-284 | Axapta 3.0 Projects | 2010
 | MB6-285 | Axapta 3.0 Sales and Marketing | 2011 年 12 月 31 日
 | MB6-288 | Axapta 3.0 Product Builder | 2010 年 1 月 12 日
 | MB6-291 | Axapta 3.0 Shop Floor Control | 2011 年 12 月 31 日

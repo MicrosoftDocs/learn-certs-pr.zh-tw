@@ -8,17 +8,23 @@ displayName: AZ-500
 summary: |-
   <div>
   <div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>此測驗內容將於 2020 年 5 月 20 日更新。請下載下面的技能評估文件，以了解將發生什麼變化。<br/><br/></div>
+  <div style='font-weight&#58; bold;'> 此測驗內容將於 2020 年 7 月 29 日更新。請下載下面概述的測驗技能，以了解將會發生什麼變化。<br/><br/></div>
   </div>
 
-  參加此測驗的應試者是 Microsoft Azure 安全工程師，他們將實作安全控制、維護安全狀態、管理身份和訪問並保護資料、應用程式和網絡。應試者可以使用各種安全工具來識別和補救漏洞，實作威脅防護，並對安全事件升級做出響應。作為 Microsoft Azure 安全工程師，應試者通常是致力於基於雲端的管理和安全性的較大團隊中的一員，並且還可以保護混合環境作為端到端基礎設施的一部分。
+  作為端到端基礎結構的一部分，參加此測驗的應試者應具有主題方面的專業知識，以實施安全控制和威脅防護、管理身份和存取以及保護雲端和混合環境中的資料、應用程式和網路。
 
-  參加該測驗的應試者應具有較強的腳本編寫和自動化技能；對網絡、虛擬化和雲端 N 層架構的深刻理解；並且對雲端功能，Microsoft Azure 產品和服務以及其他 Microsoft 產品和服務非常熟悉。
+  Azure 安全工程師的職責包括維護安全狀況，使用各種安全工具識別和補救漏洞，實作威脅保護以及對安全事件升級做出響應。
+
+  Azure 安全工程師通常是一個較大的團隊的一部分，該團隊致力於基於雲端的管理和安全性，或者作為端到端基礎結構的一部分的混合環境。
+
+  參加該測驗的應試者應具有較強的腳本編寫和自動化技能；對網路、視覺效果和雲端 N 層架構的深刻理解；對 Azure 的雲端功能、產品和服務以及其他 Microsoft 產品和服務非常熟悉。
 subTitle: '這項測驗衡量您完成以下技術任務的能力：管理身份和訪問權限；實作平台保護；管理安全操作；和安全的資料和應用程式。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC70
 practiceTestUrl: https://www.mindhub.com/p/MU-AZ-500?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=AZ-500&examname=Exam%20AZ-500:%20Microsoft%20Azure%20Security%20Technologies&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-500
+providers:
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=AZ-500&examname=Exam%20AZ-500:%20Microsoft%20Azure%20Security%20Technologies&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-500
 locales:
 - en
 - ja
@@ -27,9 +33,9 @@ locales:
 levels:
 - intermediate
 skills:
-- 此測驗內容將於 2020 年 5 月 20 日更新。請下載下面概述的測驗技能，以了解將會發生什麼變化。
+- 此測驗內容將於 2020 年 7 月 29 日更新。請下載下面概述的測驗技能，以了解將會發生什麼變化。
 - 管理身份和訪問 (20-25%)
-- 實作平台保護 (35-40%)
+- 實作平台防護 (35-40%)
 - 管理安全操作 (15-20%)
 - 保護資料和應用程式 (30-35%)
 roles:
@@ -67,9 +73,9 @@ resources:
   description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
   href: ../help.md
 - title: 認證儀錶板
-  description: 檢閱並管理您的預定測驗、證書和成績單。
+  description: 查看和管理您的預定約會、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 要求住宿
+- title: 請求無障礙設施
   description: 詳細了解有關為測驗申請調整的資訊。
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 測驗政策和常見問題

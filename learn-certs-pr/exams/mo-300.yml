@@ -5,22 +5,35 @@ metadata:
   description: 'MO-300: Microsoft PowerPoint (PowerPoint and PowerPoint 2019)'
 uid: exam.mo-300
 displayName: MO-300
-summary: 獲得此認證的個人擁有大約150個小時的教學經驗和產品實踐經驗，已在產業助理層面證明其能力，並準備進入工作 市場。他們可以展示PowerPoint主要功能的正確應用，並可以獨立完成任務。
-subTitle: 此測驗評量建立，編輯和增強簡報和投影片的能力，包括建立和管理簡報，插入和格式化圖形和投影片，建立投影片內容，套用轉換和動畫以及管理多個簡報的能力。簡報範例包括專業級銷售簡報，員工訓練，教學材料與展台投影片演示。
+summary: |-
+  <div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+
+  該測驗涵蓋以下功能：創建和管理簡報，插入和格式設定形狀和投影片，創建投影片內容，應用過渡和動畫以及管理多個簡報。演示示例包括專業級銷售演示，員工訓練，教學材料和展台投影片演示。應試者應演示 PowerPoint 的主要功能的正確應用，並獨立完成任務。
+subTitle: 此測驗評量建立，編輯和增強簡報和投影片的能力，包括建立和管理簡報，插入和格式化圖形和投影片，建立投影片內容，套用轉換和動畫以及管理多個簡報的能力。演示示例包括專業級銷售演示，員工訓練，教學材料和展台投影片演示。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3WS8R
+providers:
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
-providers:
-  - providerType: certiport
-    examUrl: https://www.certiport.com/locator
+- en-my
+- de
+- es
+- id-id
+- ko
+- nl
+- it
+- ru
+- fr
+- pt-br
 levels:
 - intermediate
 skills:
 - 管理多個簡報
 - 管理投影片
 - 插入與格式化文字、形狀與影像
-- 插入表格，圖表，smartArt，3D模型和媒體
+- 插入表格，圖表，smartArt，3D 模型和媒體
 - 套用轉場與動畫
 roles:
 - developer
@@ -32,14 +45,15 @@ relatedCertifications:
     uid: certification.mos-powerpoint-2019
 resources:
 - title: 訓練和認證指南
-  description: 在簡明的訓練和認證指南中探索所有認證。
+  description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 認證儀錶板
   description: 查看和管理您的預定約會、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 申請調整
+- title: 請求無障礙設施
   description: 詳細了解有關為測驗申請調整的資訊。
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 測驗政策和常見問題
   description: 查看測驗政策和常見問題。
   href: ../certification-exam-policies.md
+

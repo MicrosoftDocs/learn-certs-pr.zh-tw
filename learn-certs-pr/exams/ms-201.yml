@@ -1,61 +1,71 @@
 ### YamlMime:Examination
 title: Implementing a Hybrid and Secure Messaging Platform
 metadata:
-  title: '測驗 MS-201: Implementing a Hybrid and Secure Messaging Platform'
-  description: '測驗 MS-201: Implementing a Hybrid and Secure Messaging Platform'
+  title: 'Exam MS-201: Implementing a Hybrid and Secure Messaging Platform'
+  description: 'Exam MS-201: Implementing a Hybrid and Secure Messaging Platform'
 uid: exam.ms-201
 displayName: MS-201
-summary: >-
-  該測驗的應試者是消息傳遞管理員，他們在本地和雲企業環境中部署、配置、管理、故障排除和監視收件人、權限、郵件保護、郵件流和公共文件夾。
+summary: |-
+  <div>
+  <div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>此測驗的新版本 , <a href="/learn/certifications/exams/ms-203">MS-203</a>, 將於 2020 年 6 月 2 日提供。您將可以參加此測驗，直到2020年8月31日當日或前後淘汰。附註：測驗將在中部標準時間晚間11點59分到期。<br/><br/></div>
+  </div>
 
+  該測驗的應試者是消息傳遞管理員，他們在本地和雲企業環境中部署、配置、管理、故障排除和監視收件人、權限、郵件保護、郵件流和公共文件夾。
 
   消息傳遞管理員負責管理衛生、消息傳遞基礎設施、混合配置、移轉、災難恢復、高可用性和客戶機存取。
 
-
   消息傳遞管理員與安全管理員和 Microsoft 365 企業管理員協作，以實現滿足現代組織業務需求的安全混合拓撲。
 
-
   消息傳遞管理員應該具有身份驗證類型、許可以及與 Microsoft 365 應用程式集成的實用知識。
-subTitle: 這項測驗衡量了您完成以下技術任務的能力：規劃和實作混合配置和移轉；保護消息傳遞環境；和管理組織設置。
+
+  <div style='font-weight&#58; bold;'><br/>附註：如果您通過測驗，將獲得以下認證：<a href="/learn/certifications/m365-messaging-administrator">Microsoft 365 Certified&#58; Messaging Administrator Associate</a>.</div>
+subTitle: '這項測驗衡量了您完成以下技術任務的能力：規劃和實作混合配置和移轉；保護消息傳遞環境；和管理組織設置。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUk9
+practiceTestUrl: https://www.mindhub.com/p/MU-MS-201?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=MS-201&examname=Exam%20MS-201:%20Implementing%20a%20Hybrid%20and%20Secure%20Messaging%20Platform&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-201
 locales:
 - en
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=MS-201&examname=測驗%20MS-201:%20Implementing%20a%20Hybrid%20and%20Secure%20Messaging%20Platform&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2Fms-201
 levels:
 - intermediate
 skills:
 - 計劃和實作混合配置和移轉 (35-40%)
 - 保護消息傳遞環境 (40-45%)
 - 管理組織設置 (15-20%)
+retirementDate: 08/31/2020
 roles:
 - administrator
-exams:
-- uid: exam.ms-200
 products:
 - m365
+exams:
+- uid: exam.ms-200
 courses:
 - uid: course.ms-201t01
 - uid: course.ms-201t02
 relatedCertifications:
 - related:
-    uid: certification.m365-messaging-administrator
+    uid: none
 resources:
 - title: 訓練和認證指南
-  description: 在簡明的訓練和認證指南中探索所有認證。
+  description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 重測
+- title: 認證海報
+  description: 查看基本知識、基於角色的認證和專業認證的概述。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
   description: 查看兩份可幫助您提高成功幾率的好提議。
   href: ../deals.md
 - title: 支持認證考試
-  description: 通過Microsoft認證支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
+  description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
   href: ../help.md
 - title: 認證儀錶板
   description: 查看和管理您的預定約會、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 申請調整
+- title: 請求無障礙設施
   description: 詳細了解有關為測驗申請調整的資訊。
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 測驗政策和常見問題
   description: 查看測驗政策和常見問題。
   href: ../certification-exam-policies.md
+
